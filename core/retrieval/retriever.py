@@ -3,7 +3,7 @@ from core.loader.bm25_loader import BM25Loader
 from core.processing.preprocessing import preprocess
 from core.loader.semanitic_loader import SemanticLoader
 from core.retrieval.hybrid import HybridRetriever
-
+from config import path
 
 # Strategies
 BM25 = "bm25"
@@ -11,8 +11,8 @@ SEMANTIC = "semantic"
 HYBRID = "hybrid"
 
 # Setting
-BM25_PATH = "save/dinh-doc-lap-knowledge-indexes-bm25.pkl"
-SEMANTIC_PATH = "save/dinh-doc-lap-intents-indexes-bge-m3.pkl"
+BM25_PATH = path.PROJECT_ROOT / "save/dinh-doc-lap-knowledge-indexes-bm25.pkl"
+SEMANTIC_PATH = path.PROJECT_ROOT / "save/dinh-doc-lap-intents-indexes-bge-m3.pkl"
 
 class Retriever(BaseRetriever):
     def __init__(self, strategy):

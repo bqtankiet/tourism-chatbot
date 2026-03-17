@@ -8,11 +8,11 @@ Phần này cung cấp thông tin chi tiết về vị trí địa lý và bối
 
   * **Decimal:** 10.776944° N, 106.695274° E
   * **DMS:** 10°46′36.99″ N, 106°41′42.99″ E
-  * **UTM:** Easting 685,361.42 — Northing 1,191,829.08 ([LatLong][1])
+  * **UTM:** Easting 685,361.42 — Northing 1,191,829.08 
 
 * **Địa chỉ hành chính:**
 
-  * 135 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh, Việt Nam. ([Wikipedia][2])
+  * 135 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh, Việt Nam. 
 
 * **Khu vực hành chính:**
 
@@ -24,22 +24,22 @@ Phần này cung cấp thông tin chi tiết về vị trí địa lý và bối
 * **Ngữ cảnh đô thị:**
 
   * Nằm tại **trung tâm hành chính – lịch sử của TP.HCM**, thuộc khu vực từng là lõi quy hoạch của Sài Gòn thời Pháp thuộc.
-  * Khu vực này tập trung nhiều cơ quan chính phủ, di tích lịch sử và công trình kiến trúc quan trọng. ([Asia Travel and Leisure][3])
+  * Khu vực này tập trung nhiều cơ quan chính phủ, di tích lịch sử và công trình kiến trúc quan trọng.
 
 * **Các trục đường bao quanh khuôn viên:**
 
   * **Nam Kỳ Khởi Nghĩa** – phía Đông Bắc
   * **Nguyễn Thị Minh Khai** – phía Tây Bắc
   * **Huyền Trân Công Chúa** – phía Tây Nam
-  * **Nguyễn Du** – phía Đông Nam ([Mytour.vn][4])
+  * **Nguyễn Du** – phía Đông Nam 
 
 * **Mặt chính của công trình:**
 
-  * Hướng ra **đại lộ Lê Duẩn**, một trong những đại lộ lớn và mang tính biểu tượng của trung tâm thành phố. ([vietnam.vn][5])
+  * Hướng ra **đại lộ Lê Duẩn**, một trong những đại lộ lớn và mang tính biểu tượng của trung tâm thành phố. 
 
 * **Các địa danh lân cận quan trọng:**
 
-  * **Công viên 30/4** – nằm phía trước khu vực dinh. ([Wikipedia][6])
+  * **Công viên 30/4** – nằm phía trước khu vực dinh.
   * **Nhà thờ Đức Bà Sài Gòn** – cách khoảng vài trăm mét về phía Đông Bắc.
   * **Bưu điện Trung tâm Sài Gòn** – gần Nhà thờ Đức Bà.
   * **Turtle Lake (Hồ Con Rùa)** – khu quảng trường và giao lộ lớn của trung tâm thành phố.
@@ -52,20 +52,13 @@ Phần này cung cấp thông tin chi tiết về vị trí địa lý và bối
 
 * **Diện tích khuôn viên:**
 
-  * Khoảng **120.000 m²**, bao gồm công trình chính, sân vườn và khu cảnh quan cây xanh xung quanh. ([Wikipedia][2])
+  * Khoảng **120.000 m²**, bao gồm công trình chính, sân vườn và khu cảnh quan cây xanh xung quanh.
 
 * **Đặc điểm không gian:**
 
   * Khuôn viên rộng với nhiều **cây cổ thụ từ thời Pháp thuộc**.
-  * Bao gồm các **bãi cỏ, hồ cảnh quan, lối đi và khu trưng bày ngoài trời** (ví dụ xe tăng lịch sử). ([Mytour.vn][4])
+  * Bao gồm các **bãi cỏ, hồ cảnh quan, lối đi và khu trưng bày ngoài trời** (ví dụ xe tăng lịch sử).
 
 ---
 
 Nếu bạn muốn, mình có thể tiếp tục **chuẩn hóa toàn bộ schema thông tin cho Dinh Độc Lập (7 nhóm dữ liệu du lịch)** giống như kiến trúc bạn đang xây cho **RAG travel knowledge base** để dùng trực tiếp làm **template cho mọi điểm du lịch**. Điều đó sẽ giúp dataset rất sạch và dễ truy vấn.
-
-[1]: https://www.latlong.net/place/independence-palace-ho-chi-minh-city-vietnam-1279.html?utm_source=chatgpt.com "Where is Independence Palace, Ho Chi Minh City, Vietnam on Map Lat Long Coordinates"
-[2]: https://en.wikipedia.org/wiki/Independence_Palace?utm_source=chatgpt.com "Independence Palace"
-[3]: https://asiatravelandleisure.com/travel-guides/vietnam/reunification-palace-dinh-doc-lap.html?utm_source=chatgpt.com "Reunification Palace (Dinh Độc Lập)"
-[4]: https://mytour.vn/vi/blog/bai-viet/experience-the-wonders-of-independence-palace-from-a-to-z.html?utm_source=chatgpt.com "Explore Dinh Doc Lap: A Comprehensive Guide"
-[5]: https://www.vietnam.vn/en/dinh-doc-lap-diem-den-ngay-thong-nhat?utm_source=chatgpt.com "Independence Palace - a destination for Reunification Day"
-[6]: https://en.wikipedia.org/wiki/April_30_Park?utm_source=chatgpt.com "April 30 Park"
