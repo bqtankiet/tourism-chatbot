@@ -1,0 +1,55 @@
+﻿{
+    "context_summary":  "Câu hỏi thường gặp về Văn Miếu - Quốc Tử Giám dùng cho chatbot tư vấn du lịch.",
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Văn Miếu - Quốc Tử Giám ở đâu?",
+                          "answer":  "Văn Miếu - Quốc Tử Giám nằm tại 58 Quốc Tử Giám, Đống Đa, Hà Nội."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "Giờ hoạt động của Văn Miếu - Quốc Tử Giám thế nào?",
+                          "answer":  "Thông tin tham khảo: thường mở cửa ban ngày theo mùa. Nên kiểm tra cập nhật trước khi đi."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "Đi Văn Miếu - Quốc Tử Giám có mất vé không?",
+                          "answer":  "Chi phí phụ thuộc loại hình tham quan; tham khảo: vé tham quan phổ thông, có ưu đãi theo đối tượng."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Nên đi Văn Miếu - Quốc Tử Giám lúc nào đẹp?",
+                          "answer":  "Thời điểm gợi ý: mùa thu, mùa xuân, buổi sáng."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "Văn Miếu - Quốc Tử Giám có gì nổi bật?",
+                          "answer":  "Điểm nhấn chính gồm: Khuê Văn Các, bia tiến sĩ, sân vườn cổ."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Đi Văn Miếu - Quốc Tử Giám bằng cách nào thuận tiện?",
+                          "answer":  "Cách di chuyển phổ biến: xe buýt/taxi/xe công nghệ."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "Khi đi Văn Miếu - Quốc Tử Giám cần lưu ý gì?",
+                          "answer":  "Nên tuân thủ quy định chung: ăn mặc lịch sự, không chạm hiện vật."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "Văn Miếu - Quốc Tử Giám phù hợp đi với ai?",
+                          "answer":  "Phù hợp cho gia đình, cặp đôi, nhóm bạn và khách quốc tế."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Có thể kết hợp điểm nào gần ",
+                          "answer":  "Bạn có thể kết hợp: Hoàng thành Thăng Long, Hồ Hoàn Kiếm, Bảo tàng Mỹ thuật."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "Thời tiết ảnh hưởng thế nào khi đi ",
+                          "answer":  "Đặc điểm thời tiết: 4 mùa rõ rệt, mùa hè nóng ẩm. Nên xem dự báo trước chuyến đi."
+                      }
+                  ]
+}

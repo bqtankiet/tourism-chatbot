@@ -1,0 +1,55 @@
+﻿{
+    "context_summary":  "Câu hỏi thường gặp về Nhà thờ Đức Bà Sài Gòn phục vụ chatbot tư vấn lịch trình trung tâm TP.HCM.",
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Nhà thờ Đức Bà ở đâu?",
+                          "answer":  "Nhà thờ Đức Bà nằm tại khu Công xã Paris, Quận 1, TP.HCM, đối diện Bưu điện Trung tâm."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "Tham quan Nhà thờ Đức Bà có mất vé không?",
+                          "answer":  "Khu vực bên ngoài nhà thờ là không gian công cộng, tham quan và chụp ảnh thường miễn phí."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "Có vào bên trong Nhà thờ Đức Bà để tham quan được không?",
+                          "answer":  "Khả năng tham quan bên trong phụ thuộc tiến độ trùng tu và lịch mục vụ. Nên kiểm tra thông báo mới nhất trước khi đi."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Giờ nào chụp ảnh Nhà thờ Đức Bà đẹp?",
+                          "answer":  "Buổi sáng sớm và cuối chiều thường có ánh sáng đẹp, nhiệt độ dễ chịu hơn."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "Có điểm nào gần Nhà thờ Đức Bà để đi cùng?",
+                          "answer":  "Bạn có thể kết hợp Bưu điện Trung tâm, Đường sách Nguyễn Văn Bình, Công viên 30/4 và khu trung tâm Quận 1."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Có cần lưu ý gì khi đến khu nhà thờ?",
+                          "answer":  "Nên ăn mặc lịch sự, giữ trật tự, tôn trọng không gian tôn giáo và tuân thủ hướng dẫn tại chỗ."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "Gửi xe gần Nhà thờ Đức Bà ở đâu?",
+                          "answer":  "Có nhiều điểm gửi xe ở khu trung tâm Quận 1; nên chọn bãi chính thức và hỏi giá trước."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "Khu vực Nhà thờ Đức Bà có phù hợp đi bộ không?",
+                          "answer":  "Phù hợp cho đi bộ tham quan cụm di tích trung tâm vì các điểm nổi bật nằm gần nhau."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Có nên đi Nhà thờ Đức Bà khi trời mưa?",
+                          "answer":  "Vẫn có thể đi nhưng trải nghiệm ngoài trời bị hạn chế. Nên mang ô/áo mưa mỏng và bảo vệ thiết bị điện tử."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "Nhà thờ Đức Bà có ý nghĩa gì với Sài Gòn?",
+                          "answer":  "Đây là biểu tượng kiến trúc - văn hóa lâu đời của thành phố, gắn với lịch sử hình thành khu trung tâm Sài Gòn."
+                      }
+                  ]
+}

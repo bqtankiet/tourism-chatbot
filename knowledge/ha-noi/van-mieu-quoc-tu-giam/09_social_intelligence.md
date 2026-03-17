@@ -1,0 +1,5 @@
+﻿## 9. Social Intelligence - Văn Miếu - Quốc Tử Giám
+
+- Phù hợp: gia đình, cặp đôi, nhóm bạn, khách quốc tế.
+- Khung giờ chụp ảnh đẹp: sáng sớm hoặc chiều muộn.
+- Mẹo trải nghiệm: đi ngày thường để đỡ đông và dễ di chuyển.
