@@ -6,7 +6,7 @@ class LLM:
 
     def __init__(
         self,
-        model="ollama/qwen3:1.7b",
+        model="ollama/qwen3:0.6b",
         temperature=0.3,
         max_tokens=1024
     ):
