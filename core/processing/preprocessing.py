@@ -1,13 +1,9 @@
 import re
 import string
+from utils.load_stopwords import load_stopwords
 from underthesea import word_tokenize
 
-with open("stopwords/vietnamese-stopwords.txt", "r", encoding="utf-8") as f:
-    stopwords = set([w.strip() for w in f])
-
-with open("stopwords/vietnamese-stopwords-dash.txt", "r", encoding="utf-8") as f:
-    stopwords_dash = set([w.strip() for w in f])
-
+stopwords, stopwords_dash = load_stopwords()
 
 def clean_text(text):
     text = text.lower()
