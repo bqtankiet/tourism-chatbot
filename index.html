@@ -286,13 +286,50 @@
                 opacity: 1;
             }
         }
+
+        @media (max-width: 768px) {
+            .side-panel {
+                position: fixed;
+                top: 0;
+                right: -100%;
+                width: 80%;
+                height: 100%;
+                z-index: 999;
+                transition: right 0.3s ease;
+                box-shadow: -2px 0 5px rgba(0, 0, 0, 0.2);
+            }
+
+            .side-panel.active {
+                right: 0;
+            }
+
+            #panelToggle {
+                display: block;
+            }
+        }
+
+        /* Ẩn nút trên màn hình lớn */
+        #panelToggle {
+            display: none;
+            /* mặc định ẩn */
+        }
+
+        /* Hiển thị nút trên màn hình nhỏ */
+        @media (max-width: 768px) {
+            #panelToggle {
+                display: block;
+            }
+        }
     </style>
 </head>
 
 <body>
 
     <div class="app-container" id="appContainer">
-
+        <button id="panelToggle" class="btn btn-primary"
+            style="position: fixed; top: 10px; right: 10px; z-index: 1000; background-color: #b93435; border: none">
+            ☰ Menu
+        </button>
         <!-- CHAT -->
         <div class="chat-section">
             <div class="chat-wrapper">
@@ -398,8 +435,6 @@
         <!-- PANEL -->
         <div class="side-panel">
             <div class="panel-content" id="panelContent">
-                <h4>🗺️ Panel hiển thị</h4>
-                <p>Map / info sẽ render ở đây</p>
             </div>
         </div>
 
@@ -580,6 +615,12 @@
             quickMoved = true;
         }
 
+        const panelToggle = document.getElementById('panelToggle');
+        const sidePanel = document.querySelector('.side-panel');
+
+        panelToggle.addEventListener('click', () => {
+            sidePanel.classList.toggle('active');
+        });
     </script>
 
 </body>
