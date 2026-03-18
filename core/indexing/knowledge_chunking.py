@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 from typing import Any
-from core.retrieval.topic_detector import TopicDetector
+from core.retrieval.topic_detector import TopicDetector, ensure_topic_detector
 
 
 try:
@@ -21,6 +21,7 @@ class KnowledgeTopicChunker:
 
     DEFAULT_TOPIC_MAP_PATH = Path("knowledge/topic_maps.json")
     DEFAULT_TOPIC_DETECTOR_DIR = Path("save/topic_detector")
+    DEFAULT_TOPIC_MODEL = "BAAI/bge-m3"
 
     def __init__(
         self,
@@ -36,15 +37,23 @@ class KnowledgeTopicChunker:
             if topic_map_path is not None
             else self.project_root / self.DEFAULT_TOPIC_MAP_PATH
         )
-        self.chunk_size = chunk_size
-        self.chunk_overlap = chunk_overlap
-
-        self.topic_map = self._load_topic_map(self.topic_map_path)
         self.topic_detector_dir = (
             Path(topic_detector_dir)
             if topic_detector_dir is not None
             else self.project_root / self.DEFAULT_TOPIC_DETECTOR_DIR
         )
+
+        ensure_chunking_prerequisites(
+            project_root=self.project_root,
+            topic_map_path=self.topic_map_path,
+            topic_detector_dir=self.topic_detector_dir,
+            topic_model=self.DEFAULT_TOPIC_MODEL,
+        )
+
+        self.chunk_size = chunk_size
+        self.chunk_overlap = chunk_overlap
+
+        self.topic_map = self._load_topic_map(self.topic_map_path)
 
         if not self.topic_detector_dir.exists():
             raise ValueError(
@@ -212,14 +221,68 @@ class KnowledgeTopicChunker:
             json.dump(chunks, f, ensure_ascii=False, indent=2)
 
 
+def ensure_chunking_prerequisites(
+    project_root: str | Path,
+    topic_map_path: str | Path = KnowledgeTopicChunker.DEFAULT_TOPIC_MAP_PATH,
+    topic_detector_dir: str | Path = KnowledgeTopicChunker.DEFAULT_TOPIC_DETECTOR_DIR,
+    topic_model: str = KnowledgeTopicChunker.DEFAULT_TOPIC_MODEL,
+    force_rebuild_detector: bool = False,
+) -> dict:
+    project_root = Path(project_root)
+
+    resolved_topic_map_path = Path(topic_map_path)
+    if not resolved_topic_map_path.is_absolute():
+        resolved_topic_map_path = project_root / resolved_topic_map_path
+
+    resolved_detector_dir = Path(topic_detector_dir)
+    if not resolved_detector_dir.is_absolute():
+        resolved_detector_dir = project_root / resolved_detector_dir
+
+    resolved_topic_map_path.parent.mkdir(parents=True, exist_ok=True)
+    resolved_detector_dir.mkdir(parents=True, exist_ok=True)
+
+    created_topic_map = False
+    if not resolved_topic_map_path.exists():
+        # Minimal bootstrap topic map so chunking pipeline can initialize.
+        bootstrap_topic_map = {
+            "unknown": {
+                "queries": [
+                    "thong tin du lich",
+                    "gioi thieu dia diem",
+                    "chi tiet dia diem",
+                ]
+            }
+        }
+        with open(resolved_topic_map_path, "w", encoding="utf-8") as f:
+            json.dump(bootstrap_topic_map, f, ensure_ascii=False, indent=2)
+        created_topic_map = True
+
+    detector_result = ensure_topic_detector(
+        project_root=project_root,
+        topic_map_path=resolved_topic_map_path,
+        save_dir=resolved_detector_dir,
+        model=topic_model,
+        force_rebuild=force_rebuild_detector,
+    )
+
+    return {
+        "topic_map_path": str(resolved_topic_map_path),
+        "topic_detector_dir": str(resolved_detector_dir),
+        "created_topic_map": created_topic_map,
+        "detector_built": detector_result is not None,
+    }
+
+
 if __name__ == "__main__":
     from config import path
     root = path.PROJECT_ROOT
+    prep = ensure_chunking_prerequisites(project_root=root)
     chunker = KnowledgeTopicChunker(project_root=root)
 
     chunks = chunker.chunk_knowledge("knowledge")
     output_file = root / "save" / "knowledge_topic_chunks.json"
     chunker.save_chunks_json(output_file, chunks)
 
+    print(f"Prepare: {prep}")
     print(f"Total chunks: {len(chunks)}")
     print(f"Saved to: {output_file}")

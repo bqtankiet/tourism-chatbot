@@ -40,7 +40,10 @@ class ChatResponseBody(BaseModel):
 
 @app.get("/health")
 def health():
-    return {"status": "ok"}
+    return {
+        "status": "ok",
+        "startup": getattr(chat_engine, "startup_report", None),
+    }
 
 
 @app.post("/chat", response_model=ChatResponseBody)

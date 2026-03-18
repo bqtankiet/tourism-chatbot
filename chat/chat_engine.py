@@ -1,7 +1,7 @@
 
 from chat.llm import LLM
 from config import path
-from core.indexing.faiss_topic_indexing import ensure_faiss_topic_index
+from core.indexing.startup_pipeline import prepare_chat_engine_data
 from core.retrieval.retriever import Retriever
 from core.retrieval.skip_retrieval import should_skip_retrieval
 from chat.chat_response import ChatResponse
@@ -9,7 +9,7 @@ from core.loader.model_cache import get_or_create_model
 
 class ChatEngine:
     def __init__(self):
-        ensure_faiss_topic_index(project_root=path.PROJECT_ROOT)
+        self.startup_report = prepare_chat_engine_data(project_root=path.PROJECT_ROOT)
         self.retriever = Retriever()
 
         self.llm = get_or_create_model(

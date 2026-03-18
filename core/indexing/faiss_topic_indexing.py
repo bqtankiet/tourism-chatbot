@@ -7,6 +7,7 @@ from sentence_transformers import SentenceTransformer
 
 from core.indexing.knowledge_chunking import KnowledgeTopicChunker
 from core.loader.model_cache import get_or_create_model
+from core.retrieval.topic_detector import ensure_topic_detector
 import faiss
 
 
@@ -167,6 +168,8 @@ def ensure_faiss_topic_index(
 
     if not force_rebuild and (manifest_pkl.exists() or manifest_json.exists()):
         return None
+
+    ensure_topic_detector(project_root=project_root)
 
     indexer = FaissTopicIndexer(project_root=project_root, model_name=model_name)
     return indexer.build(knowledge_dir=knowledge_dir, output_dir=resolved_output_dir)
