@@ -63,28 +63,15 @@ def chat_stream(req: ChatRequest):
     if not req.query.strip():
         raise HTTPException(status_code=400, detail="query không được để trống")
 
-    from core.retrieval.skip_retrieval import should_skip_retrieval
-    from chat.chat_engine import ChatEngine as _CE
-
-    engine = chat_engine
-
-    def token_generator() -> Generator[str, None, None]:
-        query_clean = req.query.strip()
-        skip = should_skip_retrieval(query_clean)
-
-        context = ""
-        if not skip:
-            results = engine.retriever.search_threshold(query_clean, threshold=req.threshold)
-            context = engine.context_builder.build_text(results) if results else ""
-
-        for token in engine.llm.generate(query_clean, context, stream=True):
-            # SSE format: "data: <token>\n\n"
+    def event_generator():
+        for token in chat_engine.chat_stream(
+            req.query,
+            threshold=req.threshold
+        ):
             yield f"data: {token}\n\n"
 
-        yield "data: [DONE]\n\n"
-
     return StreamingResponse(
-        token_generator(),
+        event_generator(),
         media_type="text/event-stream",
         headers={
             "Cache-Control": "no-cache",

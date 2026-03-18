@@ -55,10 +55,26 @@ class ChatEngine:
             token_usage=token_usage,
             debug=debug
         )
+    
+    from typing import Generator
+    def chat_stream(
+        self, query: str, threshold=0.5, top_k=20
+        ) -> Generator[str, None, None]:
 
-def chat(query: str) -> ChatResponse:
-    global _engine
-    if "_engine" not in globals():
-        _engine = ChatEngine()
+        query_clean = query.strip()
+        skip = should_skip_retrieval(query_clean)
 
-    return _engine.chat(query)
+        results = []
+        context = ""
+
+        if not skip:
+            results = self.retriever.search_threshold(
+                query_clean, threshold=threshold, top_k=top_k
+            )
+            context = self.retriever.build_context(results) if results else ""
+
+        # stream token
+        for token in self.llm.generate(query_clean, context, stream=True):
+            yield token
+
+        yield "[DONE]"
