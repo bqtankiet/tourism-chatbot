@@ -14,6 +14,9 @@
   <i>Web UI demo • AI inference deployed on Hugging Face Spaces</i>
 </p>
 
+![image](/assets/image.png)
+![image2](/assets/image2.png)
+
 ---
 
 ## 🚀 Giới thiệu
