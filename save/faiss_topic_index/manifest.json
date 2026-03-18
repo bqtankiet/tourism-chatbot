@@ -1,0 +1,9 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "dimension": 1024,
+  "num_vectors": 187,
+  "knowledge_dir": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\latech\\project\\knowledge",
+  "index_path": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\latech\\project\\save\\faiss_topic_index\\topic_chunks.index",
+  "vectors_path": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\latech\\project\\save\\faiss_topic_index\\topic_vectors.npy",
+  "metadata_path": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\latech\\project\\save\\faiss_topic_index\\topic_metadata.json"
+}

@@ -1,9 +1,13 @@
 from sentence_transformers import SentenceTransformer
 import numpy as np
+from core.loader.model_cache import get_or_create_model
 
 class TopicDetector:
     def __init__(self, topic_map, model = "BAAI/bge-m3"):
-        self.model = SentenceTransformer(model)
+        self.model = get_or_create_model(
+            cache_key=("SentenceTransformer", model),
+            factory=lambda: SentenceTransformer(model),
+        )
 
         self.topic_map = topic_map
 
@@ -61,7 +65,6 @@ class TopicDetector:
     @classmethod
     def load(cls, save_dir, model="BAAI/bge-m3"):
         import os, json, numpy as np
-        from sentence_transformers import SentenceTransformer
 
         # load metadata
         with open(os.path.join(save_dir, "meta.json"), "r", encoding="utf-8") as f:
@@ -72,7 +75,10 @@ class TopicDetector:
 
         # model trong meta nếu có
         model_name = meta.get("model_name") or model
-        model = SentenceTransformer(model_name)
+        model = get_or_create_model(
+            cache_key=("SentenceTransformer", model_name),
+            factory=lambda: SentenceTransformer(model_name),
+        )
 
         # tạo object
         obj = cls.__new__(cls)

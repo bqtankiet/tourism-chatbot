@@ -1,6 +1,7 @@
 import pickle
 from core.retrieval.semantic import SemanticRetriever
 from sentence_transformers import SentenceTransformer
+from core.loader.model_cache import get_or_create_model
 
 class SemanticLoader:
 
@@ -25,6 +26,9 @@ class SemanticLoader:
 
         # load lại model
         retriever.model_name = data["model_name"]
-        retriever.model = SentenceTransformer(retriever.model_name)
+        retriever.model = get_or_create_model(
+            cache_key=("SentenceTransformer", retriever.model_name),
+            factory=lambda: SentenceTransformer(retriever.model_name),
+        )
 
         return retriever

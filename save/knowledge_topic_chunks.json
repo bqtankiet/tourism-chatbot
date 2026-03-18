@@ -1,0 +1,2924 @@
+[
+  {
+    "id": "da-nang/ba-na-hills/01_basic_identity.md::basic_identity::0",
+    "text": "## 1. Thông tin định danh cơ bản - Bà Nà Hills  \n- Tên chính thức: Bà Nà Hills\n- Tên tiếng Anh: Sun World Ba Na Hills\n- Thành phố: Đà Nẵng\n- Địa chỉ: xã Hòa Ninh, huyện Hòa Vang, TP. Đà Nẵng\n- Phân loại: Khu du lịch nghỉ dưỡng - giải trí trên núi\n- Mô tả ngắn: Điểm đến tiêu biểu, phù hợp nhiều nhóm du khách.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "01_basic_identity.md",
+      "source_rel_path": "da-nang/ba-na-hills/01_basic_identity.md",
+      "topic_key": "basic_identity",
+      "topic_queries_count": 50,
+      "h2": "1. Thông tin định danh cơ bản - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/01_basic_identity.md::basic_identity::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/02_geographic_context.md::nearby::0",
+    "text": "## 2. Bối cảnh địa lý - Bà Nà Hills  \n- Vị trí: xã Hòa Ninh, huyện Hòa Vang, TP. Đà Nẵng\n- Bối cảnh khu vực: trung tâm du lịch hoặc trục kết nối lớn.\n- Gợi ý: nên kết hợp các điểm gần nhau trong cùng buổi để tối ưu thời gian.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "02_geographic_context.md",
+      "source_rel_path": "da-nang/ba-na-hills/02_geographic_context.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "2. Bối cảnh địa lý - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/02_geographic_context.md::nearby::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/03_operational_info.md::operation::0",
+    "text": "## 3. Thông tin vận hành - Bà Nà Hills  \n- Giờ hoạt động tham khảo: thường mở từ sáng đến chiều/tối theo từng khu\n- Khung giờ đông: cuối tuần, dịp lễ, cuối buổi sáng.\n- Khung giờ thoáng: sáng sớm ngày thường.\n- Thời điểm đẹp: mùa khô, ngày trời quang\n- Lưu ý: nên kiểm tra lịch chính thức trước ngày đi.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "da-nang/ba-na-hills/03_operational_info.md",
+      "topic_key": "operation",
+      "topic_queries_count": 49,
+      "h2": "3. Thông tin vận hành - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/03_operational_info.md::operation::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/04_pricing_transactions.md::pricing::0",
+    "text": "## 4. Chi phí và giao dịch - Bà Nà Hills  \n- Mức chi phí tham khảo: vé cáp treo và dịch vụ thường ở mức trung-cao, thay đổi theo mùa\n- Thanh toán phổ biến: tiền mặt, QR, thẻ (tùy dịch vụ).\n- Gợi ý chatbot: luôn nhắc người dùng xác nhận giá thực tế tại thời điểm đi.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "da-nang/ba-na-hills/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Chi phí và giao dịch - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/04_pricing_transactions.md::pricing::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/05_experiences_attractions.md::experience::0",
+    "text": "## 5. Trải nghiệm và điểm nổi bật - Bà Nà Hills  \n- Điểm nhấn: Cầu Vàng, làng Pháp, cáp treo\n- Hoạt động phổ biến: tham quan, chụp ảnh, tìm hiểu văn hóa/lịch sử.\n- Lộ trình gợi ý: check-in biểu tượng -> tham quan khu chính -> kết hợp điểm gần.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "da-nang/ba-na-hills/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Trải nghiệm và điểm nổi bật - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/05_experiences_attractions.md::experience::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/06_logistics_transportation.md::transport::0",
+    "text": "## 6. Di chuyển và hậu cần - Bà Nà Hills  \n- Cách đi phổ biến: taxi/xe công nghệ/xe tour từ trung tâm\n- Mẹo: chọn điểm đón/trả rõ ràng, chủ động thời gian giờ cao điểm.\n- Đoàn đông: nên thống nhất điểm tập kết trước.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "da-nang/ba-na-hills/06_logistics_transportation.md",
+      "topic_key": "transport",
+      "topic_queries_count": 50,
+      "h2": "6. Di chuyển và hậu cần - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/06_logistics_transportation.md::transport::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/07_facilities_amenities.md::facilities::0",
+    "text": "## 7. Tiện ích và dịch vụ - Bà Nà Hills  \n- Tiện ích thường có: khu vệ sinh, điểm nghỉ chân, dịch vụ ăn uống lân cận.\n- Dịch vụ tùy nơi: thuyết minh, quà lưu niệm, hỗ trợ khách đoàn.\n- Khuyến nghị: hỏi giá trước khi sử dụng dịch vụ tự phát.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "da-nang/ba-na-hills/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Tiện ích và dịch vụ - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/07_facilities_amenities.md::facilities::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/08_rules_regulations.md::rules::0",
+    "text": "## 8. Quy định và ứng xử - Bà Nà Hills  \n- Quy định chính: xếp hàng đúng lượt, theo hướng dẫn an toàn\n- Không xả rác, không gây ồn ào quá mức.\n- Tuân thủ biển chỉ dẫn và hướng dẫn của nhân viên tại điểm.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "da-nang/ba-na-hills/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và ứng xử - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/08_rules_regulations.md::rules::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/09_social_intelligence.md::tips::0",
+    "text": "## 9. Social Intelligence - Bà Nà Hills  \n- Phù hợp: gia đình, cặp đôi, nhóm bạn, khách quốc tế.\n- Khung giờ chụp ảnh đẹp: sáng sớm hoặc chiều muộn.\n- Mẹo trải nghiệm: đi ngày thường để đỡ đông và dễ di chuyển.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "da-nang/ba-na-hills/09_social_intelligence.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "9. Social Intelligence - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/09_social_intelligence.md::tips::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/10_expert_knowledge.md::experience::0",
+    "text": "## 10. Kiến thức chuyên sâu - Bà Nà Hills  \n- Giá trị cốt lõi: biểu tượng văn hóa - du lịch của Đà Nẵng.\n- Góc nhìn chuyên sâu: bối cảnh hình thành, kiến trúc/cảnh quan, tác động du lịch địa phương.\n- Kịch bản trả lời nâng cao: ngắn gọn 30 giây, mở rộng 2-5 phút.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "da-nang/ba-na-hills/10_expert_knowledge.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "10. Kiến thức chuyên sâu - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/10_expert_knowledge.md::experience::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/11_related_places.md::nearby::0",
+    "text": "## 11. Địa điểm liên quan - Bà Nà Hills  \n- Cầu Rồng\n- Biển Mỹ Khê\n- Ngũ Hành Sơn  \n- Gợi ý tuyến: ưu tiên nhóm điểm gần nhau để tiết kiệm thời gian di chuyển.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "da-nang/ba-na-hills/11_related_places.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "11. Địa điểm liên quan - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/11_related_places.md::nearby::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/12_media_references.md::nearby::0",
+    "text": "## 12. Tham chiếu truyền thông - Bà Nà Hills  \n- Nguồn ưu tiên: website chính thức điểm đến, cổng du lịch địa phương, bản đồ số.\n- Kiểm chứng: nếu thông tin khác nhau, ưu tiên nguồn chính thức mới nhất.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "da-nang/ba-na-hills/12_media_references.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "12. Tham chiếu truyền thông - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/12_media_references.md::nearby::0"
+    }
+  },
+  {
+    "id": "da-nang/ba-na-hills/14_weather_climate.md::weather::0",
+    "text": "## 14. Thời tiết và khí hậu - Bà Nà Hills  \n- Đặc điểm: trên núi mát hơn nội đô, thời tiết đổi nhanh\n- Chuẩn bị: nước uống, nón/mũ, áo khoác nhẹ hoặc áo mưa mỏng.\n- Khuyến nghị: xem dự báo thời tiết trước chuyến đi.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "ba-na-hills",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "da-nang/ba-na-hills/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h2": "14. Thời tiết và khí hậu - Bà Nà Hills",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/ba-na-hills/14_weather_climate.md::weather::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/01_basic_identity.md::tips::0",
+    "text": "## 1. Thông tin định danh cơ bản - Cầu Rồng  \n- Tên chính thức: Cầu Rồng\n- Tên tiếng Anh: Dragon Bridge\n- Thành phố: Đà Nẵng\n- Địa chỉ: bắc qua sông Hàn, nối Nguyễn Văn Linh - Võ Văn Kiệt\n- Phân loại: Cầu biểu tượng đô thị\n- Mô tả ngắn: Điểm đến tiêu biểu, phù hợp nhiều nhóm du khách.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "01_basic_identity.md",
+      "source_rel_path": "da-nang/cau-rong/01_basic_identity.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "1. Thông tin định danh cơ bản - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/01_basic_identity.md::tips::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/02_geographic_context.md::tips::0",
+    "text": "## 2. Bối cảnh địa lý - Cầu Rồng  \n- Vị trí: bắc qua sông Hàn, nối Nguyễn Văn Linh - Võ Văn Kiệt\n- Bối cảnh khu vực: trung tâm du lịch hoặc trục kết nối lớn.\n- Gợi ý: nên kết hợp các điểm gần nhau trong cùng buổi để tối ưu thời gian.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "02_geographic_context.md",
+      "source_rel_path": "da-nang/cau-rong/02_geographic_context.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "2. Bối cảnh địa lý - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/02_geographic_context.md::tips::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/03_operational_info.md::operation::0",
+    "text": "## 3. Thông tin vận hành - Cầu Rồng  \n- Giờ hoạt động tham khảo: mở tự do 24/7, show cuối tuần theo lịch\n- Khung giờ đông: cuối tuần, dịp lễ, cuối buổi sáng.\n- Khung giờ thoáng: sáng sớm ngày thường.\n- Thời điểm đẹp: chiều tối và tối cuối tuần\n- Lưu ý: nên kiểm tra lịch chính thức trước ngày đi.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "da-nang/cau-rong/03_operational_info.md",
+      "topic_key": "operation",
+      "topic_queries_count": 49,
+      "h2": "3. Thông tin vận hành - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/03_operational_info.md::operation::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/04_pricing_transactions.md::pricing::0",
+    "text": "## 4. Chi phí và giao dịch - Cầu Rồng  \n- Mức chi phí tham khảo: tham quan miễn phí, phát sinh gửi xe/ăn uống\n- Thanh toán phổ biến: tiền mặt, QR, thẻ (tùy dịch vụ).\n- Gợi ý chatbot: luôn nhắc người dùng xác nhận giá thực tế tại thời điểm đi.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "da-nang/cau-rong/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Chi phí và giao dịch - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/04_pricing_transactions.md::pricing::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/05_experiences_attractions.md::experience::0",
+    "text": "## 5. Trải nghiệm và điểm nổi bật - Cầu Rồng  \n- Điểm nhấn: kiến trúc đầu rồng, show phun lửa phun nước\n- Hoạt động phổ biến: tham quan, chụp ảnh, tìm hiểu văn hóa/lịch sử.\n- Lộ trình gợi ý: check-in biểu tượng -> tham quan khu chính -> kết hợp điểm gần.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "da-nang/cau-rong/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Trải nghiệm và điểm nổi bật - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/05_experiences_attractions.md::experience::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/06_logistics_transportation.md::tips::0",
+    "text": "## 6. Di chuyển và hậu cần - Cầu Rồng  \n- Cách đi phổ biến: đi bộ/xe máy/taxi rất thuận tiện\n- Mẹo: chọn điểm đón/trả rõ ràng, chủ động thời gian giờ cao điểm.\n- Đoàn đông: nên thống nhất điểm tập kết trước.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "da-nang/cau-rong/06_logistics_transportation.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "6. Di chuyển và hậu cần - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/06_logistics_transportation.md::tips::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/07_facilities_amenities.md::facilities::0",
+    "text": "## 7. Tiện ích và dịch vụ - Cầu Rồng  \n- Tiện ích thường có: khu vệ sinh, điểm nghỉ chân, dịch vụ ăn uống lân cận.\n- Dịch vụ tùy nơi: thuyết minh, quà lưu niệm, hỗ trợ khách đoàn.\n- Khuyến nghị: hỏi giá trước khi sử dụng dịch vụ tự phát.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "da-nang/cau-rong/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Tiện ích và dịch vụ - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/07_facilities_amenities.md::facilities::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/08_rules_regulations.md::rules::0",
+    "text": "## 8. Quy định và ứng xử - Cầu Rồng  \n- Quy định chính: đứng vị trí an toàn khi xem show\n- Không xả rác, không gây ồn ào quá mức.\n- Tuân thủ biển chỉ dẫn và hướng dẫn của nhân viên tại điểm.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "da-nang/cau-rong/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và ứng xử - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/08_rules_regulations.md::rules::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/09_social_intelligence.md::tips::0",
+    "text": "## 9. Social Intelligence - Cầu Rồng  \n- Phù hợp: gia đình, cặp đôi, nhóm bạn, khách quốc tế.\n- Khung giờ chụp ảnh đẹp: sáng sớm hoặc chiều muộn.\n- Mẹo trải nghiệm: đi ngày thường để đỡ đông và dễ di chuyển.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "da-nang/cau-rong/09_social_intelligence.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "9. Social Intelligence - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/09_social_intelligence.md::tips::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/10_expert_knowledge.md::expert::0",
+    "text": "## 10. Kiến thức chuyên sâu - Cầu Rồng  \n- Giá trị cốt lõi: biểu tượng văn hóa - du lịch của Đà Nẵng.\n- Góc nhìn chuyên sâu: bối cảnh hình thành, kiến trúc/cảnh quan, tác động du lịch địa phương.\n- Kịch bản trả lời nâng cao: ngắn gọn 30 giây, mở rộng 2-5 phút.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "da-nang/cau-rong/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Kiến thức chuyên sâu - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/10_expert_knowledge.md::expert::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/11_related_places.md::tips::0",
+    "text": "## 11. Địa điểm liên quan - Cầu Rồng  \n- Cầu Tình Yêu\n- Chợ đêm Sơn Trà\n- Biển Mỹ Khê  \n- Gợi ý tuyến: ưu tiên nhóm điểm gần nhau để tiết kiệm thời gian di chuyển.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "da-nang/cau-rong/11_related_places.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "11. Địa điểm liên quan - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/11_related_places.md::tips::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/12_media_references.md::tips::0",
+    "text": "## 12. Tham chiếu truyền thông - Cầu Rồng  \n- Nguồn ưu tiên: website chính thức điểm đến, cổng du lịch địa phương, bản đồ số.\n- Kiểm chứng: nếu thông tin khác nhau, ưu tiên nguồn chính thức mới nhất.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "da-nang/cau-rong/12_media_references.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "12. Tham chiếu truyền thông - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/12_media_references.md::tips::0"
+    }
+  },
+  {
+    "id": "da-nang/cau-rong/14_weather_climate.md::weather::0",
+    "text": "## 14. Thời tiết và khí hậu - Cầu Rồng  \n- Đặc điểm: mùa khô thuận lợi cho hoạt động ngoài trời\n- Chuẩn bị: nước uống, nón/mũ, áo khoác nhẹ hoặc áo mưa mỏng.\n- Khuyến nghị: xem dự báo thời tiết trước chuyến đi.",
+    "metadata": {
+      "city": "da-nang",
+      "place": "cau-rong",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "da-nang/cau-rong/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h2": "14. Thời tiết và khí hậu - Cầu Rồng",
+      "chunk_index": 0,
+      "chunk_id": "da-nang/cau-rong/14_weather_climate.md::weather::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/01_basic_identity.md::basic_identity::0",
+    "text": "## 1. Thông tin định danh cơ bản - Hồ Hoàn Kiếm  \n- Tên chính thức: Hồ Hoàn Kiếm\n- Tên tiếng Anh: Hoan Kiem Lake\n- Thành phố: Hà Nội\n- Địa chỉ: quận Hoàn Kiếm, Hà Nội\n- Phân loại: Danh thắng đô thị và không gian công cộng\n- Mô tả ngắn: Điểm đến tiêu biểu, phù hợp nhiều nhóm du khách.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "01_basic_identity.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/01_basic_identity.md",
+      "topic_key": "basic_identity",
+      "topic_queries_count": 50,
+      "h2": "1. Thông tin định danh cơ bản - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/01_basic_identity.md::basic_identity::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/02_geographic_context.md::nearby::0",
+    "text": "## 2. Bối cảnh địa lý - Hồ Hoàn Kiếm  \n- Vị trí: quận Hoàn Kiếm, Hà Nội\n- Bối cảnh khu vực: trung tâm du lịch hoặc trục kết nối lớn.\n- Gợi ý: nên kết hợp các điểm gần nhau trong cùng buổi để tối ưu thời gian.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "02_geographic_context.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/02_geographic_context.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "2. Bối cảnh địa lý - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/02_geographic_context.md::nearby::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/03_operational_info.md::operation::0",
+    "text": "## 3. Thông tin vận hành - Hồ Hoàn Kiếm  \n- Giờ hoạt động tham khảo: mở tự do cả ngày\n- Khung giờ đông: cuối tuần, dịp lễ, cuối buổi sáng.\n- Khung giờ thoáng: sáng sớm ngày thường.\n- Thời điểm đẹp: sáng sớm hoặc chiều tối\n- Lưu ý: nên kiểm tra lịch chính thức trước ngày đi.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/03_operational_info.md",
+      "topic_key": "operation",
+      "topic_queries_count": 49,
+      "h2": "3. Thông tin vận hành - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/03_operational_info.md::operation::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/04_pricing_transactions.md::pricing::0",
+    "text": "## 4. Chi phí và giao dịch - Hồ Hoàn Kiếm  \n- Mức chi phí tham khảo: tham quan hồ miễn phí, điểm phụ trợ có thể thu phí\n- Thanh toán phổ biến: tiền mặt, QR, thẻ (tùy dịch vụ).\n- Gợi ý chatbot: luôn nhắc người dùng xác nhận giá thực tế tại thời điểm đi.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Chi phí và giao dịch - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/04_pricing_transactions.md::pricing::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/05_experiences_attractions.md::experience::0",
+    "text": "## 5. Trải nghiệm và điểm nổi bật - Hồ Hoàn Kiếm  \n- Điểm nhấn: Tháp Rùa, cầu Thê Húc, đền Ngọc Sơn\n- Hoạt động phổ biến: tham quan, chụp ảnh, tìm hiểu văn hóa/lịch sử.\n- Lộ trình gợi ý: check-in biểu tượng -> tham quan khu chính -> kết hợp điểm gần.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Trải nghiệm và điểm nổi bật - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/05_experiences_attractions.md::experience::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/06_logistics_transportation.md::transport::0",
+    "text": "## 6. Di chuyển và hậu cần - Hồ Hoàn Kiếm  \n- Cách đi phổ biến: đi bộ/xe buýt/taxi từ khu trung tâm\n- Mẹo: chọn điểm đón/trả rõ ràng, chủ động thời gian giờ cao điểm.\n- Đoàn đông: nên thống nhất điểm tập kết trước.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/06_logistics_transportation.md",
+      "topic_key": "transport",
+      "topic_queries_count": 50,
+      "h2": "6. Di chuyển và hậu cần - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/06_logistics_transportation.md::transport::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/07_facilities_amenities.md::facilities::0",
+    "text": "## 7. Tiện ích và dịch vụ - Hồ Hoàn Kiếm  \n- Tiện ích thường có: khu vệ sinh, điểm nghỉ chân, dịch vụ ăn uống lân cận.\n- Dịch vụ tùy nơi: thuyết minh, quà lưu niệm, hỗ trợ khách đoàn.\n- Khuyến nghị: hỏi giá trước khi sử dụng dịch vụ tự phát.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Tiện ích và dịch vụ - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/07_facilities_amenities.md::facilities::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/08_rules_regulations.md::rules::0",
+    "text": "## 8. Quy định và ứng xử - Hồ Hoàn Kiếm  \n- Quy định chính: giữ vệ sinh và tuân thủ quy định phố đi bộ\n- Không xả rác, không gây ồn ào quá mức.\n- Tuân thủ biển chỉ dẫn và hướng dẫn của nhân viên tại điểm.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và ứng xử - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/08_rules_regulations.md::rules::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/09_social_intelligence.md::tips::0",
+    "text": "## 9. Social Intelligence - Hồ Hoàn Kiếm  \n- Phù hợp: gia đình, cặp đôi, nhóm bạn, khách quốc tế.\n- Khung giờ chụp ảnh đẹp: sáng sớm hoặc chiều muộn.\n- Mẹo trải nghiệm: đi ngày thường để đỡ đông và dễ di chuyển.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/09_social_intelligence.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "9. Social Intelligence - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/09_social_intelligence.md::tips::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/10_expert_knowledge.md::expert::0",
+    "text": "## 10. Kiến thức chuyên sâu - Hồ Hoàn Kiếm  \n- Giá trị cốt lõi: biểu tượng văn hóa - du lịch của Hà Nội.\n- Góc nhìn chuyên sâu: bối cảnh hình thành, kiến trúc/cảnh quan, tác động du lịch địa phương.\n- Kịch bản trả lời nâng cao: ngắn gọn 30 giây, mở rộng 2-5 phút.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Kiến thức chuyên sâu - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/10_expert_knowledge.md::expert::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/11_related_places.md::nearby::0",
+    "text": "## 11. Địa điểm liên quan - Hồ Hoàn Kiếm  \n- Phố cổ Hà Nội\n- Đền Ngọc Sơn\n- Nhà hát Lớn  \n- Gợi ý tuyến: ưu tiên nhóm điểm gần nhau để tiết kiệm thời gian di chuyển.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/11_related_places.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "11. Địa điểm liên quan - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/11_related_places.md::nearby::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/12_media_references.md::nearby::0",
+    "text": "## 12. Tham chiếu truyền thông - Hồ Hoàn Kiếm  \n- Nguồn ưu tiên: website chính thức điểm đến, cổng du lịch địa phương, bản đồ số.\n- Kiểm chứng: nếu thông tin khác nhau, ưu tiên nguồn chính thức mới nhất.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/12_media_references.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "12. Tham chiếu truyền thông - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/12_media_references.md::nearby::0"
+    }
+  },
+  {
+    "id": "ha-noi/ho-hoan-kiem/14_weather_climate.md::weather::0",
+    "text": "## 14. Thời tiết và khí hậu - Hồ Hoàn Kiếm  \n- Đặc điểm: mùa thu và mùa xuân dễ chịu\n- Chuẩn bị: nước uống, nón/mũ, áo khoác nhẹ hoặc áo mưa mỏng.\n- Khuyến nghị: xem dự báo thời tiết trước chuyến đi.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "ho-hoan-kiem",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ha-noi/ho-hoan-kiem/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h2": "14. Thời tiết và khí hậu - Hồ Hoàn Kiếm",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/ho-hoan-kiem/14_weather_climate.md::weather::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/01_basic_identity.md::basic_identity::0",
+    "text": "## 1. Thông tin định danh cơ bản - Văn Miếu - Quốc Tử Giám  \n- Tên chính thức: Văn Miếu - Quốc Tử Giám\n- Tên tiếng Anh: Temple of Literature\n- Thành phố: Hà Nội\n- Địa chỉ: 58 Quốc Tử Giám, Đống Đa, Hà Nội\n- Phân loại: Di tích lịch sử - văn hóa\n- Mô tả ngắn: Điểm đến tiêu biểu, phù hợp nhiều nhóm du khách.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "01_basic_identity.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/01_basic_identity.md",
+      "topic_key": "basic_identity",
+      "topic_queries_count": 50,
+      "h2": "1. Thông tin định danh cơ bản - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/01_basic_identity.md::basic_identity::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/02_geographic_context.md::tips::0",
+    "text": "## 2. Bối cảnh địa lý - Văn Miếu - Quốc Tử Giám  \n- Vị trí: 58 Quốc Tử Giám, Đống Đa, Hà Nội\n- Bối cảnh khu vực: trung tâm du lịch hoặc trục kết nối lớn.\n- Gợi ý: nên kết hợp các điểm gần nhau trong cùng buổi để tối ưu thời gian.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "02_geographic_context.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/02_geographic_context.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "2. Bối cảnh địa lý - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/02_geographic_context.md::tips::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/03_operational_info.md::operation::0",
+    "text": "## 3. Thông tin vận hành - Văn Miếu - Quốc Tử Giám  \n- Giờ hoạt động tham khảo: thường mở cửa ban ngày theo mùa\n- Khung giờ đông: cuối tuần, dịp lễ, cuối buổi sáng.\n- Khung giờ thoáng: sáng sớm ngày thường.\n- Thời điểm đẹp: mùa thu, mùa xuân, buổi sáng\n- Lưu ý: nên kiểm tra lịch chính thức trước ngày đi.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/03_operational_info.md",
+      "topic_key": "operation",
+      "topic_queries_count": 49,
+      "h2": "3. Thông tin vận hành - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/03_operational_info.md::operation::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/04_pricing_transactions.md::pricing::0",
+    "text": "## 4. Chi phí và giao dịch - Văn Miếu - Quốc Tử Giám  \n- Mức chi phí tham khảo: vé tham quan phổ thông, có ưu đãi theo đối tượng\n- Thanh toán phổ biến: tiền mặt, QR, thẻ (tùy dịch vụ).\n- Gợi ý chatbot: luôn nhắc người dùng xác nhận giá thực tế tại thời điểm đi.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Chi phí và giao dịch - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/04_pricing_transactions.md::pricing::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/05_experiences_attractions.md::experience::0",
+    "text": "## 5. Trải nghiệm và điểm nổi bật - Văn Miếu - Quốc Tử Giám  \n- Điểm nhấn: Khuê Văn Các, bia tiến sĩ, sân vườn cổ\n- Hoạt động phổ biến: tham quan, chụp ảnh, tìm hiểu văn hóa/lịch sử.\n- Lộ trình gợi ý: check-in biểu tượng -> tham quan khu chính -> kết hợp điểm gần.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Trải nghiệm và điểm nổi bật - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/05_experiences_attractions.md::experience::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/06_logistics_transportation.md::transport::0",
+    "text": "## 6. Di chuyển và hậu cần - Văn Miếu - Quốc Tử Giám  \n- Cách đi phổ biến: xe buýt/taxi/xe công nghệ\n- Mẹo: chọn điểm đón/trả rõ ràng, chủ động thời gian giờ cao điểm.\n- Đoàn đông: nên thống nhất điểm tập kết trước.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/06_logistics_transportation.md",
+      "topic_key": "transport",
+      "topic_queries_count": 50,
+      "h2": "6. Di chuyển và hậu cần - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/06_logistics_transportation.md::transport::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/07_facilities_amenities.md::facilities::0",
+    "text": "## 7. Tiện ích và dịch vụ - Văn Miếu - Quốc Tử Giám  \n- Tiện ích thường có: khu vệ sinh, điểm nghỉ chân, dịch vụ ăn uống lân cận.\n- Dịch vụ tùy nơi: thuyết minh, quà lưu niệm, hỗ trợ khách đoàn.\n- Khuyến nghị: hỏi giá trước khi sử dụng dịch vụ tự phát.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Tiện ích và dịch vụ - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/07_facilities_amenities.md::facilities::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/08_rules_regulations.md::rules::0",
+    "text": "## 8. Quy định và ứng xử - Văn Miếu - Quốc Tử Giám  \n- Quy định chính: ăn mặc lịch sự, không chạm hiện vật\n- Không xả rác, không gây ồn ào quá mức.\n- Tuân thủ biển chỉ dẫn và hướng dẫn của nhân viên tại điểm.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và ứng xử - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/08_rules_regulations.md::rules::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/09_social_intelligence.md::tips::0",
+    "text": "## 9. Social Intelligence - Văn Miếu - Quốc Tử Giám  \n- Phù hợp: gia đình, cặp đôi, nhóm bạn, khách quốc tế.\n- Khung giờ chụp ảnh đẹp: sáng sớm hoặc chiều muộn.\n- Mẹo trải nghiệm: đi ngày thường để đỡ đông và dễ di chuyển.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/09_social_intelligence.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "9. Social Intelligence - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/09_social_intelligence.md::tips::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/10_expert_knowledge.md::tips::0",
+    "text": "## 10. Kiến thức chuyên sâu - Văn Miếu - Quốc Tử Giám  \n- Giá trị cốt lõi: biểu tượng văn hóa - du lịch của Hà Nội.\n- Góc nhìn chuyên sâu: bối cảnh hình thành, kiến trúc/cảnh quan, tác động du lịch địa phương.\n- Kịch bản trả lời nâng cao: ngắn gọn 30 giây, mở rộng 2-5 phút.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/10_expert_knowledge.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "10. Kiến thức chuyên sâu - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/10_expert_knowledge.md::tips::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/11_related_places.md::tips::0",
+    "text": "## 11. Địa điểm liên quan - Văn Miếu - Quốc Tử Giám  \n- Hoàng thành Thăng Long\n- Hồ Hoàn Kiếm\n- Bảo tàng Mỹ thuật  \n- Gợi ý tuyến: ưu tiên nhóm điểm gần nhau để tiết kiệm thời gian di chuyển.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/11_related_places.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "11. Địa điểm liên quan - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/11_related_places.md::tips::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/12_media_references.md::tips::0",
+    "text": "## 12. Tham chiếu truyền thông - Văn Miếu - Quốc Tử Giám  \n- Nguồn ưu tiên: website chính thức điểm đến, cổng du lịch địa phương, bản đồ số.\n- Kiểm chứng: nếu thông tin khác nhau, ưu tiên nguồn chính thức mới nhất.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/12_media_references.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "12. Tham chiếu truyền thông - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/12_media_references.md::tips::0"
+    }
+  },
+  {
+    "id": "ha-noi/van-mieu-quoc-tu-giam/14_weather_climate.md::weather::0",
+    "text": "## 14. Thời tiết và khí hậu - Văn Miếu - Quốc Tử Giám  \n- Đặc điểm: 4 mùa rõ rệt, mùa hè nóng ẩm\n- Chuẩn bị: nước uống, nón/mũ, áo khoác nhẹ hoặc áo mưa mỏng.\n- Khuyến nghị: xem dự báo thời tiết trước chuyến đi.",
+    "metadata": {
+      "city": "ha-noi",
+      "place": "van-mieu-quoc-tu-giam",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ha-noi/van-mieu-quoc-tu-giam/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h2": "14. Thời tiết và khí hậu - Văn Miếu - Quốc Tử Giám",
+      "chunk_index": 0,
+      "chunk_id": "ha-noi/van-mieu-quoc-tu-giam/14_weather_climate.md::weather::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/01_basic_identity.md::basic_identity::0",
+    "text": "## 1 Thông tin định danh cơ bản – Dinh Độc Lập  \n* **Tên chính thức:** Dinh Độc Lập  \n* **Tên địa phương:** Hội trường Thống Nhất  \n* **Tên tiếng Anh phổ biến:** Independence Palace  \n* **Tên thay thế:** Reunification Palace, Dinh Thống Nhất, Norodom Palace, Presidential Palace  \n* **Phân loại:**  \n* Di tích quốc gia đặc biệt\n* Bảo tàng lịch sử\n* Công trình kiến trúc – di tích chiến tranh  \n* **Mô tả ngắn:**\nBiểu tượng lịch sử quan trọng của Việt Nam tại TP.HCM, từng là dinh tổng thống của chính quyền Việt Nam Cộng hòa. Nơi đây nổi tiếng với sự kiện xe tăng tiến vào cổng dinh ngày 30/4/1975, đánh dấu sự kết thúc của Chiến tranh Việt Nam và sự thống nhất đất nước.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "01_basic_identity.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/01_basic_identity.md",
+      "topic_key": "basic_identity",
+      "topic_queries_count": 50,
+      "h2": "1 Thông tin định danh cơ bản – Dinh Độc Lập",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/01_basic_identity.md::basic_identity::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/01_basic_identity.md::expert::1",
+    "text": "## Thông tin từ Wikipedia\nTên: Dinh Độc Lập\nĐịa chỉ: 135 Nam Kỳ Khởi Nghĩa, Quận 1, TP.HCM\nKiến trúc sư: Ngô Viết Thụ\nKhởi công: 1/7/1962\nHoàn thành: 31/10/1966\nChiều cao: 26m\nDiện tích khuôn viên: 12 ha\nWebsite: dinhdoclap.gov.vn",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "01_basic_identity.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/01_basic_identity.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "Thông tin từ Wikipedia",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/01_basic_identity.md::expert::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/02_geographic_context.md::geographic::0",
+    "text": "## 2. Thông tin vị trí địa lý (Location) – Dinh Độc Lập  \n* **Tọa độ địa lý:**  \n* **Decimal:** 10.776944° N, 106.695274° E\n* **DMS:** 10°46′36.99″ N, 106°41′42.99″ E\n* **UTM:** Easting 685,361.42 — Northing 1,191,829.08  \n* **Địa chỉ hành chính:**  \n* 135 Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, TP. Hồ Chí Minh, Việt Nam.  \n* **Khu vực hành chính:**  \n* Phường: Bến Thành\n* Quận: Quận 1\n* Thành phố: TP. Hồ Chí Minh\n* Quốc gia: Việt Nam  \n* **Ngữ cảnh đô thị:**  \n* Nằm tại **trung tâm hành chính – lịch sử của TP.HCM**, thuộc khu vực từng là lõi quy hoạch của Sài Gòn thời Pháp thuộc.\n* Khu vực này tập trung nhiều cơ quan chính phủ, di tích lịch sử và công trình kiến trúc quan trọng.  \n* **Các trục đường bao quanh khuôn viên:**  \n* **Nam Kỳ Khởi Nghĩa** – phía Đông Bắc\n* **Nguyễn Thị Minh Khai** – phía Tây Bắc\n* **Huyền Trân Công Chúa** – phía Tây Nam\n* **Nguyễn Du** – phía Đông Nam",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "02_geographic_context.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/02_geographic_context.md",
+      "topic_key": "geographic",
+      "topic_queries_count": 49,
+      "h2": "2. Thông tin vị trí địa lý (Location) – Dinh Độc Lập",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/02_geographic_context.md::geographic::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/02_geographic_context.md::geographic::1",
+    "text": "* **Nguyễn Thị Minh Khai** – phía Tây Bắc\n* **Huyền Trân Công Chúa** – phía Tây Nam\n* **Nguyễn Du** – phía Đông Nam  \n* **Mặt chính của công trình:**  \n* Hướng ra **đại lộ Lê Duẩn**, một trong những đại lộ lớn và mang tính biểu tượng của trung tâm thành phố.  \n* **Các địa danh lân cận quan trọng:**  \n* **Công viên 30/4** – nằm phía trước khu vực dinh.\n* **Nhà thờ Đức Bà Sài Gòn** – cách khoảng vài trăm mét về phía Đông Bắc.\n* **Bưu điện Trung tâm Sài Gòn** – gần Nhà thờ Đức Bà.\n* **Turtle Lake (Hồ Con Rùa)** – khu quảng trường và giao lộ lớn của trung tâm thành phố.  \n* **Khoảng cách đến các điểm chính:**  \n* ~1 km đến **Phố đi bộ Nguyễn Huệ**\n* ~7–8 km đến **Sân bay quốc tế Tân Sơn Nhất**\n* ~500 m đến **Nhà thờ Đức Bà Sài Gòn**  \n* **Diện tích khuôn viên:**  \n* Khoảng **120.000 m²**, bao gồm công trình chính, sân vườn và khu cảnh quan cây xanh xung quanh.  \n* **Đặc điểm không gian:**",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "02_geographic_context.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/02_geographic_context.md",
+      "topic_key": "geographic",
+      "topic_queries_count": 49,
+      "h2": "2. Thông tin vị trí địa lý (Location) – Dinh Độc Lập",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/02_geographic_context.md::geographic::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/02_geographic_context.md::itinerary::2",
+    "text": "* **Đặc điểm không gian:**  \n* Khuôn viên rộng với nhiều **cây cổ thụ từ thời Pháp thuộc**.\n* Bao gồm các **bãi cỏ, hồ cảnh quan, lối đi và khu trưng bày ngoài trời** (ví dụ xe tăng lịch sử).  \n---  \nNếu bạn muốn, mình có thể tiếp tục **chuẩn hóa toàn bộ schema thông tin cho Dinh Độc Lập (7 nhóm dữ liệu du lịch)** giống như kiến trúc bạn đang xây cho **RAG travel knowledge base** để dùng trực tiếp làm **template cho mọi điểm du lịch**. Điều đó sẽ giúp dataset rất sạch và dễ truy vấn.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "02_geographic_context.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/02_geographic_context.md",
+      "topic_key": "itinerary",
+      "topic_queries_count": 50,
+      "h2": "2. Thông tin vị trí địa lý (Location) – Dinh Độc Lập",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/02_geographic_context.md::itinerary::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/03_operational_info.md::operation::0",
+    "text": "## 3. Thông tin vận hành (Operational Information) – Dinh Độc Lập  \n* **Trạng thái hoạt động:**  \n* Đang mở cửa đón khách tham quan và hoạt động như **bảo tàng lịch sử – di tích quốc gia đặc biệt**.\n* Thuộc quản lý của **Hội trường Thống Nhất (Reunification Hall Management Board)**.  \n* **Giờ mở cửa:**  \n* **08:00 – 16:30** hằng ngày\n* **Thời gian bán vé:** 08:00 – 15:30\n* **Mở cửa:** tất cả các ngày trong tuần, bao gồm **thứ 7, chủ nhật và các ngày lễ lớn**.  \n* **Khung giờ tham quan cao điểm:**  \n* **09:30 – 11:30:** các đoàn khách du lịch và tour quốc tế thường tập trung.\n* **14:00 – 15:30:** các đoàn học sinh và khách nội địa.  \n* **Khung giờ tham quan ít đông:**  \n* **08:00 – 09:00:** ít khách nhất, phù hợp chụp ảnh và tham quan yên tĩnh.\n* **Sau 15:00:** lượng khách giảm dần trước giờ đóng cửa.  \n* **Thời gian tham quan trung bình:**  \n* **1.5 – 2 giờ** nếu tham quan các khu chính.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/03_operational_info.md",
+      "topic_key": "operation",
+      "topic_queries_count": 49,
+      "h2": "3. Thông tin vận hành (Operational Information) – Dinh Độc Lập",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/03_operational_info.md::operation::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/03_operational_info.md::operation::1",
+    "text": "* **Thời gian tham quan trung bình:**  \n* **1.5 – 2 giờ** nếu tham quan các khu chính.\n* **2 – 3 giờ** nếu xem đầy đủ khu trưng bày, tầng hầm, sân vườn và chụp ảnh.  \n* **Quy mô tham quan:**  \n* **Tòa nhà chính:** 4 tầng + tầng hầm.\n* **Hơn 100 phòng** được bảo tồn gần như nguyên trạng từ trước năm 1975.\n* Bao gồm: phòng nội các, phòng khánh tiết, phòng làm việc tổng thống, hầm chỉ huy, phòng chiếu phim, phòng chiến tranh.  \n* **Thời điểm lý tưởng để tham quan:**  \n* **Mùa khô:** tháng 11 – tháng 4 (thời tiết ít mưa, nắng đẹp).\n* **Buổi sáng sớm:** 08:00 – 10:00, nhiệt độ dễ chịu và ánh sáng tốt để chụp ảnh.\n* **Cuối buổi chiều:** 15:00 – 16:30, ít đoàn du lịch hơn.  \n* **Thời điểm nên tránh:**  \n* **Cuối tuần và ngày lễ lớn** (30/4, 2/9) thường rất đông khách.\n* **Mùa mưa Sài Gòn (tháng 5 – 10)** có thể xuất hiện mưa lớn bất chợt khi tham quan khuôn viên.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/03_operational_info.md",
+      "topic_key": "operation",
+      "topic_queries_count": 49,
+      "h2": "3. Thông tin vận hành (Operational Information) – Dinh Độc Lập",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/03_operational_info.md::operation::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/03_operational_info.md::operation::2",
+    "text": "* **Mùa mưa Sài Gòn (tháng 5 – 10)** có thể xuất hiện mưa lớn bất chợt khi tham quan khuôn viên.  \n* **Thời gian đóng cửa đặc biệt (hiếm):**  \n* Có thể **tạm đóng một số khu vực** khi tổ chức sự kiện nhà nước, hội nghị hoặc hoạt động ngoại giao.\n* Một số phòng có thể **luân phiên bảo trì hoặc phục chế**.  \n* **Thời gian chụp ảnh đẹp trong ngày:**  \n* **08:00 – 09:30:** ánh sáng chiếu trực diện mặt tiền.\n* **15:30 – 16:30:** ánh sáng dịu, ít khách.  \n* **Tần suất bảo trì / bảo tồn:**  \n* Công trình được **bảo tồn nguyên trạng kiến trúc từ năm 1966**, với các hoạt động bảo trì định kỳ cho nội thất, hiện vật và khuôn viên cây xanh.  \n* **Sức chứa khách tham quan:**  \n* Có thể tiếp nhận **hàng nghìn khách mỗi ngày**, đặc biệt trong mùa cao điểm du lịch.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/03_operational_info.md",
+      "topic_key": "operation",
+      "topic_queries_count": 49,
+      "h2": "3. Thông tin vận hành (Operational Information) – Dinh Độc Lập",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/03_operational_info.md::operation::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::pricing::0",
+    "text": "## 4. Thông tin chi phí (Pricing & Transactions) – Dinh Độc Lập  \n### Vé tham quan cơ bản  \n**Vé tham quan Dinh (chỉ tòa nhà chính):**  \n* **Người lớn:** 40.000 VNĐ\n* **Sinh viên Việt Nam:** 20.000 VNĐ\n* **Trẻ em (6–17 tuổi):** 10.000 VNĐ  \n**Vé tham quan tổng hợp (Dinh + Nhà trưng bày chuyên đề):**  \n* **Người lớn:** 80.000 VNĐ\n* **Sinh viên / người cao tuổi:** 40.000 VNĐ\n* **Trẻ em:** 20.000 VNĐ ([Independence Palace][1])  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Dinh Độc Lập",
+      "h3": "Vé tham quan cơ bản",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::pricing::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::pricing::1",
+    "text": "### Các gói combo trải nghiệm  \n**1. Combo “Hành trình lịch sử” (Dinh + khu trưng bày):**  \n* Người lớn: **80.000 VNĐ**\n* Sinh viên / người cao tuổi: **40.000 VNĐ**\n* Trẻ em: **20.000 VNĐ**  \n**2. Combo “Trải nghiệm tiện lợi” (Dinh + xe điện tham quan khuôn viên):**  \n* Người lớn: **65.000 VNĐ**\n* Sinh viên / người cao tuổi: **45.000 VNĐ**\n* Trẻ em: **35.000 VNĐ**  \n**3. Combo “Hành trình trọn vẹn” (Dinh + khu trưng bày + xe điện):**  \n* Người lớn: **105.000 VNĐ**\n* Sinh viên / người cao tuổi: **65.000 VNĐ**\n* Trẻ em: **45.000 VNĐ** ([Independence Palace][1])  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Dinh Độc Lập",
+      "h3": "Các gói combo trải nghiệm",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::pricing::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::pricing::2",
+    "text": "### Các dịch vụ bổ sung  \n* **Xe điện tham quan khuôn viên:**  \n* 25.000 VNĐ / người / lượt  \n* **Thuê hướng dẫn viên:**  \n* từ **350.000 VNĐ / đoàn**  \n* **Audio guide (thiết bị thuyết minh đa ngôn ngữ):**  \n* khoảng **90.000 VNĐ / thiết bị**\n* hỗ trợ **10 ngôn ngữ** (Việt, Anh, Pháp, Nhật, Trung, Hàn, Thái, Nga, Tây Ban Nha, Đức) ([Vietnam Airlines][2])  \n* **Vé chụp ảnh chuyên nghiệp / quay phim:**  \n* từ **1.000.000 VNĐ** (tùy mục đích và quy mô)  \n* **Chương trình “Khám phá di sản” (hoạt động giáo dục):**  \n* từ **20.000 VNĐ / người** ([Independence Palace][1])  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Dinh Độc Lập",
+      "h3": "Các dịch vụ bổ sung",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::pricing::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::pricing::3",
+    "text": "### Chính sách miễn / giảm vé  \n* **Miễn phí:**  \n* Trẻ em **dưới 6 tuổi**  \n* **Giảm giá:**  \n* Sinh viên Việt Nam\n* Người cao tuổi (≥60 tuổi)\n* Các đoàn học sinh – sinh viên theo chương trình giáo dục lịch sử  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Dinh Độc Lập",
+      "h3": "Chính sách miễn / giảm vé",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::pricing::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::pricing::4",
+    "text": "### Phương thức thanh toán  \n* **Tại quầy:**  \n* Tiền mặt (VNĐ)\n* Thẻ ngân hàng (Visa / MasterCard)  \n* **Mua vé online:**  \n* Qua website chính thức của di tích  \n* **Thanh toán điện tử phổ biến tại Việt Nam:**  \n* Ví điện tử (MoMo, VNPay, QR banking) – tùy điểm bán vé  \n---  \n💡 **Insight cho chatbot du lịch:**  \n* Vé **40.000 VNĐ** chỉ cho **tòa nhà chính**, nhiều du khách thường chọn **vé 80.000 VNĐ** vì bao gồm cả **khu trưng bày lịch sử Norodom → Dinh Độc Lập**.\n* Combo **105.000 VNĐ** thường được các tour sử dụng vì bao gồm **xe điện tham quan khuôn viên rộng ~12 ha**.  \n[1]: https://www.independencepalace.gov.vn/di-tich/gio-tham-quan/?utm_source=chatgpt.com \"Giờ tham quan và Giá vé – Di tích lịch sử Dinh Độc Lập\"",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Dinh Độc Lập",
+      "h3": "Phương thức thanh toán",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::pricing::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::tips::5",
+    "text": "[2]: https://www.vietnamairlines.com/vn/en/plan-book/travel/travel-guide/independence-palace-ho-chi-minh?utm_source=chatgpt.com \"Vietnam Airlines | Independence Palace Ho Chi Minh: Historic Landmark of Vietnam\"",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Dinh Độc Lập",
+      "h3": "Phương thức thanh toán",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/04_pricing_transactions.md::tips::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::facilities::0",
+    "text": "## 5. Thông tin trải nghiệm (Experiences) – Dinh Độc Lập  \n### Điểm nhấn (Highlights)  \n**1. Các phòng khánh tiết và không gian chính trị lịch sử**  \n* **Phòng Khánh Tiết (Banquet Hall):** nơi tổ chức các buổi chiêu đãi và tiếp đón nguyên thủ quốc gia.\n* **Phòng Nội các (Cabinet Room):** nơi diễn ra các cuộc họp của Hội đồng nội các; nổi bật với **bàn họp hình oval** được thiết kế để tạo cảm giác bình đẳng trong thảo luận. ([VNAW][1])\n* **Phòng Trình quốc thư (Credentials Presentation Room):** trang trí bằng các bức tranh sơn mài lớn mang chủ đề lịch sử Việt Nam.\n* **Phòng làm việc Tổng thống:** được giữ gần như nguyên trạng với nội thất thập niên 1960. ([Di tích lịch sử Dinh Độc Lập][2])  \n---  \n**2. Hệ thống hầm chỉ huy chiến tranh**  \n* Hầm nằm dưới tầng hầm của dinh, được xây bằng **bê tông cốt thép dày tới 2 m**, có thể chịu được bom nặng. ([Vietnam Airlines][3])",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Dinh Độc Lập",
+      "h3": "Điểm nhấn (Highlights)",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::facilities::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::1",
+    "text": "* Bao gồm nhiều phòng chức năng:  \n* **Phòng chỉ huy tác chiến**\n* **Phòng thông tin liên lạc**\n* **Phòng mật mã**\n* **Trung tâm điện đài và điện thoại**\n* Các thiết bị viễn thông, bản đồ chiến lược và hệ thống radio vẫn được giữ nguyên trạng từ năm 1975. ([VNAW][1])  \n---  \n**3. Sân thượng và bãi đáp trực thăng**  \n* Trên tầng thượng có **bãi đáp trực thăng (helipad)** – từng được dùng cho kế hoạch di tản khẩn cấp của chính quyền Sài Gòn. ([VNAW][1])\n* Trưng bày **trực thăng UH-1 Huey**, một biểu tượng gắn liền với chiến tranh Việt Nam. ([Asia Travel and Leisure][4])\n* Từ đây có thể **ngắm toàn cảnh trung tâm TP.HCM**.  \n---  \n**4. Hai chiếc xe tăng lịch sử**  \n* **Xe tăng 843** – chiếc xe tăng đầu tiên húc vào cổng phụ dinh ngày **30/4/1975**.\n* **Xe tăng 390** – chiếc xe tăng phá cổng chính và tiến vào dinh.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Dinh Độc Lập",
+      "h3": "Điểm nhấn (Highlights)",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::facilities::2",
+    "text": "* **Xe tăng 390** – chiếc xe tăng phá cổng chính và tiến vào dinh.\n* Hai hiện vật này được đặt tại **bãi cỏ phía trước dinh** và là điểm chụp ảnh nổi tiếng của du khách. ([Asia Travel and Leisure][4])  \n---  \n**5. Kiến trúc và nội thất độc đáo**  \n* Công trình do kiến trúc sư **Ngô Viết Thụ** thiết kế, kết hợp **chủ nghĩa hiện đại phương Tây với yếu tố truyền thống Việt Nam**. ([vietnam.vn][5])\n* Nội thất gồm hơn **95–100 phòng**, mỗi phòng có phong cách riêng như:  \n* Thư viện\n* Phòng chiếu phim 50 chỗ\n* Phòng ngủ tổng thống\n* Phòng tiếp khách ngoại giao\n* Hệ thống cửa và lam bê tông được thiết kế giống **mành tre truyền thống**, giúp điều hòa ánh sáng tự nhiên. ([vietnamesefood.com.vn][6])  \n---  \n**6. Khuôn viên và cảnh quan**  \n* Khuôn viên rộng khoảng **12 ha** với bãi cỏ, hồ nước hình bán nguyệt và nhiều cây cổ thụ. ([NabTravel][7])",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Dinh Độc Lập",
+      "h3": "Điểm nhấn (Highlights)",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::facilities::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::3",
+    "text": "* Khuôn viên rộng khoảng **12 ha** với bãi cỏ, hồ nước hình bán nguyệt và nhiều cây cổ thụ. ([NabTravel][7])\n* Phía trước dinh là **bãi cỏ rộng và đài phun nước**, thường được sử dụng làm địa điểm chụp ảnh và tổ chức sự kiện.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Dinh Độc Lập",
+      "h3": "Điểm nhấn (Highlights)",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::4",
+    "text": "### Hoạt động trải nghiệm phổ biến  \n* **Tham quan bảo tàng lịch sử chiến tranh Việt Nam**\n* **Khám phá các phòng làm việc và không gian chính trị**\n* **Trải nghiệm hầm chỉ huy chiến tranh**\n* **Chụp ảnh kiến trúc và hiện vật lịch sử**\n* **Ngắm cảnh thành phố từ sân thượng**\n* **Tham gia tour thuyết minh lịch sử**  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Dinh Độc Lập",
+      "h3": "Hoạt động trải nghiệm phổ biến",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::5",
+    "text": "### Đối tượng phù hợp  \n* **Khách du lịch văn hóa – lịch sử**\n* **Gia đình có trẻ em** (học lịch sử trực quan)\n* **Sinh viên – học sinh nghiên cứu lịch sử**\n* **Người yêu nhiếp ảnh kiến trúc**\n* **Du khách quốc tế tìm hiểu về Chiến tranh Việt Nam**  \n---  \n💡 **Insight cho travel chatbot / knowledge base:**  \n* **Hầm chỉ huy + xe tăng 30/4 + trực thăng UH-1** là **3 điểm thu hút được nhắc đến nhiều nhất trong review du lịch**.\n* Nhiều du khách dành **thời gian lâu nhất ở khu hầm và sân trước dinh** để chụp ảnh và tìm hiểu lịch sử.  \n[1]: https://vnaw-prd-fw-660173765.ap-southeast-1.elb.amazonaws.com/vn/en/useful-information/travel-guide/independence-palace-ho-chi-minh?utm_source=chatgpt.com \"Independence Palace Ho Chi Minh: Historic Landmark of Vietnam\"",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Dinh Độc Lập",
+      "h3": "Đối tượng phù hợp",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::6",
+    "text": "[2]: https://dinhdoclap.gov.vn/en/photo-independence-palace-preserving-the-imprints-of-history-after-50-years-of-liberation/?utm_source=chatgpt.com \"[Photo] Independence Palace – Preserving the imprints of history after 50 years of liberation - Di tích lịch sử Dinh Độc Lập\"\n[3]: https://www.vietnamairlines.com/in/vi/useful-information/travel-guide/independence-palace-ho-chi-minh?utm_source=chatgpt.com \"Dinh Độc Lập TP.HCM: Khám phá lịch sử và di sản Việt Nam\"\n[4]: https://asiatravelandleisure.com/travel-guides/vietnam/reunification-palace-dinh-doc-lap.html?utm_source=chatgpt.com \"Reunification Palace (Dinh Độc Lập)\"\n[5]: https://www.vietnam.vn/en/dinh-doc-lap-nhin-tu-truc-thang-quan-su?utm_source=chatgpt.com \"Independence Palace, seen from a military helicopter\"",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Dinh Độc Lập",
+      "h3": "Đối tượng phù hợp",
+      "chunk_index": 6,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::6"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::7",
+    "text": "[6]: https://vietnamesefood.com.vn/vietnam-attractions/vietnam-popular-destinations/reunification-hall-dinh-doc-lap.html?utm_source=chatgpt.com \"Reunification Hall (Dinh Độc Lập)\"\n[7]: https://nabtravel.com/dinh-doc-lap-o-dau?utm_source=chatgpt.com \"Explore the Independence Palace - Vietnam's special national monument\"",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Dinh Độc Lập",
+      "h3": "Đối tượng phù hợp",
+      "chunk_index": 7,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/05_experiences_attractions.md::experience::7"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::transport::0",
+    "text": "## 6. Thông tin di chuyển (Logistics) – Dinh Độc Lập  \n### Cách đến (Transportation Options)  \n**Taxi / Ride-hailing**  \n* Các dịch vụ phổ biến: **Grab, Gojek, Be, taxi truyền thống**.\n* Thời gian di chuyển từ **sân bay Tân Sơn Nhất:** khoảng **20–30 phút** tùy giao thông.\n* Giá tham khảo:  \n* Taxi / GrabCar: ~120.000 – 180.000 VNĐ\n* GrabBike: ~40.000 – 70.000 VNĐ  \n---  \n**Xe buýt công cộng**  \nCác tuyến xe buýt đi qua hoặc dừng gần khu vực dinh:  \n* **01:** Bến Thành – Bến xe Chợ Lớn\n* **02:** Bến Thành – Bến xe Miền Tây\n* **03:** Bến Thành – Thạnh Lộc\n* **04:** Bến Thành – Cộng Hòa – Bến xe An Sương\n* **18:** Bến Thành – Hiệp Thành\n* **31:** Bến Thành – Đại học Tôn Đức Thắng\n* **36:** Bến Thành – Thới An\n* **93:** Bến Thành – Đại học Nông Lâm  \nCác điểm dừng gần nhất:  \n* **Công viên 30/4**\n* **Nhà thờ Đức Bà**\n* **Đường Nam Kỳ Khởi Nghĩa**",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md",
+      "topic_key": "transport",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Dinh Độc Lập",
+      "h3": "Cách đến (Transportation Options)",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::transport::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::transport::1",
+    "text": "Các điểm dừng gần nhất:  \n* **Công viên 30/4**\n* **Nhà thờ Đức Bà**\n* **Đường Nam Kỳ Khởi Nghĩa**  \nTừ điểm dừng đi bộ **3–8 phút** là đến cổng dinh.  \n---  \n**Metro (trong tương lai gần)**  \nTuyến **Metro số 1 Bến Thành – Suối Tiên** có các ga gần:  \n* **Ga Bến Thành:** cách khoảng **900 m** (~10–12 phút đi bộ)\n* **Ga Nhà hát Thành phố:** cách khoảng **1.2 km**  \nSau khi metro vận hành đầy đủ, đây sẽ là **phương tiện thuận tiện nhất cho khách du lịch**.  \n---  \n**Đi bộ từ các điểm du lịch trung tâm**  \nDo nằm ngay trung tâm Quận 1, du khách có thể dễ dàng đi bộ:  \n* **Nhà thờ Đức Bà:** ~500 m (~6 phút)\n* **Bưu điện Trung tâm:** ~550 m\n* **Phố đi bộ Nguyễn Huệ:** ~1 km (~12 phút)\n* **Chợ Bến Thành:** ~900 m (~10 phút)  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md",
+      "topic_key": "transport",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Dinh Độc Lập",
+      "h3": "Cách đến (Transportation Options)",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::transport::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::pricing::2",
+    "text": "### Bãi đỗ xe (Parking)  \n* **Bãi đỗ xe chính:** nằm tại **cổng đường Huyền Trân Công Chúa**.\n* Có khu vực riêng cho:  \n* xe máy\n* ô tô\n* xe du lịch 16–45 chỗ  \nPhí gửi xe tham khảo:  \n* Xe máy: ~5.000 – 10.000 VNĐ\n* Ô tô: ~20.000 – 30.000 VNĐ  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Dinh Độc Lập",
+      "h3": "Bãi đỗ xe (Parking)",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::pricing::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::tips::3",
+    "text": "### Lối vào tham quan (Entrances)  \nCó **2 cổng chính cho khách tham quan:**  \n1. **Cổng Nam Kỳ Khởi Nghĩa**  \n* Cổng chính của dinh\n* Nơi đặt **hai xe tăng lịch sử 390 và 843**  \n2. **Cổng Huyền Trân Công Chúa**  \n* Cổng phụ\n* Gần khu bán vé và bãi đỗ xe  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "6. Thông tin di chuyển (Logistics) – Dinh Độc Lập",
+      "h3": "Lối vào tham quan (Entrances)",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::tips::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::accessibility::4",
+    "text": "### Khả năng tiếp cận (Accessibility)  \n* **Đường dốc:** hỗ trợ xe lăn và xe đẩy trẻ em tại khu vực cổng vào.\n* **Thang máy:** phục vụ khách khuyết tật di chuyển giữa các tầng chính.\n* **Lối đi rộng:** phù hợp cho các đoàn khách lớn.\n* **Xe điện nội khu:** hỗ trợ di chuyển trong khuôn viên rộng ~12 ha.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md",
+      "topic_key": "accessibility",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Dinh Độc Lập",
+      "h3": "Khả năng tiếp cận (Accessibility)",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::accessibility::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::nearby::5",
+    "text": "### Thông tin giao thông xung quanh  \n* Khu vực nằm trong **vùng giao thông trung tâm Quận 1**, thường đông vào:  \n* **07:30 – 09:00**\n* **16:30 – 18:30**  \n* Một số tuyến đường xung quanh:  \n* Nam Kỳ Khởi Nghĩa\n* Nguyễn Thị Minh Khai\n* Huyền Trân Công Chúa\n* Nguyễn Du  \n---  \n💡 **Insight hữu ích cho travel chatbot**  \n* **90% du khách quốc tế** đến đây bằng **Grab hoặc taxi**.\n* Khách du lịch thường kết hợp tham quan **Dinh Độc Lập – Nhà thờ Đức Bà – Bưu điện – Phố đi bộ Nguyễn Huệ** trong **cùng một buổi** vì tất cả đều nằm trong bán kính ~1 km.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Dinh Độc Lập",
+      "h3": "Thông tin giao thông xung quanh",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/06_logistics_transportation.md::nearby::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md::facilities::0",
+    "text": "## 7. Thông tin tiện ích (Facilities) – Dinh Độc Lập  \n### Ăn uống (Food & Beverage)  \n* **Highlands Coffee Independence Palace**  \n* Quán cà phê nằm **ngay trong khuôn viên dinh**, gần khu sân vườn.\n* Phục vụ cà phê Việt Nam, trà, nước ép, bánh ngọt.\n* Là điểm nghỉ chân phổ biến cho du khách sau khi tham quan.  \n* **Nhà hàng 30/4**  \n* Nằm **đối diện khuôn viên dinh**, trên đường Nam Kỳ Khởi Nghĩa.\n* Phục vụ **ẩm thực Việt Nam truyền thống và món Âu**.\n* Thường được các đoàn khách du lịch và tour lịch sử lựa chọn.  \n* **Các lựa chọn ăn uống gần đó (5–10 phút đi bộ):**  \n* Khu **Nhà thờ Đức Bà – Bưu điện Trung tâm** có nhiều quán cà phê và nhà hàng.\n* Các chuỗi cà phê và nhà hàng trên đường **Nguyễn Du, Pasteur, Lê Duẩn**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Thông tin tiện ích (Facilities) – Dinh Độc Lập",
+      "h3": "Ăn uống (Food & Beverage)",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md::facilities::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md::itinerary::1",
+    "text": "### Dịch vụ hỗ trợ du khách  \n* **Audio Guide (Thuyết minh tự động):**  \n* Thiết bị thuyết minh cá nhân với **10 ngôn ngữ**:  \n* Việt, Anh, Pháp, Nhật, Hàn, Trung, Nga, Tây Ban Nha, Đức, Thái\n* Giúp du khách **tự khám phá các phòng và hiện vật** theo lộ trình.  \n* **Hướng dẫn viên du lịch:**  \n* Có thể **thuê hướng dẫn viên tại quầy bán vé**.\n* Thuyết minh lịch sử và kiến trúc của dinh trong khoảng **60–90 phút**.  \n* **Xe điện tham quan khuôn viên:**  \n* Dùng để di chuyển trong khuôn viên rộng ~12 ha.\n* Phù hợp với **người lớn tuổi, gia đình có trẻ nhỏ**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md",
+      "topic_key": "itinerary",
+      "topic_queries_count": 50,
+      "h2": "7. Thông tin tiện ích (Facilities) – Dinh Độc Lập",
+      "h3": "Dịch vụ hỗ trợ du khách",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md::itinerary::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md::facilities::2",
+    "text": "### Tiện ích trong khuôn viên  \n* **Quầy lưu niệm (Souvenir Shop):**  \n* Nằm gần **lối ra khu tham quan**.\n* Bán các sản phẩm:  \n* sách lịch sử\n* bưu thiếp\n* mô hình xe tăng 30/4\n* đồ thủ công mỹ nghệ Việt Nam  \n* **Nhà vệ sinh:**  \n* Có **nhiều khu nhà vệ sinh đạt chuẩn du lịch** trong khuôn viên.\n* Có khu riêng cho **khách khuyết tật**.  \n* **Khu nghỉ chân:**  \n* Ghế nghỉ và khu vực bóng mát trong **vườn cây và bãi cỏ**.\n* Nhiều cây cổ thụ tạo bóng mát cho khách tham quan.  \n* **Quầy bán vé và thông tin:**  \n* Nằm gần **cổng Huyền Trân Công Chúa**.\n* Cung cấp bản đồ tham quan và thông tin tour.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Thông tin tiện ích (Facilities) – Dinh Độc Lập",
+      "h3": "Tiện ích trong khuôn viên",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md::facilities::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md::facilities::3",
+    "text": "### Tiện ích bổ sung  \n* **Wifi:**  \n* Có sóng **wifi miễn phí ở một số khu vực** trong khuôn viên.  \n* **An ninh:**  \n* Có **lực lượng bảo vệ và kiểm soát an ninh** tại cổng.\n* Kiểm tra túi xách nhẹ khi vào khu tham quan.  \n* **Y tế cơ bản:**  \n* Có **nhân viên hỗ trợ và sơ cứu** khi cần thiết.  \n---  \n💡 **Insight cho hệ thống chatbot du lịch**  \n* Hai tiện ích được du khách hỏi nhiều nhất:  \n1. **Audio guide có hỗ trợ ngôn ngữ nào?**\n2. **Có quán cà phê hoặc chỗ nghỉ trong khuôn viên không?**  \n* Khoảng **70% khách quốc tế sử dụng audio guide** thay vì thuê hướng dẫn viên.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Thông tin tiện ích (Facilities) – Dinh Độc Lập",
+      "h3": "Tiện ích bổ sung",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/07_facilities_amenities.md::facilities::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::0",
+    "text": "## 8. Quy định và lưu ý (Rules) – Dinh Độc Lập  \n### Trang phục (Dress Code)  \n* Du khách nên **mặc trang phục lịch sự, gọn gàng**, phù hợp khi tham quan di tích lịch sử – văn hóa.\n* Tránh các trang phục **quá hở hang, phản cảm hoặc có nội dung nhạy cảm**.\n* Nên mang **giày hoặc dép thoải mái** vì phải di chuyển qua nhiều phòng và khuôn viên rộng.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Dinh Độc Lập",
+      "h3": "Trang phục (Dress Code)",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::1",
+    "text": "### Quy định về hiện vật và khu trưng bày  \n* **Không chạm vào hiện vật** trưng bày như:  \n* bàn ghế lịch sử\n* tranh sơn mài\n* thiết bị viễn thông trong hầm chỉ huy\n* **Không trèo lên hiện vật ngoài trời** (xe tăng, trực thăng).\n* **Không tự ý di chuyển đồ vật** trong các phòng trưng bày.\n* Một số khu vực có **dây hoặc biển cảnh báo**, du khách cần tuân thủ.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Dinh Độc Lập",
+      "h3": "Quy định về hiện vật và khu trưng bày",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::2",
+    "text": "### Quy định chụp ảnh và quay phim  \n* **Được phép chụp ảnh cá nhân** trong hầu hết các khu vực tham quan.\n* **Không sử dụng đèn flash** ở một số phòng có hiện vật nhạy cảm (tranh, tài liệu).\n* **Quay phim chuyên nghiệp, chụp ảnh thương mại hoặc flycam** cần:  \n* đăng ký trước\n* có **giấy phép từ ban quản lý di tích**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Dinh Độc Lập",
+      "h3": "Quy định chụp ảnh và quay phim",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::3",
+    "text": "### Quy định về an ninh  \n* Có **kiểm tra túi xách và đồ mang theo** tại cổng vào.  \n* Không mang theo:  \n* vũ khí\n* chất dễ cháy nổ\n* vật nguy hiểm  \n* Du khách cần **tuân theo hướng dẫn của nhân viên bảo vệ** và biển chỉ dẫn trong khuôn viên.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Dinh Độc Lập",
+      "h3": "Quy định về an ninh",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::4",
+    "text": "### Quy định về hành vi  \n* **Không hút thuốc** trong tòa nhà và khu vực trưng bày.\n* **Không xả rác**, giữ gìn vệ sinh chung của di tích.\n* **Không gây ồn ào** hoặc chạy nhảy trong khu trưng bày.\n* Trẻ em cần **có người lớn đi cùng và giám sát**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Dinh Độc Lập",
+      "h3": "Quy định về hành vi",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::food_drink::5",
+    "text": "### Quy định mang đồ cá nhân  \n* **Hành lý cồng kềnh** có thể cần gửi tại khu vực quy định.\n* Không mang **đồ ăn và nước uống vào khu trưng bày trong nhà**.\n* Có thể mang **nước uống cá nhân** khi tham quan khuôn viên ngoài trời.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md",
+      "topic_key": "food_drink",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Dinh Độc Lập",
+      "h3": "Quy định mang đồ cá nhân",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::food_drink::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::6",
+    "text": "### Lưu ý khi tham quan  \n* **Nên giữ vé tham quan** trong suốt thời gian ở trong khu di tích.\n* Tuân theo **lộ trình tham quan một chiều** ở một số khu vực để tránh ùn tắc.\n* Vào **mùa cao điểm du lịch**, có thể phải **xếp hàng khi vào một số phòng nổi tiếng** như:  \n* phòng nội các\n* hầm chỉ huy\n* sân thượng trực thăng  \n---  \n💡 **Insight cho chatbot du lịch**  \nCác câu hỏi phổ biến của du khách:  \n* “**Có được chụp ảnh trong dinh không?**”\n* “**Có được quay video / flycam không?**”\n* “**Có được mang ba lô hoặc đồ ăn vào không?**”",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Dinh Độc Lập",
+      "h3": "Lưu ý khi tham quan",
+      "chunk_index": 6,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/08_rules_regulations.md::rules::6"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md::social::0",
+    "text": "## 9. Thông tin đánh giá xã hội (Social) – Dinh Độc Lập  \n### Điểm đánh giá tổng hợp  \n* **Google Maps:** ~4.5 / 5 ⭐ (hơn **60.000+ đánh giá**)\n* **TripAdvisor:** ~4.5 / 5 ⭐\n* **Các blog du lịch quốc tế:** thường nằm trong **Top điểm tham quan lịch sử tại TP.HCM**  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md",
+      "topic_key": "social",
+      "topic_queries_count": 51,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Dinh Độc Lập",
+      "h3": "Điểm đánh giá tổng hợp",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md::social::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md::social::1",
+    "text": "### Nhận xét tích cực phổ biến (Pros)  \n* **Giá trị lịch sử rất cao**  \n* Nhiều du khách quốc tế xem đây là **địa điểm quan trọng nhất để hiểu về Chiến tranh Việt Nam**.  \n* **Kiến trúc độc đáo và bảo tồn tốt**  \n* Nội thất được giữ gần như **nguyên trạng từ thập niên 1960–1970**.  \n* **Khuôn viên xanh rộng giữa trung tâm thành phố**  \n* Không gian cây xanh và bãi cỏ lớn tạo cảm giác **thoáng đãng, yên tĩnh** giữa đô thị đông đúc.  \n* **Hiện vật lịch sử đặc biệt**  \n* Hai **xe tăng 390 và 843** cùng **hầm chỉ huy chiến tranh** là điểm thu hút lớn.  \n* **Dễ kết hợp tham quan nhiều điểm khác**  \n* Gần **Nhà thờ Đức Bà, Bưu điện Trung tâm, phố đi bộ Nguyễn Huệ**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md",
+      "topic_key": "social",
+      "topic_queries_count": 51,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Dinh Độc Lập",
+      "h3": "Nhận xét tích cực phổ biến (Pros)",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md::social::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md::social::2",
+    "text": "### Nhận xét tiêu cực phổ biến (Cons)  \n* **Thời tiết nóng vào buổi trưa**  \n* Khuôn viên ngoài trời khá nắng, đặc biệt vào mùa khô.  \n* **Một số phòng khá đông khách**  \n* Phòng nội các và khu hầm thường **đông và hơi ngột ngạt**.  \n* **Thiếu bảng thông tin chi tiết bằng tiếng Anh ở một số khu vực**  \n* Vì vậy nhiều du khách **khuyên nên thuê audio guide**.  \n* **Thời gian tham quan có thể ngắn nếu chỉ đi qua các phòng chính**  \n* Một số khách cảm thấy cần thêm **triển lãm tương tác**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md",
+      "topic_key": "social",
+      "topic_queries_count": 51,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Dinh Độc Lập",
+      "h3": "Nhận xét tiêu cực phổ biến (Cons)",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md::social::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md::tips::3",
+    "text": "### Mẹo tham quan phổ biến (Traveler Tips)  \n* **Đi sớm buổi sáng (08:00 – 09:30)** để tránh nóng và đông khách.\n* **Chọn vé combo** để xem thêm **khu trưng bày chuyên đề lịch sử Norodom – Dinh Độc Lập**.\n* **Thuê audio guide** nếu muốn hiểu rõ bối cảnh lịch sử của từng phòng.\n* **Dành thêm thời gian khám phá tầng hầm**, nơi nhiều du khách cho rằng **ấn tượng nhất**.\n* **Mang theo nước uống và mũ/nón** khi tham quan khuôn viên rộng.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Dinh Độc Lập",
+      "h3": "Mẹo tham quan phổ biến (Traveler Tips)",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md::tips::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md::experience::4",
+    "text": "### Các điểm được nhắc nhiều nhất trong review  \nTop các khu vực được nhắc nhiều trong đánh giá du khách:  \n1. **Hầm chỉ huy chiến tranh**\n2. **Hai xe tăng lịch sử trước cổng**\n3. **Phòng nội các và phòng khánh tiết**\n4. **Sân thượng trực thăng**\n5. **Kiến trúc và nội thất nguyên bản**  \n---  \n💡 **Insight cho hệ thống chatbot / RAG**  \nCác câu hỏi xã hội phổ biến:  \n* “**Dinh Độc Lập có đáng đi không?**”\n* “**Có cần mua vé combo không?**”\n* “**Đi mất bao lâu để tham quan hết?**”",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Dinh Độc Lập",
+      "h3": "Các điểm được nhắc nhiều nhất trong review",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/09_social_intelligence.md::experience::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md::expert::0",
+    "text": "## 10. Thông tin tri thức sâu (Knowledge) – Dinh Độc Lập  \n### Kiến trúc và thiết kế  \n* **Kiến trúc sư:** Ngô Viết Thụ – người Việt Nam đầu tiên đoạt **Giải thưởng Khôi nguyên La Mã (Grand Prix de Rome)** về kiến trúc.\n* **Phong cách kiến trúc:** Kết hợp **hiện đại phương Tây với yếu tố truyền thống Á Đông**.\n* **Hình khối tổng thể:** Công trình được thiết kế theo **chữ “CÁT” (吉)** trong Hán tự, biểu tượng cho **sự may mắn và thịnh vượng**.\n* **Mặt tiền:**  \n* Trang trí bằng hệ lam bê tông giống **lóng trúc**, vừa mang tính thẩm mỹ vừa giúp **giảm nắng và thông gió tự nhiên**.\n* **Quy mô:**  \n* Diện tích khuôn viên: ~120.000 m²\n* Tòa nhà chính: ~4.500 m²\n* **Hơn 100 phòng chức năng** với thiết kế và nội thất riêng.\n* **Cấu trúc đặc biệt:**  \n* 4 tầng chính\n* 2 tầng hầm kiên cố dùng làm **trung tâm chỉ huy quân sự**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Dinh Độc Lập",
+      "h3": "Kiến trúc và thiết kế",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md::expert::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md::expert::1",
+    "text": "### Lịch sử hình thành  \n* **Thời kỳ Pháp thuộc:**  \n* Công trình ban đầu là **Norodom Palace**, xây dựng năm **1868** làm dinh thự cho Toàn quyền Đông Dương.  \n* **Sự kiện 1962:**  \n* Ngày **27/2/1962**, hai phi công của Không lực Việt Nam Cộng hòa ném bom phá hủy phần lớn dinh Norodom.  \n* **Xây dựng dinh mới:**  \n* Năm **1962**, Tổng thống Ngô Đình Diệm cho phá bỏ công trình cũ và xây dựng dinh mới.\n* Công trình hoàn thành năm **1966**, dưới thời Tổng thống Nguyễn Văn Thiệu.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Dinh Độc Lập",
+      "h3": "Lịch sử hình thành",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md::expert::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md::expert::2",
+    "text": "### Sự kiện lịch sử nổi bật  \n* **Fall of Saigon – ngày 30/4/1975**  \n* Xe tăng **843** và **390** của Quân Giải phóng tiến vào cổng dinh.\n* Tổng thống cuối cùng của Việt Nam Cộng hòa **Dương Văn Minh** tuyên bố đầu hàng.\n* Sự kiện này đánh dấu **kết thúc Chiến tranh Việt Nam và thống nhất đất nước**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Dinh Độc Lập",
+      "h3": "Sự kiện lịch sử nổi bật",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md::expert::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md::expert::3",
+    "text": "### Giá trị văn hóa – lịch sử  \n* Công trình là **biểu tượng chính trị và lịch sử quan trọng** của Việt Nam thế kỷ 20.\n* Lưu giữ nhiều hiện vật gốc liên quan đến **chính quyền Sài Gòn trước năm 1975**.\n* Là địa điểm nghiên cứu quan trọng về:  \n* lịch sử chiến tranh Việt Nam\n* kiến trúc hiện đại Việt Nam\n* lịch sử chính trị Đông Nam Á thời Chiến tranh Lạnh.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Dinh Độc Lập",
+      "h3": "Giá trị văn hóa – lịch sử",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md::expert::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md::expert::4",
+    "text": "### Các khu trưng bày tri thức quan trọng  \n* **Phòng nội các:** nơi diễn ra các quyết định chính trị quan trọng.\n* **Phòng chiến tranh:** trưng bày bản đồ chiến lược và thiết bị liên lạc quân sự.\n* **Hầm chỉ huy:** trung tâm điều hành chiến tranh với hệ thống điện đài và bản đồ.\n* **Khu trưng bày Norodom – Dinh Độc Lập:** giới thiệu quá trình hình thành và biến đổi của công trình qua nhiều thời kỳ.  \n---  \n💡 **Insight cho hệ thống RAG / Knowledge Base**  \nCác “knowledge chunks” thường được truy vấn nhiều nhất:  \n1. **Thiết kế chữ CÁT của kiến trúc sư Ngô Viết Thụ**\n2. **Sự kiện xe tăng 30/4/1975**\n3. **Tiền thân là Norodom Palace thời Pháp**\n4. **Hầm chỉ huy chiến tranh dưới lòng dinh**",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Dinh Độc Lập",
+      "h3": "Các khu trưng bày tri thức quan trọng",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/10_expert_knowledge.md::expert::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/11_related_places.md::nearby::0",
+    "text": "## 11. Quan hệ với địa điểm khác (Related) – Dinh Độc Lập  \n### Các địa điểm lân cận (Nearby Attractions)  \nTrong bán kính **500 m – 1.5 km**, có nhiều điểm tham quan nổi tiếng của trung tâm TP.HCM:  \n* **Bảo tàng Chứng tích Chiến tranh** – ~500 m  \n* Bảo tàng về chiến tranh Việt Nam, trưng bày nhiều tư liệu và hiện vật lịch sử.  \n* **Nhà thờ Đức Bà Sài Gòn** – ~400 m  \n* Nhà thờ Công giáo nổi tiếng xây dựng từ thời Pháp (1880).  \n* **Bưu điện Trung tâm Sài Gòn** – ~450 m  \n* Công trình kiến trúc thuộc địa nổi tiếng do kiến trúc sư người Pháp thiết kế.  \n* **Công viên 30/4** – ~300 m  \n* Công viên xanh lớn nằm trước khu vực Nhà thờ Đức Bà.  \n* **Chợ Bến Thành** – ~900 m  \n* Khu chợ truyền thống và điểm mua sắm nổi tiếng của du khách.  \n* **Phố đi bộ Nguyễn Huệ** – ~1.2 km  \n* Không gian công cộng nổi tiếng với nhiều hoạt động văn hóa và giải trí.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/11_related_places.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "11. Quan hệ với địa điểm khác (Related) – Dinh Độc Lập",
+      "h3": "Các địa điểm lân cận (Nearby Attractions)",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/11_related_places.md::nearby::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/11_related_places.md::itinerary::1",
+    "text": "### Tuyến tham quan phổ biến (Common Tourist Route)  \nDu khách thường kết hợp tham quan các điểm sau trong **một buổi hoặc một ngày**:  \n**Tuyến lịch sử – văn hóa (3–4 giờ)**  \n1. Dinh Độc Lập\n2. Bảo tàng Chứng tích Chiến tranh\n3. Nhà thờ Đức Bà Sài Gòn\n4. Bưu điện Trung tâm Sài Gòn  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/11_related_places.md",
+      "topic_key": "itinerary",
+      "topic_queries_count": 50,
+      "h2": "11. Quan hệ với địa điểm khác (Related) – Dinh Độc Lập",
+      "h3": "Tuyến tham quan phổ biến (Common Tourist Route)",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/11_related_places.md::itinerary::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/11_related_places.md::itinerary::2",
+    "text": "### Gợi ý lịch trình tham quan nửa ngày  \n**Buổi sáng (08:00 – 11:30)**  \n* 08:00: tham quan Dinh Độc Lập\n* 10:00: đi bộ sang Nhà thờ Đức Bà Sài Gòn\n* 10:30: tham quan Bưu điện Trung tâm Sài Gòn  \n**Buổi trưa (11:30 – 13:00)**  \n* Ăn trưa tại các quán nổi tiếng gần đó như:  \n* Cơm Tấm Ba Ghiền\n* Phở Hòa Pasteur  \n**Buổi chiều (13:30 – 16:00)**  \n* Tham quan Bảo tàng Chứng tích Chiến tranh\n* Sau đó có thể đi dạo ở Phố đi bộ Nguyễn Huệ hoặc ghé Chợ Bến Thành.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/11_related_places.md",
+      "topic_key": "itinerary",
+      "topic_queries_count": 50,
+      "h2": "11. Quan hệ với địa điểm khác (Related) – Dinh Độc Lập",
+      "h3": "Gợi ý lịch trình tham quan nửa ngày",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/11_related_places.md::itinerary::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/11_related_places.md::nearby::3",
+    "text": "### Liên kết chủ đề lịch sử (Historical Context Network)  \nDinh Độc Lập thường được đặt trong **chuỗi điểm tham quan về Chiến tranh Việt Nam**, bao gồm:  \n* Bảo tàng Chứng tích Chiến tranh\n* Địa đạo Củ Chi\n* Bảo tàng Lịch sử Việt Nam  \nNhững địa điểm này giúp du khách hiểu **toàn cảnh lịch sử Việt Nam từ thời thuộc địa, chiến tranh đến thống nhất đất nước**.  \n---  \n💡 **Insight cho hệ thống chatbot du lịch**  \nCác câu hỏi thường gặp liên quan đến quan hệ địa điểm:  \n* “**Có thể tham quan những gì gần Dinh Độc Lập?**”\n* “**Có thể đi bộ từ Nhà thờ Đức Bà sang Dinh Độc Lập không?**”\n* “**Nên kết hợp Dinh Độc Lập với điểm nào trong 1 ngày?**”",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/11_related_places.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "11. Quan hệ với địa điểm khác (Related) – Dinh Độc Lập",
+      "h3": "Liên kết chủ đề lịch sử (Historical Context Network)",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/11_related_places.md::nearby::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::tips::0",
+    "text": "# Media – Dinh Độc Lập  \n## Hình ảnh (Images)  \n### Danh sách hình ảnh  \n**Hình ảnh dịch vụ tham quan bằng xe điện**  \n* [https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354.jpg](https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354.jpg)\n* [https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354-1.jpg](https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354-1.jpg)  \n**Hình ảnh tham quan cùng hướng dẫn viên**  \n* [https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354-4.jpg](https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354-4.jpg)\n* [https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354-5.jpg](https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354-5.jpg)  \n**Hình ảnh sử dụng máy thuyết minh tự động**",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/12_media_references.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h1": "Media – Dinh Độc Lập",
+      "h2": "Hình ảnh (Images)",
+      "h3": "Danh sách hình ảnh",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::tips::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::tips::1",
+    "text": "**Hình ảnh sử dụng máy thuyết minh tự động**  \n* [https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354-6.jpg](https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354-6.jpg)\n* [https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354-7.jpg](https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/hinh-thuc-tham-quan-354-7.jpg)  \n**Hình ảnh chụp trực diện Dinh Độc Lập**  \n* [https://ik.imagekit.io/tvlk/blog/2023/01/dinh-doc-lap-cover.jpg?tr=q-70,c-at_max,w-500,h-250,dpr-2](https://ik.imagekit.io/tvlk/blog/2023/01/dinh-doc-lap-cover.jpg?tr=q-70,c-at_max,w-500,h-250,dpr-2)\n* [https://ik.imagekit.io/tvlk/blog/2025/04/dinh-doc-lap.jpg?tr=q-70,c-at_max,w-1000,h-600](https://ik.imagekit.io/tvlk/blog/2025/04/dinh-doc-lap.jpg?tr=q-70,c-at_max,w-1000,h-600)  \n**Hình ảnh chiếc xe tăng tiến vào Dinh Độc Lập**",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/12_media_references.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h1": "Media – Dinh Độc Lập",
+      "h2": "Hình ảnh (Images)",
+      "h3": "Danh sách hình ảnh",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::tips::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::experience::2",
+    "text": "**Hình ảnh chiếc xe tăng tiến vào Dinh Độc Lập**  \n* [https://ik.imagekit.io/tvlk/blog/2023/01/dinh-doc-lap-12.jpg?tr=q-70,c-at_max,w-1000,h-600](https://ik.imagekit.io/tvlk/blog/2023/01/dinh-doc-lap-12.jpg?tr=q-70,c-at_max,w-1000,h-600)  \n**Hình ảnh Dinh Độc Lập chụp từ trên cao**  \n* [https://ik.imagekit.io/tvlk/blog/2025/04/toan-canh-dinh-doc-lap.jpg?tr=q-70,c-at_max,w-1000,h-600](https://ik.imagekit.io/tvlk/blog/2025/04/toan-canh-dinh-doc-lap.jpg?tr=q-70,c-at_max,w-1000,h-600)  \n**Hình ảnh xe tăng trưng bày tại Dinh Độc Lập**  \n* [https://ik.imagekit.io/tvlk/blog/2025/04/xe-tang-dinh-doc-lap-1024x577.jpg?tr=q-70,c-at_max,w-1000,h-600](https://ik.imagekit.io/tvlk/blog/2025/04/xe-tang-dinh-doc-lap-1024x577.jpg?tr=q-70,c-at_max,w-1000,h-600)  \n**Hình ảnh bản đồ tham quan / sơ đồ Dinh Độc Lập**",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/12_media_references.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h1": "Media – Dinh Độc Lập",
+      "h2": "Hình ảnh (Images)",
+      "h3": "Danh sách hình ảnh",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::experience::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::nearby::3",
+    "text": "**Hình ảnh bản đồ tham quan / sơ đồ Dinh Độc Lập**  \n* [https://dinhdoclap.gov.vn/wp-content/uploads/2023/08/Map-1.jpg](https://dinhdoclap.gov.vn/wp-content/uploads/2023/08/Map-1.jpg)\n* [https://dinhdoclap.gov.vn/wp-content/uploads/2024/03/so-do-Dinh.jpg](https://dinhdoclap.gov.vn/wp-content/uploads/2024/03/so-do-Dinh.jpg)  \n**Hình ảnh bản đồ vị trí Dinh Độc Lập**  \n* [https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/dinhdoclap738-mbws-vn-dinhdoclap-gov-vn-google-trang-t-nh-3.png](https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/dinhdoclap738-mbws-vn-dinhdoclap-gov-vn-google-trang-t-nh-3.png)  \n**Hình ảnh bản đồ tham quan các tầng**  \n* [https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/dinhdoclap738-mbws-vn-dinhdoclap-gov-vn-google-trang-t-nh-4.png](https://dinhdoclap.gov.vn/wp-content/uploads/2025/11/dinhdoclap738-mbws-vn-dinhdoclap-gov-vn-google-trang-t-nh-4.png)",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/12_media_references.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h1": "Media – Dinh Độc Lập",
+      "h2": "Hình ảnh (Images)",
+      "h3": "Danh sách hình ảnh",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::nearby::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::events::4",
+    "text": "## Video (Videos)  \nChưa có",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/12_media_references.md",
+      "topic_key": "events",
+      "topic_queries_count": 50,
+      "h1": "Media – Dinh Độc Lập",
+      "h2": "Video (Videos)",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::events::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::facilities::5",
+    "text": "## Âm thanh (Audio)  \nChưa có",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/12_media_references.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h1": "Media – Dinh Độc Lập",
+      "h2": "Âm thanh (Audio)",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/12_media_references.md::facilities::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::weather::0",
+    "text": "# 14. Thông tin thời tiết & khí hậu (Weather & Climate) – Dinh Độc Lập  \nDinh Độc Lập nằm tại trung tâm Ho Chi Minh City và chịu ảnh hưởng của **khí hậu nhiệt đới gió mùa (tropical savanna)** với nhiệt độ cao quanh năm và hai mùa rõ rệt.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Dinh Độc Lập",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::weather::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::weather::1",
+    "text": "## 14.1 Đặc điểm theo mùa  \n**Mùa khô (Tháng 11 – Tháng 4)**  \n* **Trạng thái:** Nắng nhiều, trời quang, lượng mưa rất thấp.\n* **Nhiệt độ:** Khoảng **25°C – 36°C**, buổi trưa có thể khá nóng.\n* **Độ ẩm:** 60–70% (thấp hơn mùa mưa).\n* **Đánh giá:** Thời điểm **lý tưởng nhất để tham quan và chụp ảnh** kiến trúc mặt tiền, khu vườn và khu trưng bày xe tăng ngoài trời.\n* **Tháng đẹp nhất:** Tháng 12 – Tháng 2 (thời tiết dễ chịu hơn).  \n**Mùa mưa (Tháng 5 – Tháng 10)**  \n* **Trạng thái:** Mưa rào nhiệt đới thường xuất hiện vào **chiều hoặc tối**, hiếm khi mưa cả ngày.\n* **Nhiệt độ:** Khoảng **24°C – 32°C**.\n* **Độ ẩm:** 80–90%, cảm giác oi bức hơn.\n* **Lưu ý:** Khuôn viên dinh rộng (~12 ha), mưa có thể ảnh hưởng khi di chuyển giữa:  \n* khu sân trước\n* khu trưng bày xe tăng\n* khu vườn và các lối đi ngoài trời.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Dinh Độc Lập",
+      "h2": "14.1 Đặc điểm theo mùa",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::weather::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::weather::2",
+    "text": "## 14.2 Chỉ số môi trường trung bình  \n* **Nhiệt độ trung bình năm:** ~27–28°C\n* **Độ ẩm trung bình:** 75% – 80%\n* **Lượng mưa trung bình năm:** ~1.800 – 2.000 mm\n* **Chỉ số UV:** thường **cao đến rất cao (8–11)** vào khung giờ 11:00 – 14:00\n* **Số giờ nắng trung bình:** ~2.200 giờ/năm  \n💡 Do khuôn viên có **nhiều sân cỏ và bề mặt bê tông**, nhiệt độ cảm nhận vào trưa có thể cao hơn **2–3°C so với nhiệt độ không khí**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Dinh Độc Lập",
+      "h2": "14.2 Chỉ số môi trường trung bình",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::weather::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::weather::3",
+    "text": "## 14.3 Khuyến nghị theo thời điểm trong ngày  \n**Sáng (08:00 – 10:30)**  \n* Thời điểm **tốt nhất để tham quan**.\n* Nhiệt độ khoảng **27°C – 30°C**.\n* Ánh sáng mềm, thích hợp chụp ảnh mặt tiền và sân cỏ.  \n**Trưa (11:30 – 14:30)**  \n* Thời tiết nóng nhất trong ngày.\n* Nên ưu tiên tham quan:  \n* các phòng khánh tiết\n* phòng họp nội các\n* khu triển lãm\n* **hầm chỉ huy chiến tranh** (mát hơn khoảng 2–3°C).  \n**Chiều (15:00 – 16:30)**  \n* Nhiệt độ giảm nhẹ.\n* Ánh sáng vàng đẹp cho chụp ảnh.\n* Trong mùa mưa cần chú ý **mưa dông bất chợt**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Dinh Độc Lập",
+      "h2": "14.3 Khuyến nghị theo thời điểm trong ngày",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::weather::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::rules::4",
+    "text": "## 14.4 Vật dụng nên chuẩn bị  \n**Mùa khô**  \n* Kem chống nắng (SPF 30+ trở lên)\n* Mũ rộng vành hoặc nón\n* Kính râm\n* Quạt mini cầm tay (khá hữu ích khi tham quan sân vườn)  \n**Mùa mưa**  \n* Ô (dù) hoặc áo mưa gọn nhẹ\n* Giày chống trượt hoặc sandal\n* Túi chống nước cho điện thoại / máy ảnh  \n**Nước uống**  \n* Nên mang theo **chai nước cá nhân**, vì hành trình tham quan qua nhiều phòng, tầng và hầm có thể kéo dài **1.5 – 2.5 giờ**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Dinh Độc Lập",
+      "h2": "14.4 Vật dụng nên chuẩn bị",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::rules::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::weather::5",
+    "text": "## 14.5 Thời điểm chụp ảnh đẹp  \n* **08:00 – 09:30:** ánh sáng dịu, ít người.\n* **16:00 – 17:00:** ánh sáng vàng (golden hour), tạo hiệu ứng đẹp cho mặt tiền dinh và hàng cây cổ thụ.  \n---  \n💡 **Insight cho travel AI / chatbot**  \nCác câu hỏi du khách thường hỏi về thời tiết:  \n* “**Đi Dinh Độc Lập mùa nào đẹp nhất?**”\n* “**Buổi trưa ở Dinh có nóng không?**”\n* “**Nếu trời mưa thì tham quan có bị ảnh hưởng không?**”",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "dinh-doc-lap",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Dinh Độc Lập",
+      "h2": "14.5 Thời điểm chụp ảnh đẹp",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/dinh-doc-lap/14_weather_climate.md::weather::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/01_basic_identity.md::basic_identity::0",
+    "text": "## 1 Thông tin định danh cơ bản – Nhà thờ Đức Bà  \n* **Tên chính thức:** Vương cung thánh đường Chính tòa Đức Mẹ Vô nhiễm Nguyên tội\n* **Tên địa phương:** Nhà thờ Đức Bà Sài Gòn\n* **Tên tiếng Anh phổ biến:** Notre-Dame Cathedral Basilica of Saigon\n* **Tên thay thế:** Nhà thờ chính tòa Sài Gòn, Saigon Notre-Dame Cathedral\n* **Phân loại:**\n* Công trình kiến trúc tôn giáo (Nhà thờ Công giáo)\n* Điểm tham quan du lịch, check-in\n* Di tích kiến trúc nghệ thuật\n* **Mô tả ngắn:**\nBiểu tượng kiến trúc đặc sắc và quen thuộc bậc nhất tại trung tâm TP.HCM. Công trình được xây dựng hoàn toàn bằng vật liệu nhập từ Pháp, nổi bật với hai tháp chuông cao lớn và bức tượng Đức Mẹ Hòa Bình phía trước. Đây không chỉ là nơi sinh hoạt tôn giáo quan trọng mà còn là chứng nhân lịch sử gắn liền với sự phát triển của Sài Gòn.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "01_basic_identity.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/01_basic_identity.md",
+      "topic_key": "basic_identity",
+      "topic_queries_count": 50,
+      "h2": "1 Thông tin định danh cơ bản – Nhà thờ Đức Bà",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/01_basic_identity.md::basic_identity::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/01_basic_identity.md::expert::1",
+    "text": "## Thông tin từ Wikipedia\nTên: Nhà thờ Đức Bà Sài Gòn\nĐịa chỉ: 1 Công xã Paris, Phường Bến Nghé, Quận 1, TP.HCM\nKiến trúc sư: Jules Bourard\nKhởi công: 7/10/1877\nHoàn thành: 11/4/1880 (Khánh thành)\nChiều cao: 60,5m (tính đến đỉnh tháp chuông)\nKích thước: Dài 93m, rộng 35m\nWebsite: Không có (thông tin thường được cập nhật qua trang của Tổng giáo phận TP.HCM)  \n---\nBạn có muốn tiếp tục trích xuất thông tin theo form này cho các địa điểm nổi bật khác tại TP.HCM như Chợ Bến Thành hay Bưu điện Trung tâm Thành phố để làm giàu thêm dữ liệu cho chatbot không?",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "01_basic_identity.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/01_basic_identity.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "Thông tin từ Wikipedia",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/01_basic_identity.md::expert::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/02_geographic_context.md::geographic::0",
+    "text": "## 2. Thông tin vị trí địa lý (Location) – Nhà thờ Đức Bà Sài Gòn  \n* **Tọa độ địa lý:**  \n* **Decimal:** 10.779722° N, 106.698889° E\n* **DMS:** 10°46′47″ N, 106°41′56″ E\n* **UTM:** Easting ~685,759 — Northing ~1,192,135 (Zone 48P)  \n* **Địa chỉ hành chính:**  \n* Số 1 Công xã Paris, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh, Việt Nam.  \n* **Khu vực hành chính:**  \n* Phường: Bến Nghé\n* Quận: Quận 1\n* Thành phố: TP. Hồ Chí Minh\n* Quốc gia: Việt Nam  \n* **Ngữ cảnh đô thị:**  \n* Nằm tại **trung tâm lịch sử và văn hóa của TP.HCM**, ngay lõi quy hoạch kiến trúc kiểu Pháp xưa.\n* Tọa lạc tại một vòng xoay giao thông lớn, không có hàng rào bao quanh, tạo thành một điểm nhấn mở hoàn toàn trong không gian đô thị nhộn nhịp.  \n* **Các trục đường bao quanh và giao cắt:**  \n* Tọa lạc tại **Công trường Công xã Paris**.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "02_geographic_context.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/02_geographic_context.md",
+      "topic_key": "geographic",
+      "topic_queries_count": 49,
+      "h2": "2. Thông tin vị trí địa lý (Location) – Nhà thờ Đức Bà Sài Gòn",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/02_geographic_context.md::geographic::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/02_geographic_context.md::geographic::1",
+    "text": "* **Các trục đường bao quanh và giao cắt:**  \n* Tọa lạc tại **Công trường Công xã Paris**.\n* Điểm giao cắt của các tuyến đường lớn: **Đồng Khởi**, **Lê Duẩn**, **Phạm Ngọc Thạch** và **Nguyễn Du**.  \n* **Mặt chính của công trình:**  \n* Hướng **Tây Nam**, nhìn thẳng xuống con đường sầm uất và lâu đời **Đồng Khởi** (trước đây là đường Catinat), hướng về phía rạch Bến Nghé và sông Sài Gòn.  \n* **Các địa danh lân cận quan trọng:**  \n* **Bưu điện Trung tâm Sài Gòn** – nằm ngay đối diện qua đường Công xã Paris.\n* **Đường sách Nguyễn Văn Bình** – nằm sát bên hông Bưu điện Trung tâm.\n* **Công viên 30/4** – mảng xanh lớn nằm kề bên, nối liền với Dinh Độc Lập.\n* **Diamond Plaza** – khu trung tâm thương mại lớn ngay phía sau lưng nhà thờ.  \n* **Khoảng cách đến các điểm chính:**  \n* ~50 m đến **Bưu điện Trung tâm Sài Gòn** (ngay đối diện)\n* ~500 m đến **Dinh Độc Lập**",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "02_geographic_context.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/02_geographic_context.md",
+      "topic_key": "geographic",
+      "topic_queries_count": 49,
+      "h2": "2. Thông tin vị trí địa lý (Location) – Nhà thờ Đức Bà Sài Gòn",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/02_geographic_context.md::geographic::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/02_geographic_context.md::geographic::2",
+    "text": "* ~50 m đến **Bưu điện Trung tâm Sài Gòn** (ngay đối diện)\n* ~500 m đến **Dinh Độc Lập**\n* ~700 m đến **Phố đi bộ Nguyễn Huệ**\n* ~7 km đến **Sân bay quốc tế Tân Sơn Nhất**  \n* **Kích thước và không gian chiếm dụng:**  \n* Kích thước công trình: Chiều dài **93 m**, chiều rộng **35 m**, sức chứa khoảng **1.200 người**.\n* Chiều cao tháp chuông: **60,5 m**.  \n* **Đặc điểm không gian:**  \n* Công trình nằm trên một không gian mở không có hàng rào che chắn.\n* Phía trước là một quảng trường nhỏ (vườn hoa) là nơi đặt **Tượng Đức Mẹ Hòa Bình** (bằng đá cẩm thạch mang từ Ý sang).\n* Bao quanh là hệ thống cây xanh cổ thụ rợp bóng mát, tạo không gian kiến trúc hài hòa giữa lòng đô thị.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "02_geographic_context.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/02_geographic_context.md",
+      "topic_key": "geographic",
+      "topic_queries_count": 49,
+      "h2": "2. Thông tin vị trí địa lý (Location) – Nhà thờ Đức Bà Sài Gòn",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/02_geographic_context.md::geographic::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md::operation::0",
+    "text": "## 3. Thông tin vận hành (Operational Information) – Nhà thờ Đức Bà Sài Gòn  \n* **Trạng thái hoạt động (Lưu ý quan trọng):**  \n* Công trình đang trong quá trình **đại trùng tu toàn diện** (bắt đầu từ năm 2017, dự kiến kéo dài đến năm 2027).\n* **Tạm ngưng hoàn toàn việc đón khách du lịch tham quan bên trong** để đảm bảo an toàn thi công.\n* Du khách chỉ có thể **tham quan, chụp ảnh kiến trúc bên ngoài** và khu vực khuôn viên quảng trường phía trước.\n* Vẫn duy trì các Thánh lễ dành cho giáo dân (đi vào bằng lối cửa phụ).\n* Thuộc quản lý của **Tòa Tổng Giám mục TP.HCM / Giáo xứ Chính tòa Đức Bà Sài Gòn**.  \n* **Giờ mở cửa:**  \n* **Khu vực khuôn viên ngoài (Quảng trường Công xã Paris):** Mở cửa tự do 24/7 (không gian công cộng).\n* **Bên trong nhà thờ:** Đóng cửa với khách du lịch.\n* **Giờ cử hành Thánh lễ (tham khảo cho giáo dân):** * Ngày thường: 05:30, 17:30.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md",
+      "topic_key": "operation",
+      "topic_queries_count": 49,
+      "h2": "3. Thông tin vận hành (Operational Information) – Nhà thờ Đức Bà Sài Gòn",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md::operation::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md::operation::1",
+    "text": "* **Giờ cử hành Thánh lễ (tham khảo cho giáo dân):** * Ngày thường: 05:30, 17:30.\n* Chúa nhật: 05:30, 06:45, 08:00, 09:30 (Thánh lễ tiếng Anh), 16:00, 17:15, 18:30.  \n* **Khung giờ tham quan cao điểm (tại khu vực bên ngoài):**  \n* **07:00 – 09:00:** Du khách đến chụp ảnh sớm, người dân tập trung uống \"cà phê bệt\" và cho chim bồ câu ăn.\n* **16:30 – 18:00:** Khách du lịch và giới trẻ tập trung đông đúc quanh khu vực bưu điện và nhà thờ lúc chiều tà.  \n* **Khung giờ tham quan ít đông:**  \n* **11:30 – 14:00:** Rất vắng do thời tiết Nam Bộ thường nắng gắt vào giữa trưa, ít bóng râm ở ngay trước mặt tiền.  \n* **Thời gian tham quan trung bình:**",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md",
+      "topic_key": "operation",
+      "topic_queries_count": 49,
+      "h2": "3. Thông tin vận hành (Operational Information) – Nhà thờ Đức Bà Sài Gòn",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md::operation::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md::tips::2",
+    "text": "* **Thời gian tham quan trung bình:**  \n* **15 – 30 phút:** Do hiện tại chỉ có thể tham quan bên ngoài, du khách chủ yếu dành thời gian ngắm cảnh, chụp ảnh với mặt tiền gạch đỏ, tháp chuông, tượng Đức Mẹ và chơi đùa với đàn bồ câu. Thường kết hợp tham quan liền kề với Bưu điện Trung tâm ngay đối diện.  \n* **Quy mô tham quan (hiện tại):**  \n* **Khu vực tiếp cận được:** Quảng trường nhỏ phía trước, Tượng Đức Mẹ Hòa Bình (bằng đá cẩm thạch Ý), đàn bồ câu tự nhiên.\n* **Cảnh quan hiện tại:** Có hệ thống giàn giáo bao quanh tháp chuông và một số vách tường phục vụ cho việc thi công trùng tu, nhưng vẫn giữ được nét bề thế của công trình.  \n* **Thời điểm lý tưởng để tham quan:**  \n* **Buổi sáng sớm (06:30 – 08:30):** Thời tiết mát mẻ, nắng nhẹ, lý tưởng để chụp ảnh với kiến trúc cổ kính. Đây cũng là lúc đàn bồ câu bay xuống sân nhiều nhất.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "3. Thông tin vận hành (Operational Information) – Nhà thờ Đức Bà Sài Gòn",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md::tips::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md::weather::3",
+    "text": "* **Cuối buổi chiều (16:00 – 17:30):** Nắng dịu nhẹ, màu gạch đỏ của nhà thờ trở nên rực rỡ và ấm áp hơn dưới ánh hoàng hôn.  \n* **Thời điểm nên tránh:**  \n* **Giữa trưa nắng (11:00 - 14:00):** Nhiệt độ cao, quảng trường thiếu cây xanh che bóng mát trực tiếp.\n* **Khi trời mưa lớn:** Không có mái che hoặc khu vực trú mưa trực tiếp tại quảng trường trước nhà thờ.  \n* **Thời gian đóng cửa đặc biệt:**  \n* Đang **đóng cửa dài hạn** đối với các hoạt động du lịch bên trong nhà thờ cho đến khi hoàn tất dự án trùng tu.  \n* **Thời gian chụp ảnh đẹp trong ngày:**  \n* **07:00 – 08:30:** Ánh sáng mặt trời chiếu xiên từ hướng Đông, làm nổi bật màu gạch đỏ Marseille đặc trưng và tạo bóng đổ đẹp mắt.  \n* **Tần suất bảo trì / bảo tồn:**  \n* Đang trải qua cuộc **đại trùng tu lịch sử lớn nhất** kể từ khi khánh thành (1880).",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h2": "3. Thông tin vận hành (Operational Information) – Nhà thờ Đức Bà Sài Gòn",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md::weather::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md::expert::4",
+    "text": "* Đang trải qua cuộc **đại trùng tu lịch sử lớn nhất** kể từ khi khánh thành (1880).\n* Vật liệu trùng tu (ngói, kính màu, xi măng chuyên dụng) phần lớn được nhập khẩu từ Pháp, Bỉ, Đức để đảm bảo giữ nguyên bản thiết kế ban đầu.  \n* **Sức chứa khách tham quan:**  \n* **Bên trong (khi hoạt động bình thường):** Lên đến ~1.200 người.\n* **Khu vực quảng trường bên ngoài:** Không gian mở rộng lớn, sức chứa hàng trăm du khách cùng lúc mà không gây cảm giác quá chật chội.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "03_operational_info.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "3. Thông tin vận hành (Operational Information) – Nhà thờ Đức Bà Sài Gòn",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/03_operational_info.md::expert::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::pricing::0",
+    "text": "## 4. Thông tin chi phí (Pricing & Transactions) – Nhà thờ Đức Bà Sài Gòn  \n### Vé tham quan cơ bản  \n**Tham quan khuôn viên bên ngoài và quảng trường:**  \n* **Tất cả các đối tượng:** Miễn phí (0 VNĐ)  \n**Tham quan bên trong (Hiện tại):**  \n* **Khách du lịch:** Không áp dụng (Tạm ngưng đón khách do đại trùng tu).\n* **Giáo dân dự lễ:** Miễn phí.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Vé tham quan cơ bản",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::pricing::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::facilities::1",
+    "text": "### Các gói combo trải nghiệm  \n* **Không có các gói combo thương mại:** Vì đây là cơ sở tôn giáo đang hoạt động và không gian công cộng, nhà thờ không tổ chức bán các combo tham quan, xe điện hay khu trưng bày như các bảo tàng/di tích khác.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Các gói combo trải nghiệm",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::facilities::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::facilities::2",
+    "text": "### Các dịch vụ / Chi phí lân cận (Mang tính trải nghiệm tự túc)  \n* **Trải nghiệm \"Cà phê bệt\" (khu vực bao quanh nhà thờ và Công viên 30/4):**  \n* Khoảng **15.000 – 30.000 VNĐ / ly** (cà phê, trà đào, nước ngọt...).  \n* **Thức ăn cho chim bồ câu (quảng trường phía trước):**  \n* Khoảng **10.000 – 15.000 VNĐ / bịch** (mua từ những người bán dạo tự do).  \n* **Chụp ảnh lấy liền (thợ ảnh dạo quanh khu vực):**  \n* Khoảng **30.000 – 50.000 VNĐ / tấm** (tùy kích cỡ và thỏa thuận).  \n* **Phí gửi xe máy (để đi bộ tham quan khu vực):**  \n* Gửi tại Bưu điện Trung tâm, Đường sách, hoặc Nhà văn hóa Thanh Niên: khoảng **5.000 – 10.000 VNĐ / xe**.  \n* **Phí đỗ xe ô tô:**  \n* Tùy bãi đỗ của các tòa nhà lân cận (Diamond Plaza, mPlaza...): khoảng **30.000 – 50.000 VNĐ / giờ**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Các dịch vụ / Chi phí lân cận (Mang tính trải nghiệm tự túc)",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::facilities::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::pricing::3",
+    "text": "### Chính sách miễn / giảm vé  \n* **Miễn phí 100%:** Nhà thờ Đức Bà Sài Gòn là biểu tượng công cộng và cơ sở tôn giáo, mọi người dân và du khách đều được tự do tiếp cận không gian bên ngoài hoàn toàn miễn phí, không phân biệt độ tuổi hay quốc tịch.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Chính sách miễn / giảm vé",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::pricing::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::tips::4",
+    "text": "### Phương thức thanh toán (Dành cho các dịch vụ lân cận)  \n* **Tại các bãi gửi xe và người bán dạo (bồ câu, đồ ăn vặt):**  \n* Tiền mặt (VNĐ) – là phương thức ưu tiên và phổ biến nhất.  \n* **Tại các quầy nước / xe cà phê lưu động:**  \n* Tiền mặt (VNĐ)\n* Chuyển khoản ngân hàng / Quét mã QR (rất phổ biến hiện nay).  \n---  \n💡 **Insight cho chatbot du lịch:**  \n* **Cảnh báo quan trọng:** Chatbot cần nhắc nhở du khách rằng Nhà thờ Đức Bà **không bao giờ thu vé tham quan**. Nếu có ai đó yêu cầu mua vé để được đứng chụp ảnh ở quảng trường hoặc vào cổng, đó chắc chắn là lừa đảo.\n* Vì chi phí tham quan trực tiếp là 0 đồng, chatbot nên gợi ý du khách mang theo tiền lẻ (mệnh giá 10k - 20k) để trải nghiệm cho bồ câu ăn hoặc ngồi \"cà phê bệt\" trò chuyện cùng bạn bè vào sáng sớm.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Phương thức thanh toán (Dành cho các dịch vụ lân cận)",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::tips::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::experience::5",
+    "text": "---\nBạn có muốn mình tiếp tục với **Phần 5: Trải nghiệm & Hoạt động (Experiences & Activities)** cho Nhà thờ Đức Bà không? Phần này sẽ mô tả chi tiết những việc du khách có thể làm khi chỉ được tham quan bên ngoài công trình.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "04_pricing_transactions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "4. Thông tin chi phí (Pricing & Transactions) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Phương thức thanh toán (Dành cho các dịch vụ lân cận)",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/04_pricing_transactions.md::experience::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md::tips::0",
+    "text": "## 5. Thông tin trải nghiệm (Experiences) – Nhà thờ Đức Bà Sài Gòn  \n### Điểm nhấn (Highlights)  \n**1. Kiến trúc mặt tiền và gạch đỏ Marseille**\n* Bức tường ngoài được xây bằng **gạch trần mang từ Marseille (Pháp)** sang. Điểm đặc biệt là loại gạch này không cần tô trát, không bám rêu mốc và vẫn giữ được màu hồng tươi đặc trưng qua hơn một thế kỷ.\n* Thiết kế kết hợp hài hòa giữa phong cách **Roman và Gothic**, mang đậm dấu ấn kiến trúc tôn giáo châu Âu tinh tế và bề thế giữa lòng đô thị.  \n**2. Tượng Đức Mẹ Hòa Bình và Quảng trường trước nhà thờ**\n* Tượng Đức Mẹ được tạc bằng **đá cẩm thạch trắng Carrara** (Ý), điêu khắc tinh xảo và đưa về Việt Nam năm 1959.\n* Quảng trường (Công trường Công xã Paris) là không gian mở không có hàng rào, nổi tiếng với **đàn bồ câu thân thiện** hàng trăm con, thường xuyên sà xuống sân khi có người cho ăn, tạo nên khung cảnh thanh bình hiếm có.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Điểm nhấn (Highlights)",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md::tips::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md::expert::1",
+    "text": "**3. Tháp chuông và hệ thống chuông đồng**\n* Hai tháp chuông cao **60,5m**, từng là công trình cao nhất Sài Gòn thời bấy giờ, đóng vai trò như cột mốc định vị cho toàn khu vực trung tâm.\n* Bên trong chứa bộ **6 quả chuông đồng lớn** (âm C, D, E, G, A, B) nặng gần 30 tấn, được đúc tại Pháp. Tiếng chuông của nhà thờ từng là một phần ký ức âm thanh quen thuộc của người dân thành phố (hiện đang tạm ngưng đánh chuông lớn để đảm bảo an toàn thi công).  \n**4. Công trường thi công và dự án đại trùng tu lịch sử**\n* Mặc dù bị che khuất một phần bởi hệ thống giàn giáo, du khách vẫn có cơ hội quan sát quá trình **đại trùng tu cẩn trọng và quy mô nhất** trong lịch sử công trình này.\n* Việc phục chế sử dụng các vật liệu nguyên bản nhập khẩu từ châu Âu (như ngói vảy cá từ Pháp, kẽm từ Đức) thể hiện nỗ lực lớn trong việc giữ gìn tính nguyên bản của di sản kiến trúc.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Điểm nhấn (Highlights)",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md::expert::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md::experience::2",
+    "text": "### Hoạt động trải nghiệm phổ biến  \n* **Chụp ảnh check-in kiến trúc (Cityscape/Portrait photography):** Bắt góc chụp kinh điển từ hướng Bưu điện thành phố, Đường sách hoặc từ mảng xanh của Công viên 30/4 nhìn lên mặt tiền nhà thờ.\n* **Trải nghiệm văn hóa \"cà phê bệt\":** Mua một ly cà phê vỉa hè, ngồi dưới tán cây cổ thụ, trò chuyện cùng bạn bè và ngắm nhìn nhịp sống đô thị nhộn nhịp.\n* **Chơi đùa và cho chim bồ câu ăn:** Trải nghiệm thư giãn, mộc mạc mang lại những bức ảnh rất tự nhiên và sống động.\n* **Đi dạo kết nối các di sản:** Tham quan liền tuyến theo cụm di sản: Nhà thờ Đức Bà ↔ Bưu điện Trung tâm ↔ Đường sách Nguyễn Văn Bình.\n* **Tham dự Thánh lễ:** Dành cho giáo dân tham gia sinh hoạt tôn giáo (hiện đang tiếp cận qua lối đi phụ).  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Hoạt động trải nghiệm phổ biến",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md::experience::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md::social::3",
+    "text": "### Đối tượng phù hợp  \n* **Mọi đối tượng du khách** khi đến TP.HCM lần đầu (đây là điểm biểu tượng \"must-visit\").\n* **Giới trẻ và các cặp đôi** (rất phổ biến để chụp ảnh cưới, ảnh áo dài hoặc nhiếp ảnh đường phố).\n* **Người yêu thích kiến trúc cổ, lịch sử và văn hóa.**\n* **Du khách hành hương Công giáo.**\n* **Gia đình có trẻ em** (thích không gian ngoài trời rộng rãi và vui chơi cùng chim bồ câu).  \n---  \n💡 **Insight cho travel chatbot / knowledge base:**  \n* **Quản lý kỳ vọng:** Chatbot phải luôn tự động nhắc nhở khách rằng **không thể vào bên trong tham quan** ở thời điểm hiện tại. Trải nghiệm tại đây thiên về ngắm cảnh ngoài trời và check-in.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md",
+      "topic_key": "social",
+      "topic_queries_count": 51,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Đối tượng phù hợp",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md::social::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md::itinerary::4",
+    "text": "* **Tư vấn lộ trình (Routing) thông minh:** Chatbot không nên để Nhà thờ Đức Bà đứng một mình trong lịch trình. Hãy luôn tư vấn nó như một phần của **\"Walking Tour cụm di sản lõi trung tâm\"**, ghép cặp trực tiếp với Bưu điện Trung tâm (cách 1 phút đi bộ qua đường) và Đường sách (cách 2 phút đi bộ). Du khách thường chỉ tốn khoảng 15-30 phút tại quảng trường nhà thờ.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "05_experiences_attractions.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md",
+      "topic_key": "itinerary",
+      "topic_queries_count": 50,
+      "h2": "5. Thông tin trải nghiệm (Experiences) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Đối tượng phù hợp",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/05_experiences_attractions.md::itinerary::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::transport::0",
+    "text": "## 6. Thông tin di chuyển (Logistics) – Nhà thờ Đức Bà Sài Gòn  \n### Cách đến (Transportation Options)  \n**Taxi / Ride-hailing**  \n* Các dịch vụ phổ biến: **Grab, Gojek, Be, Xanh SM, taxi truyền thống**.\n* Thời gian di chuyển từ **sân bay Tân Sơn Nhất:** khoảng **20–30 phút** tùy tình hình giao thông.\n* Giá tham khảo từ sân bay:\n* Taxi / Ô tô công nghệ: ~120.000 – 180.000 VNĐ\n* Xe máy công nghệ: ~40.000 – 70.000 VNĐ\n* *Lưu ý điểm xuống xe:* Trạm dừng thả khách thuận tiện nhất là ngay trước Bưu điện Trung tâm Sài Gòn hoặc phía đường Nguyễn Du (bên hông nhà thờ) để tránh gây ùn tắc tại vòng xoay.  \n---  \n**Xe buýt công cộng**  \nCác tuyến xe buýt đi qua hoặc dừng ngay khu vực Công trường Công xã Paris và lân cận:  \n* **03:** Bến Thành – Thạnh Lộc\n* **04:** Bến Thành – Cộng Hòa – Bến xe An Sương\n* **18:** Bến Thành – Hiệp Thành\n* **31:** Bến Thành – Đại học Tôn Đức Thắng",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md",
+      "topic_key": "transport",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Cách đến (Transportation Options)",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::transport::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::transport::1",
+    "text": "* **18:** Bến Thành – Hiệp Thành\n* **31:** Bến Thành – Đại học Tôn Đức Thắng\n* **36:** Bến Thành – Thới An\n* **93:** Bến Thành – Đại học Nông Lâm\n* **152:** Khu dân cư Trung Sơn – Sân bay Tân Sơn Nhất (dừng phía đường Nam Kỳ Khởi Nghĩa gần đó)  \nCác điểm dừng gần nhất:  \n* **Trạm Bưu điện Thành phố** (Ngay đối diện nhà thờ)\n* **Trạm Diamond Plaza** (Phía sau nhà thờ)\n* **Trạm Nhà văn hóa Thanh Niên** (Cách khoảng 3 phút đi bộ)  \n---  \n**Metro (Tuyến số 1 Bến Thành – Suối Tiên)**  \nCác ga ngầm lân cận khu vực:  \n* **Ga Nhà hát Thành phố:** Cách khoảng **600 m** (~7–8 phút đi bộ dọc theo đường Đồng Khởi). Đây là ga gần và đi bộ cảnh quan đẹp nhất để đến nhà thờ.\n* **Ga Bến Thành:** Cách khoảng **1 km** (~12–15 phút đi bộ).  \n---  \n**Đi bộ từ các điểm du lịch trung tâm**  \nNhà thờ Đức Bà là tâm điểm kết nối các di sản, rất lý tưởng để đi bộ:",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md",
+      "topic_key": "transport",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Cách đến (Transportation Options)",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::transport::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::nearby::2",
+    "text": "---  \n**Đi bộ từ các điểm du lịch trung tâm**  \nNhà thờ Đức Bà là tâm điểm kết nối các di sản, rất lý tưởng để đi bộ:  \n* **Bưu điện Trung tâm Sài Gòn:** ~50 m (Ngay đối diện)\n* **Đường sách Nguyễn Văn Bình:** ~100 m (1 phút)\n* **Dinh Độc Lập:** ~500 m (6 phút)\n* **Nhà hát Thành phố / Phố đi bộ Nguyễn Huệ:** ~600–700 m (8 phút)\n* **Chợ Bến Thành:** ~1 km (12 phút)  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Cách đến (Transportation Options)",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::nearby::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::pricing::3",
+    "text": "### Bãi đỗ xe (Parking)  \n* **Lưu ý quan trọng:** Nhà thờ Đức Bà **không có bãi đỗ xe chính thức** cho khách du lịch. Du khách bắt buộc phải gửi xe ở các khu vực lân cận rồi đi bộ sang.\n* **Khu vực gửi xe máy:**\n* Bãi xe Bưu điện Trung tâm Sài Gòn: ~5.000 VNĐ\n* Bãi xe Đường sách Nguyễn Văn Bình (đường Hai Bà Trưng): ~5.000 – 10.000 VNĐ\n* Bãi xe Nhà văn hóa Thanh Niên (đường Phạm Ngọc Thạch): ~5.000 VNĐ\n* **Khu vực đỗ xe ô tô:**\n* Tầng hầm Diamond Plaza, mPlaza, InterContinental: Phí khoảng ~30.000 – 50.000 VNĐ/giờ.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md",
+      "topic_key": "pricing",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Bãi đỗ xe (Parking)",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::pricing::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::tips::4",
+    "text": "### Lối vào tham quan (Entrances)  \n* **Khách du lịch:** Hiện tại **không có lối vào** bên trong do đang trùng tu. Khu vực quảng trường Tượng Đức Mẹ phía trước mở cửa tự do 24/7.\n* **Giáo dân đi lễ:** Đi vào bằng các cổng phụ (bên hông đường Nguyễn Du hoặc đường Lê Duẩn) theo sự hướng dẫn của bảo vệ giáo xứ, tùy thuộc vào việc rào chắn thi công của từng giai đoạn.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "6. Thông tin di chuyển (Logistics) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Lối vào tham quan (Entrances)",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::tips::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::accessibility::5",
+    "text": "### Khả năng tiếp cận (Accessibility)  \n* **Khu vực quảng trường (bên ngoài):** Mặt bằng phẳng, không có bậc thang cao, tiếp cận dễ dàng bằng xe lăn hoặc xe đẩy trẻ em.\n* **Băng qua đường:** Quảng trường được bao quanh bởi các con đường không có rào chắn, lề đường có độ dốc gờ giảm tốc hỗ trợ xe lăn.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md",
+      "topic_key": "accessibility",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Khả năng tiếp cận (Accessibility)",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::accessibility::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::transport::6",
+    "text": "### Thông tin giao thông xung quanh  \n* Khu vực tọa lạc ngay **giao lộ vòng xoay** của các trục đường lớn: Lê Duẩn, Phạm Ngọc Thạch, Đồng Khởi, Công xã Paris, Tôn Đức Thắng (nối dài).\n* **Đặc điểm lưu thông:** Dòng xe cộ di chuyển liên tục quanh vòng xoay, không có đèn giao thông trực tiếp ngay tại quảng trường nhà thờ.\n* Giờ cao điểm (kẹt xe cục bộ):\n* **07:30 – 09:00**\n* **17:00 – 18:30**  \n---  \n💡 **Insight hữu ích cho travel chatbot**  \n* **Cảnh báo băng qua đường:** Chatbot nên chủ động hướng dẫn du khách quốc tế cách sang đường tại vòng xoay này (không có đèn đỏ, cần đi chậm, đều bước và giao tiếp bằng mắt với tài xế).\n* **Gợi ý điểm xuống xe thông minh:** Thay vì đặt điểm đến là \"Nhà thờ Đức Bà\" (tài xế sẽ khó tấp vào vòng xoay), hãy khuyên khách đặt điểm đến là \"Bưu điện Trung tâm\" hoặc \"Đường sách Nguyễn Văn Bình\", xuống xe an toàn rồi đi bộ vài bước sang nhà thờ.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "06_logistics_transportation.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md",
+      "topic_key": "transport",
+      "topic_queries_count": 50,
+      "h2": "6. Thông tin di chuyển (Logistics) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Thông tin giao thông xung quanh",
+      "chunk_index": 6,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/06_logistics_transportation.md::transport::6"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::facilities::0",
+    "text": "## 7. Thông tin tiện ích (Facilities) – Nhà thờ Đức Bà Sài Gòn  \n### Ăn uống (Food & Beverage)  \n* **Trong khuôn viên nhà thờ:** Không có dịch vụ ăn uống.\n* **Văn hóa ẩm thực đường phố (Ngay cạnh nhà thờ):**\n* **Cà phê bệt Công viên 30/4:** Trải nghiệm uống cà phê, trà đào, ăn vặt (cá viên chiên, bánh tráng nướng) dọc lề đường rợp bóng cây. Nơi tụ tập đông đảo của giới trẻ Sài Gòn và khách du lịch bụi.\n* **Các lựa chọn lân cận (1–3 phút đi bộ):**\n* **McDonald's Bưu điện:** Nằm ngay góc đường Công xã Paris, view nhìn thẳng ra nhà thờ.\n* **Cà phê tại Đường sách Nguyễn Văn Bình:** Các quán cà phê yên tĩnh, không gian mở.\n* **Khu ẩm thực (Food court) Diamond Plaza:** Phía sau nhà thờ, có máy lạnh, đa dạng món Á - Âu và các chuỗi cà phê lớn (Highlands, Phúc Long).  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Thông tin tiện ích (Facilities) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Ăn uống (Food & Beverage)",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::facilities::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::facilities::1",
+    "text": "### Dịch vụ hỗ trợ du khách  \n* **Audio Guide / Hướng dẫn viên nội bộ:**\n* **Không có** dịch vụ thuyết minh tự động hay hướng dẫn viên chính thức từ phía nhà thờ dành cho khách du lịch.\n* Du khách thường nghe thuyết minh thông qua hướng dẫn viên của các tour tham quan thành phố (City Tour) hoặc tự tìm hiểu qua internet.\n* **Quầy thông tin:** Không có. Khách có thể ghé quầy hỗ trợ du lịch bên trong Bưu điện Trung tâm ở đối diện nếu cần thông tin chung về thành phố.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Thông tin tiện ích (Facilities) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Dịch vụ hỗ trợ du khách",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::facilities::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::facilities::2",
+    "text": "### Tiện ích quanh khuôn viên (Sử dụng chéo)  \n* **Quầy lưu niệm (Souvenir Shop):**\n* Không có quầy bán đồ lưu niệm bên trong khu vực nhà thờ.\n* **Điểm mua sắm thay thế:** Bước sang **Bưu điện Trung tâm** (bán bưu thiếp, tem, đồ thủ công mỹ nghệ, nón lá) hoặc **Đường sách Nguyễn Văn Bình** (sách, sổ tay, đồ lưu niệm nhỏ).\n* **Nhà vệ sinh (Thông tin cực kỳ quan trọng):**\n* **Không có nhà vệ sinh công cộng** trực tiếp tại quảng trường nhà thờ.\n* **Gợi ý di chuyển:** * Sử dụng nhà vệ sinh bên hông **Bưu điện Trung tâm** (có thu phí nhỏ, khoảng 3.000 - 5.000 VNĐ).\n* Sử dụng nhà vệ sinh trong trung tâm thương mại **Diamond Plaza** ngay phía sau lưng (miễn phí, sạch sẽ, chuẩn cao cấp).\n* Nhà vệ sinh công cộng tại **Đường sách Nguyễn Văn Bình**.\n* **Khu nghỉ chân:**\n* Không có khu vực ghế ngồi chính thức có mái che.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Thông tin tiện ích (Facilities) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Tiện ích quanh khuôn viên (Sử dụng chéo)",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::facilities::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::facilities::3",
+    "text": "* **Khu nghỉ chân:**\n* Không có khu vực ghế ngồi chính thức có mái che.\n* Du khách thường ngồi ở các gờ đá quanh các bồn hoa của tượng Đức Mẹ, hoặc sang hệ thống ghế đá dưới bóng cây cổ thụ của **Công viên 30/4**.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Thông tin tiện ích (Facilities) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Tiện ích quanh khuôn viên (Sử dụng chéo)",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::facilities::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::facilities::4",
+    "text": "### Tiện ích bổ sung  \n* **Wifi:**\n* Không có sóng wifi công cộng miễn phí tại quảng trường. Du khách cần dùng 4G/5G cá nhân hoặc sử dụng wifi từ các quán cà phê lân cận.\n* **An ninh & An toàn:**\n* Do là quảng trường công cộng mở, không có cổng kiểm soát an ninh nội bộ. Có lực lượng trật tự đô thị và cảnh sát giao thông tuần tra vòng xoay.\n* **Cảnh báo:** Cần đặc biệt chú ý bảo vệ tư trang (điện thoại, máy ảnh, ví tiền) do khu vực này thường có các đối tượng trà trộn móc túi hoặc giật đồ khi du khách đang mải mê chụp ảnh.  \n---  \n💡 **Insight cho hệ thống chatbot du lịch:**  \n* Khi xây dựng knowledge base để trả lời các câu hỏi về du lịch TP.HCM, câu hỏi **\"Tôi có thể đi vệ sinh ở đâu khi tham quan Nhà thờ Đức Bà?\"** là một truy vấn thực tế rất cao. Chatbot cần định tuyến khách dứt khoát sang Bưu điện hoặc Diamond Plaza để mang lại trải nghiệm tốt nhất.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md",
+      "topic_key": "facilities",
+      "topic_queries_count": 50,
+      "h2": "7. Thông tin tiện ích (Facilities) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Tiện ích bổ sung",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::facilities::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::nearby::5",
+    "text": "* Chatbot nên chủ động đề xuất combo trải nghiệm **\"Chụp ảnh Nhà thờ + Uống cà phê bệt + Gửi bưu thiếp tại Bưu điện\"** vì đây là cụm tiện ích bổ trợ cho nhau hoàn hảo trong bán kính 100m, mang đậm chất văn hóa đô thị Sài Gòn.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "07_facilities_amenities.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "7. Thông tin tiện ích (Facilities) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Tiện ích bổ sung",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/07_facilities_amenities.md::nearby::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::rules::0",
+    "text": "## 8. Quy định và lưu ý (Rules) – Nhà thờ Đức Bà Sài Gòn  \n### Trang phục (Dress Code)  \n* **Tham quan chụp ảnh bên ngoài:** Không có quy định bắt buộc, du khách có thể ăn mặc tự do, thoải mái.\n* **Giáo dân vào dự Thánh lễ (qua lối phụ):** Bắt buộc mặc **trang phục trang trọng, lịch sự và kín đáo** (không mặc quần đùi, váy ngắn trên đầu gối, áo sát nách hoặc trang phục hở hang) để tôn trọng không gian tôn giáo thiêng liêng.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Trang phục (Dress Code)",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::rules::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::rules::1",
+    "text": "### Quy định khu vực cảnh quan và công trường  \n* **Tuyệt đối không trèo qua hàng rào thi công** hoặc giàn giáo xung quanh nhà thờ để chụp ảnh hay quay phim.\n* **Không leo trèo, bôi bẩn** lên bệ đá của Tượng Đức Mẹ Hòa Bình phía trước quảng trường.\n* **Đối xử thân thiện với đàn bồ câu:** Không xua đuổi mạnh bạo, không bắt chim, chỉ nên cho ăn các loại hạt phù hợp (đậu xanh, lúa, thức ăn chim chuyên dụng).  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Quy định khu vực cảnh quan và công trường",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::rules::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::rules::2",
+    "text": "### Quy định chụp ảnh và quay phim  \n* **Chụp ảnh cá nhân bên ngoài:** Hoàn toàn tự do và miễn phí.\n* **Chụp ảnh cưới / Thương mại:** Cần chú ý không tràn xuống lòng đường vòng xoay gây cản trở giao thông.\n* **Sử dụng Flycam (Drone):** Khu vực trung tâm Quận 1 (gần UBND Thành phố, Dinh Độc Lập và các cơ quan hành chính) bị **kiểm soát không phận rất nghiêm ngặt**. Việc bay flycam nếu không có giấy phép từ Bộ Quốc phòng sẽ bị tịch thu thiết bị và phạt nặng.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Quy định chụp ảnh và quay phim",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::rules::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::rules::3",
+    "text": "### Quy định về an ninh (Cảnh báo quan trọng)  \n* **Tự bảo quản tư trang:** Quảng trường là không gian mở đông đúc. Du khách cần đặc biệt chú ý giữ chặt điện thoại, túi xách, máy ảnh khi đang mải mê tạo dáng chụp hình để **phòng tránh nạn giật đồ hoặc móc túi** từ các đối tượng chạy xe máy ngang qua.\n* **An toàn giao thông:** Khi lùi lại để lấy góc chụp toàn cảnh nhà thờ, tuyệt đối chú ý dòng xe cộ phía sau do khu vực này không có vỉa hè tách biệt hoàn toàn với vòng xoay.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md",
+      "topic_key": "rules",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Quy định về an ninh (Cảnh báo quan trọng)",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::rules::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::food_drink::4",
+    "text": "### Quy định về hành vi  \n* **Giữ gìn vệ sinh chung:** Không vứt rác, ly nhựa (từ việc uống cà phê bệt) hay bao nilon (đựng thức ăn cho chim) bừa bãi ra bãi cỏ và quảng trường.\n* **Không gây ồn ào quá mức:** Đặc biệt là vào các khung giờ đang cử hành Thánh lễ bên trong nhà thờ.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md",
+      "topic_key": "food_drink",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Quy định về hành vi",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::food_drink::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::food_drink::5",
+    "text": "### Quy định mang đồ cá nhân  \n* Vì là không gian công cộng ngoài trời, du khách **được phép mang theo đồ ăn, thức uống cá nhân** hoặc mua từ những người bán dạo tự do.\n* Tuy nhiên, nếu mang vác hành lý cồng kềnh (vali lớn), việc chụp ảnh và di chuyển quanh vòng xoay sẽ khá bất tiện và dễ lọt vào tầm ngắm của kẻ gian.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md",
+      "topic_key": "food_drink",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Quy định mang đồ cá nhân",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::food_drink::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::tips::6",
+    "text": "### Lưu ý khi tham quan (Cảnh báo lừa đảo tự phát)  \n* **Cảnh giác với người bán dạo:** Một số người bán thức ăn cho chim bồ câu có thể tự ý ấn bịch thức ăn vào tay du khách rồi đòi tiền với giá cao. Hãy hỏi giá trước khi lấy.\n* **Thợ chụp ảnh dạo:** Luôn thỏa thuận rõ ràng về **giá cả cho mỗi tấm hình** và **số lượng ảnh sẽ rửa** trước khi đồng ý chụp để tránh tranh cãi về chi phí sau đó.  \n---  \n💡 **Insight cho chatbot du lịch**  \nCác câu hỏi và tình huống phổ biến của du khách:\n* **\"Nhà thờ đã mở cửa vào bên trong chưa?\"** -> Chatbot phải nhấn mạnh: *Chưa, hiện tại chỉ tham quan được bên ngoài cho đến khi hoàn tất trùng tu (dự kiến 2027).*\n* **\"Có an toàn khi cầm điện thoại chụp ảnh ở đây không?\"** -> Chatbot cần đưa ra lời khuyên: *Hãy cẩn thận, luôn đeo dây đeo máy ảnh vào cổ hoặc cầm chắc điện thoại bằng hai tay, để mắt đến xe cộ xung quanh.*",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "8. Quy định và lưu ý (Rules) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Lưu ý khi tham quan (Cảnh báo lừa đảo tự phát)",
+      "chunk_index": 6,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::tips::6"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::food_drink::7",
+    "text": "* **\"Tôi muốn cho bồ câu ăn thì mua thức ăn ở đâu?\"** -> Chatbot gợi ý: *Có thể mua từ những người bán dạo quanh Tượng Đức Mẹ với giá khoảng 10.000 - 15.000 VNĐ/bịch, nhớ hỏi giá trước khi lấy nhé.*",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "08_rules_regulations.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md",
+      "topic_key": "food_drink",
+      "topic_queries_count": 50,
+      "h2": "8. Quy định và lưu ý (Rules) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Lưu ý khi tham quan (Cảnh báo lừa đảo tự phát)",
+      "chunk_index": 7,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/08_rules_regulations.md::food_drink::7"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::social::0",
+    "text": "## 9. Thông tin đánh giá xã hội (Social) – Nhà thờ Đức Bà Sài Gòn  \n### Điểm đánh giá tổng hợp  \n* **Google Maps:** ~4.5 / 5 ⭐ (hơn **45.000+ đánh giá**)\n* **TripAdvisor:** ~4.0 - 4.5 / 5 ⭐\n* **Các blog du lịch:** Luôn nằm trong **Top 3 biểu tượng phải check-in khi đến TP.HCM**, tuy nhiên thứ hạng về \"trải nghiệm\" hiện tại bị giảm nhẹ do rào chắn thi công.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md",
+      "topic_key": "social",
+      "topic_queries_count": 51,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Điểm đánh giá tổng hợp",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::social::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::experience::1",
+    "text": "### Nhận xét tích cực phổ biến (Pros)  \n* **Biểu tượng không thể thay thế của Sài Gòn**\n* Hầu hết du khách đều đồng ý đây là công trình kiến trúc đậm chất châu Âu đẹp nhất tại thành phố.\n* **Cảnh quan bình yên giữa lòng đô thị**\n* Trải nghiệm ngắm nhà thờ, uống cà phê vỉa hè và cho đàn bồ câu ăn được đánh giá là \"rất Sài Gòn\" và mang lại cảm giác thư giãn.\n* **Vị trí trung tâm tuyệt vời**\n* Cực kỳ tiện lợi để thiết kế một walking-tour vì chỉ cách Bưu điện Trung tâm vài bước chân.\n* **Màu gạch đỏ lên hình cực kỳ ấn tượng**\n* Dù có giàn giáo, màu gạch Marseille dưới ánh nắng sáng sớm vẫn được các nhiếp ảnh gia đánh giá rất cao.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Nhận xét tích cực phổ biến (Pros)",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::experience::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::social::2",
+    "text": "### Nhận xét tiêu cực phổ biến (Cons)  \n* **Bị che khuất bởi giàn giáo (Điểm trừ lớn nhất hiện nay)**\n* Rất nhiều du khách tỏ ra hụt hẫng vì không thể chụp được bức ảnh toàn cảnh hoàn hảo như trên mạng do rào chắn thi công.\n* **Không được vào bên trong**\n* Khách du lịch quốc tế thường phàn nàn vì lỡ mất cơ hội chiêm ngưỡng nội thất và kính cẩm thạch bên trong.\n* **Giao thông vòng xoay lộn xộn**\n* Khách Tây thường xuyên đánh giá việc băng qua đường để vào quảng trường nhà thờ là \"một thử thách mạo hiểm\".\n* **Chèo kéo và cò mồi**\n* Một số phản ánh về việc bị ép mua thức ăn cho bồ câu với giá đắt hoặc bị làm phiền bởi thợ chụp ảnh dạo.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md",
+      "topic_key": "social",
+      "topic_queries_count": 51,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Nhận xét tiêu cực phổ biến (Cons)",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::social::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::tips::3",
+    "text": "### Mẹo tham quan phổ biến (Traveler Tips)  \n* **Sử dụng góc chụp \"ăn gian\" giàn giáo:** Các review thường khuyên nên đứng từ phía Bưu điện hoặc Đường sách chụp hắt sang để lấy được góc tháp chuông ít rào chắn nhất.\n* **Đến vào lúc 06:30 - 07:30 sáng:** Để có ánh sáng đẹp nhất, tránh nắng gắt, chụp hình không bị dính quá nhiều người và dễ dàng mua ly cà phê bệt.\n* **Chấp nhận hiện trạng:** Nhiều blogger du lịch khuyên du khách nên xem giàn giáo như một \"phần của lịch sử\", vì đây là cuộc đại trùng tu trăm năm mới có một lần.\n* **Cất kỹ điện thoại/ví tiền:** Rất nhiều lời cảnh báo (Warning) từ du khách trước về nạn giật điện thoại khi đang lùi lại lòng đường để căn góc chụp ảnh.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Mẹo tham quan phổ biến (Traveler Tips)",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::tips::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::social::4",
+    "text": "### Các điểm được nhắc nhiều nhất trong review  \nTop các từ khóa / chủ đề được nhắc nhiều trong đánh giá du khách:  \n1. **Giàn giáo / Đang sửa chữa (Under renovation / Scaffolding)**\n2. **Kiến trúc gạch đỏ Pháp (French red brick architecture)**\n3. **Đàn chim bồ câu (Pigeons)**\n4. **Bưu điện Trung tâm (thường được nhắc kèm để đi chung)**\n5. **Cà phê bệt / Cà phê vỉa hè**  \n---  \n💡 **Insight cho hệ thống chatbot / RAG**  \nDo đặc thù hiện tại, hệ thống chatbot chắc chắn sẽ liên tục nhận được 3 câu hỏi xã hội phổ biến nhất:  \n* **\"Nhà thờ Đức Bà bao giờ sửa xong?\"** (When will the renovation be finished? -> Trả lời: Dự kiến cuối năm 2027).\n* **\"Bây giờ có vào trong chụp hình được không?\"** (Can I go inside? -> Trả lời: Tuyệt đối không, chỉ tham quan bên ngoài).",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md",
+      "topic_key": "social",
+      "topic_queries_count": 51,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Các điểm được nhắc nhiều nhất trong review",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::social::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::experience::5",
+    "text": "* **\"Đang sửa thì có đáng đến xem không?\"** (Is it still worth visiting? -> Trả lời: Vẫn rất đáng đến vì không gian quảng trường, Tượng Đức Mẹ và bồ câu vẫn hoạt động bình thường, và có thể kết hợp đi Bưu điện ngay đối diện).",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "09_social_intelligence.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "9. Thông tin đánh giá xã hội (Social) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Các điểm được nhắc nhiều nhất trong review",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/09_social_intelligence.md::experience::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::expert::0",
+    "text": "## 10. Thông tin tri thức sâu (Knowledge) – Nhà thờ Đức Bà Sài Gòn  \n### Kiến trúc và thiết kế  \n* **Kiến trúc sư:** J. Bourard (người Pháp) – người đã vượt qua 17 đồ án khác trong cuộc thi thiết kế do Thống đốc Nam Kỳ Duperré tổ chức năm 1876.\n* **Phong cách kiến trúc:** Được thiết kế theo phong cách **Roman (với các vòm cuốn tròn)** cải biên pha trộn nét **Gothic (với tháp nhọn và vòm nệm)**.\n* **Mặt bằng tổng thể:** Xây dựng theo hình **Thánh giá** (dài 93m, ngang 35m).\n* **Vật liệu đặc biệt (Nhập khẩu 100% từ Pháp):**\n* **Gạch đỏ Marseille:** Toàn bộ tường ngoài được xây bằng loại gạch trần không bám rêu mốc, không cần tô trát, vẫn giữ nguyên màu hồng đỏ rực rỡ qua hơn một thế kỷ.\n* **Kính màu (Stained glass):** Ban đầu do hãng Lorin của tỉnh Chartres (Pháp) sản xuất, mô tả các nhân vật và sự kiện Thánh Kinh (sau này phần lớn đã bị phá hủy trong Thế chiến II và được làm lại).",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Kiến trúc và thiết kế",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::expert::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::accessibility::1",
+    "text": "* **Cấu trúc đặc biệt:**\n* Sức chứa lên tới **1.200 người**, chịu lực bởi 12 cột trụ hình chữ nhật.\n* Móng nhà thờ được thiết kế đặc biệt không có lớp bao, chịu được tải trọng khổng lồ của công trình trên nền đất Nam Bộ.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md",
+      "topic_key": "accessibility",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Kiến trúc và thiết kế",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::accessibility::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::expert::2",
+    "text": "### Lịch sử hình thành  \n* **Giai đoạn khởi công:**\n* Ngày **07/10/1877**, Giám mục Isidore Colombert đặt viên đá đầu tiên.\n* **Khánh thành:**\n* Ngày **11/04/1880**, nhà thờ được khánh thành với tên gọi ban đầu là **Nhà thờ Nhà nước** (do thực dân Pháp bỏ tiền xây dựng).\n* **Bổ sung kiến trúc (1895):**\n* Ban đầu, hai tháp chuông chỉ là hai khối hình vuông bằng góc vát. Mãi đến năm **1895**, nhà thờ mới xây thêm **hai chóp tháp nhọn** bằng kim loại để che gác chuông, nâng tổng chiều cao lên 60,5m.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Lịch sử hình thành",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::expert::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::expert::3",
+    "text": "### Sự kiện lịch sử – tôn giáo nổi bật  \n* **Sự kiện Tượng Đức Mẹ (1959):**\n* Tượng Đức Mẹ Hòa Bình (bằng đá cẩm thạch Carrara, do nhà điêu khắc G. Ciocchetti thực hiện tại Ý) được dựng tại quảng trường trước nhà thờ. Từ sự kiện này, công trình chính thức mang tên **Nhà thờ Đức Bà**.\n* **Sắc phong Vương cung Thánh đường (1962):**\n* Ngày **05/12/1962**, Giáo hoàng Gioan XXIII đã sắc phong nhà thờ lên hàng Vương cung Thánh đường (Basilica) - danh hiệu tôn vinh các nhà thờ có tầm quan trọng đặc biệt về lịch sử và tâm linh.\n* **Sự kiện \"Đức Mẹ khóc\" (2005):**\n* Cuối năm 2005, xuất hiện tin đồn bức tượng Đức Mẹ chảy nước mắt, thu hút hàng vạn người hiếu kỳ đổ về trung tâm Sài Gòn gây kẹt xe nhiều ngày (dù Tòa Tổng Giám mục đã chính thức bác bỏ sự việc này).  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Sự kiện lịch sử – tôn giáo nổi bật",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::expert::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::expert::4",
+    "text": "### Giá trị văn hóa – lịch sử  \n* Công trình là **biểu tượng kiến trúc đô thị quan trọng nhất** thời Pháp thuộc còn sót lại, đánh dấu sự chuyển mình của Sài Gòn thành một đô thị kiểu phương Tây.\n* Là **Trung tâm tâm linh** của Tổng giáo phận Thành phố Hồ Chí Minh và cộng đồng Công giáo Nam Bộ.\n* Là minh chứng cho kỹ thuật xây dựng tinh xảo của thế kỷ 19, hiện đang là một trong những dự án **đại trùng tu di sản** quy mô, phức tạp và tốn kém nhất tại Việt Nam (kéo dài từ 2017 đến nay).  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Giá trị văn hóa – lịch sử",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::expert::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::experience::5",
+    "text": "### Các khu trưng bày / đặc điểm tri thức quan trọng  \n* **Bộ 6 quả chuông đồng:** Treo trên hai tháp chuông, nặng tổng cộng 28,85 tấn, đúc năm 1879 tại Pháp. Chuông được thiết kế theo 6 âm cơ bản: Sol, La, Si, Đô, Rê, Mi.\n* **Đồng hồ cổ:** Nằm giữa hai tháp chuông, được chế tạo tại Thụy Sĩ năm 1887. Dù rất cũ nhưng vẫn hoạt động nhờ hệ thống lên dây cót thủ công.\n* **Tượng Đức Mẹ Hòa Bình:** Bức tượng cầm quả địa cầu có gắn thánh giá, ánh mắt nhìn thẳng xuống đường Đồng Khởi, là điểm check-in quan trọng nhất của du khách.  \n---  \n💡 **Insight cho hệ thống QA Agent du lịch / Knowledge Base**  \nCác “knowledge chunks” (mảnh kiến thức) cực kỳ quan trọng thường được du khách hoặc hệ thống hỏi - đáp truy vấn nhiều nhất:  \n1. **Nguồn gốc gạch đỏ:** (Gạch nhập từ Marseille, không cần trát vữa, không rêu mốc).",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md",
+      "topic_key": "experience",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Các khu trưng bày / đặc điểm tri thức quan trọng",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::experience::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::expert::6",
+    "text": "1. **Nguồn gốc gạch đỏ:** (Gạch nhập từ Marseille, không cần trát vữa, không rêu mốc).\n2. **Sự khác biệt giữa Nhà thờ chính tòa và Vương cung Thánh đường:** (Vương cung Thánh đường là danh hiệu đặc biệt do Giáo hoàng phong tặng).\n3. **Ý nghĩa của Tượng Đức Mẹ Hòa Bình:** (Sự kiện đổi tên thành Nhà thờ Đức Bà năm 1959).\n4. **Tại sao nhà thờ lại đang bị quây tôn/giàn giáo?** (Quá trình đại trùng tu thế kỷ, thay mới ngói và vật liệu hư hỏng).",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "10_expert_knowledge.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "10. Thông tin tri thức sâu (Knowledge) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Các khu trưng bày / đặc điểm tri thức quan trọng",
+      "chunk_index": 6,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/10_expert_knowledge.md::expert::6"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::nearby::0",
+    "text": "## 11. Quan hệ với địa điểm khác (Related) – Nhà thờ Đức Bà Sài Gòn  \n### Các địa điểm lân cận (Nearby Attractions)  \nNằm ngay \"trái tim\" của Quận 1, bán kính **50 m – 1 km** quanh nhà thờ tập trung dày đặc các biểu tượng của thành phố:  \n* **Bưu điện Trung tâm Sài Gòn** – ~50 m\n* Nằm ngay đối diện qua Công trường Công xã Paris; công trình kiến trúc Pháp tuyệt đẹp và điểm gửi bưu thiếp nổi tiếng.\n* **Đường sách Nguyễn Văn Bình** – ~100 m\n* Nằm bên hông Bưu điện; con đường rợp bóng cây tập trung các gian hàng sách, không gian văn hóa và quán cà phê yên tĩnh.\n* **Công viên 30/4** – ~50 m\n* Mảng xanh lớn bao quanh khu vực, nổi tiếng với \"văn hóa cà phê bệt\" của người dân Sài Gòn.\n* **Diamond Plaza** – ~50 m\n* Tòa nhà thương mại hiện đại nằm ngay phía sau lưng nhà thờ, nơi du khách thường ghé để ăn uống, mua sắm hoặc sử dụng nhà vệ sinh.\n* **Dinh Độc Lập** – ~500 m",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "11. Quan hệ với địa điểm khác (Related) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Các địa điểm lân cận (Nearby Attractions)",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::nearby::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::nearby::1",
+    "text": "* **Dinh Độc Lập** – ~500 m\n* Cách một đoạn đi bộ ngắn xuyên qua Công viên 30/4; di tích lịch sử đặc biệt quan trọng.\n* **Nhà hát Thành phố (Saigon Opera House)** – ~600 m\n* Đi dọc xuống trục đường Đồng Khởi; biểu tượng kiến trúc nghệ thuật lộng lẫy thời Pháp thuộc.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md",
+      "topic_key": "nearby",
+      "topic_queries_count": 50,
+      "h2": "11. Quan hệ với địa điểm khác (Related) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Các địa điểm lân cận (Nearby Attractions)",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::nearby::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::itinerary::2",
+    "text": "### Tuyến tham quan phổ biến (Common Tourist Route)  \nDu khách thường kết hợp tham quan các điểm sau trong **một buổi đi bộ (Walking Tour 2-3 giờ)**:  \n**Tuyến \"Dấu ấn kiến trúc Pháp & Văn hóa Sài Gòn\"**\n1. Nhà thờ Đức Bà Sài Gòn (Chụp ảnh sớm, tương tác bồ câu)\n2. Bưu điện Trung tâm Sài Gòn (Tham quan nội thất, gửi bưu thiếp)\n3. Đường sách Nguyễn Văn Bình (Dạo bộ, uống cà phê)\n4. Dinh Độc Lập (Tham quan di tích lịch sử)  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md",
+      "topic_key": "itinerary",
+      "topic_queries_count": 50,
+      "h2": "11. Quan hệ với địa điểm khác (Related) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Tuyến tham quan phổ biến (Common Tourist Route)",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::itinerary::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::itinerary::3",
+    "text": "### Gợi ý lịch trình tham quan nửa ngày  \n**Buổi sáng (07:30 – 11:30) - Lựa chọn tối ưu nhất**  \n* **07:30:** Có mặt tại quảng trường Nhà thờ Đức Bà (chụp ảnh vắng người, ánh sáng đẹp, cho bồ câu ăn). Mua một ly cà phê bệt ngồi tại Công viên 30/4.\n* **08:15:** Bước sang Bưu điện Trung tâm ngay đối diện (vừa lúc mở cửa, chưa bị các đoàn tour lớn đổ bộ).\n* **09:00:** Đi bộ sang Đường sách Nguyễn Văn Bình tham quan, mua đồ lưu niệm hoặc nghỉ chân uống nước.\n* **10:00:** Thong thả đi bộ xuyên qua Công viên 30/4 để đến tham quan Dinh Độc Lập.  \n**Buổi trưa (11:30 – 13:00)**  \n* Ăn trưa tại khu vực lân cận:\n* Food court trong Diamond Plaza (có máy lạnh).\n* Các nhà hàng ẩm thực Việt trên đường Pasteur hoặc Nguyễn Du gần đó (như Propaganda Bistro).  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md",
+      "topic_key": "itinerary",
+      "topic_queries_count": 50,
+      "h2": "11. Quan hệ với địa điểm khác (Related) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Gợi ý lịch trình tham quan nửa ngày",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::itinerary::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::expert::4",
+    "text": "### Liên kết chủ đề lịch sử (Historical Context Network)  \nNhà thờ Đức Bà thường được đặt trong **hai chuỗi chủ đề tham quan** chính:  \n* **Chuỗi dấu ấn kiến trúc quy hoạch Pháp (French Colonial Architecture):**\n* Nhà thờ Đức Bà – Bưu điện Trung tâm – Nhà hát Thành phố – Trụ sở UBND TP.HCM – Bảo tàng Mỹ thuật.\n* Giúp du khách hình dung rõ nét về \"Hòn ngọc Viễn Đông\" cuối thế kỷ 19, đầu thế kỷ 20.\n* **Chuỗi kiến trúc tôn giáo đặc sắc (Religious Landmarks):**\n* Nhà thờ Đức Bà Sài Gòn – Nhà thờ Tân Định (Nhà thờ màu hồng) – Chùa Ngọc Hoàng.  \n---  \n💡 **Insight cho hệ thống chatbot du lịch**  \nCác câu hỏi thường gặp liên quan đến định tuyến (routing) của du khách:  \n* **\"Tham quan xong Nhà thờ Đức Bà thì đi đâu tiếp cho tiện?\"**",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md",
+      "topic_key": "expert",
+      "topic_queries_count": 50,
+      "h2": "11. Quan hệ với địa điểm khác (Related) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Liên kết chủ đề lịch sử (Historical Context Network)",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::expert::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::transport::5",
+    "text": "* **\"Tham quan xong Nhà thờ Đức Bà thì đi đâu tiếp cho tiện?\"**\n* **\"Đi bộ từ Nhà thờ Đức Bà ra Phố đi bộ Nguyễn Huệ mất bao lâu, đi đường nào đẹp?\"** (Chatbot nên chỉ đường đi dọc xuống đường Đồng Khởi để ngắm các cửa hiệu sang trọng và Nhà hát Thành phố).\n* **\"Có điểm nào gần đây có máy lạnh để nghỉ chân không?\"** (Chatbot nên gợi ý Diamond Plaza hoặc Bưu điện Trung tâm).",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "11_related_places.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md",
+      "topic_key": "transport",
+      "topic_queries_count": 50,
+      "h2": "11. Quan hệ với địa điểm khác (Related) – Nhà thờ Đức Bà Sài Gòn",
+      "h3": "Liên kết chủ đề lịch sử (Historical Context Network)",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/11_related_places.md::transport::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/12_media_references.md::unknown::0",
+    "text": "",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "12_media_references.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/12_media_references.md",
+      "topic_key": "unknown",
+      "topic_queries_count": 0,
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/12_media_references.md::unknown::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::0",
+    "text": "# 14. Thông tin thời tiết & khí hậu (Weather & Climate) – Nhà thờ Đức Bà Sài Gòn  \nNhà thờ Đức Bà Sài Gòn nằm ở lõi trung tâm Quận 1, chịu ảnh hưởng đặc trưng của **khí hậu nhiệt đới gió mùa (tropical savanna)** với nhiệt độ cao quanh năm và hai mùa mưa - nắng phân hóa rõ rệt.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Nhà thờ Đức Bà Sài Gòn",
+      "chunk_index": 0,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::0"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::1",
+    "text": "## 14.1 Đặc điểm theo mùa  \n**Mùa khô (Tháng 11 – Tháng 4)**  \n* **Trạng thái:** Bầu trời trong xanh, nắng gắt, mây trắng, lượng mưa cực thấp.\n* **Nhiệt độ:** Khoảng **25°C – 36°C**.\n* **Độ ẩm:** 60–70%.\n* **Đánh giá:** Đây là thời điểm tuyệt vời nhất để ngắm nhìn trọn vẹn vẻ đẹp rực rỡ của lớp gạch đỏ Marseille dưới ánh nắng. Tuy nhiên, cái nóng ban trưa rất gay gắt do hiệu ứng đảo nhiệt đô thị.\n* **Tháng đẹp nhất:** Tháng 12 – Tháng 1 (trời có gió nhẹ, se lạnh vào sáng sớm, mang đậm không khí lễ hội cuối năm).  \n**Mùa mưa (Tháng 5 – Tháng 10)**  \n* **Trạng thái:** Thường xuyên có những cơn mưa rào đổ xuống rất nhanh và nặng hạt, chủ yếu vào **chiều hoặc tối**.\n* **Nhiệt độ:** Khoảng **24°C – 32°C**.\n* **Độ ẩm:** 80–90%, gây cảm giác rít da và oi bức trước khi mưa.",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Nhà thờ Đức Bà Sài Gòn",
+      "h2": "14.1 Đặc điểm theo mùa",
+      "chunk_index": 1,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::1"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::2",
+    "text": "* **Nhiệt độ:** Khoảng **24°C – 32°C**.\n* **Độ ẩm:** 80–90%, gây cảm giác rít da và oi bức trước khi mưa.\n* **Lưu ý cực kỳ quan trọng:** Vì nhà thờ hiện **không mở cửa cho khách vào trong**, toàn bộ trải nghiệm đều ở ngoài quảng trường. Khi có mưa lớn, khu vực này **hoàn toàn không có chỗ trú mưa trực tiếp**. Du khách bắt buộc phải chạy sang Bưu điện Trung tâm, Diamond Plaza hoặc các quán cà phê gần đó.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Nhà thờ Đức Bà Sài Gòn",
+      "h2": "14.1 Đặc điểm theo mùa",
+      "chunk_index": 2,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::2"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::3",
+    "text": "## 14.2 Chỉ số môi trường trung bình  \n* **Nhiệt độ trung bình năm:** ~27–28°C\n* **Độ ẩm trung bình:** 75% – 80%\n* **Lượng mưa trung bình năm:** ~1.800 – 2.000 mm\n* **Chỉ số UV:** Thường đạt mức **Rất Cao đến Cực Độ (9–11+)** trong khoảng 11:00 – 14:00.  \n💡 **Lưu ý cộng hưởng nhiệt:** Quảng trường trước nhà thờ là không gian mở rộng lớn, mặt nền là đường nhựa và gạch, cộng thêm bức tường gạch đỏ khổng lồ của nhà thờ hấp thụ nhiệt. Do đó, nhiệt độ cảm nhận thực tế vào buổi trưa có thể **cao hơn 3–4°C** so với dự báo thời tiết.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Nhà thờ Đức Bà Sài Gòn",
+      "h2": "14.2 Chỉ số môi trường trung bình",
+      "chunk_index": 3,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::3"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::4",
+    "text": "## 14.3 Khuyến nghị theo thời điểm trong ngày  \n**Sáng sớm (06:30 – 08:30) – Khung giờ vàng**  \n* Thời tiết cực kỳ mát mẻ, dễ chịu (khoảng **25°C – 28°C**).\n* Đàn bồ câu hoạt động mạnh nhất và sà xuống sân nhiều nhất. Trải nghiệm uống \"cà phê bệt\" lúc này là tuyệt hảo.  \n**Trưa (10:30 – 15:00) – Cần tránh**  \n* Nắng gắt chiếu trực diện, tia UV đạt đỉnh, không gian quảng trường trước tượng Đức Mẹ gần như không có bóng râm.\n* **Khuyến nghị:** Tránh xếp lịch tham quan nhà thờ vào khung giờ này. Thay vào đó, hãy ưu tiên các điểm có máy lạnh như Bưu điện Trung tâm, Dinh Độc Lập hoặc Bảo tàng.  \n**Chiều tà (16:00 – 17:30) – Thời điểm lãng mạn**  \n* Nhiệt độ giảm dần, nắng xiên tạo bóng râm từ các tòa nhà xung quanh.\n* Rất thích hợp để dạo bộ, nhưng vào mùa mưa (tháng 5 - tháng 10) đây là lúc rất dễ \"dính\" những cơn mưa chiều xối xả.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Nhà thờ Đức Bà Sài Gòn",
+      "h2": "14.3 Khuyến nghị theo thời điểm trong ngày",
+      "chunk_index": 4,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::4"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::tips::5",
+    "text": "## 14.4 Vật dụng nên chuẩn bị  \n**Mùa khô**  \n* **Kem chống nắng phổ rộng** (Bôi lại sau mỗi 2 tiếng nếu đi bộ liên tục quanh cụm di sản).\n* **Kính râm, Mũ rộng vành:** Chống chói cực tốt khi ngước lên nhìn tháp chuông.\n* **Áo khoác chống nắng:** Cần thiết nếu di chuyển bằng xe máy công nghệ (GrabBike) đến điểm tham quan.  \n**Mùa mưa**  \n* **Ô (dù) gấp gọn:** Vật dụng \"cứu mạng\" vì từ quảng trường chạy sang điểm trú mưa gần nhất (Bưu điện) cũng mất khoảng 1-2 phút.\n* **Túi zip chống nước:** Bảo vệ điện thoại và máy ảnh khi trời đổ mưa dông đột ngột.  \n**Nước uống**  \n* Rất cần thiết. Dù có người bán nước dạo quanh khu vực nhưng mang theo bình nước cá nhân sẽ chủ động và vệ sinh hơn.  \n---",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md",
+      "topic_key": "tips",
+      "topic_queries_count": 49,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Nhà thờ Đức Bà Sài Gòn",
+      "h2": "14.4 Vật dụng nên chuẩn bị",
+      "chunk_index": 5,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::tips::5"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::6",
+    "text": "## 14.5 Thời điểm chụp ảnh đẹp  \n* **07:00 – 08:30:** Hướng nắng Đông Nam chiếu xiên cực đẹp lên mặt tiền gạch đỏ của nhà thờ, tôn lên các chi tiết kiến trúc mà không bị ngược sáng.\n* **16:30 – 17:30:** Ánh sáng hoàng hôn rực rỡ từ phía sau tháp chuông tạo nên những bức ảnh có chiều sâu (silhouette), kết hợp với dòng xe cộ lên đèn tạo khung cảnh nhộn nhịp đặc trưng của Sài Gòn.  \n---  \n💡 **Insight cho travel AI / chatbot**  \nVì hệ thống RAG phục vụ cho chatbot du lịch, đây là những câu hỏi thực tế phổ biến nhất mà agent cần chuẩn bị kịch bản phản hồi linh hoạt:  \n* **\"Đang đứng ở Nhà thờ Đức Bà mà trời mưa to quá thì chạy đi đâu trú?\"** -> Trợ lý AI cần lập tức định vị và chỉ hướng: *Hãy chạy ngay sang Bưu điện Trung tâm Sài Gòn đối diện hoặc tấp vào sảnh Diamond Plaza ngay phía sau lưng bạn nhé.*",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Nhà thờ Đức Bà Sài Gòn",
+      "h2": "14.5 Thời điểm chụp ảnh đẹp",
+      "chunk_index": 6,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::6"
+    }
+  },
+  {
+    "id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::7",
+    "text": "* **\"Trưa nay 12h mình ghé Nhà thờ chụp hình được không?\"** -> Trợ lý AI cần can ngăn: *Trưa ở quảng trường rất nắng và không có bóng râm, tia UV rất cao. Bạn nên dời lịch sang sau 16h hoặc đi vào sáng sớm để có ảnh đẹp và không bị mệt nhé.*",
+    "metadata": {
+      "city": "ho-chi-minh",
+      "place": "nha-tho-duc-ba",
+      "source_file": "14_weather_climate.md",
+      "source_rel_path": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md",
+      "topic_key": "weather",
+      "topic_queries_count": 50,
+      "h1": "14. Thông tin thời tiết & khí hậu (Weather & Climate) – Nhà thờ Đức Bà Sài Gòn",
+      "h2": "14.5 Thời điểm chụp ảnh đẹp",
+      "chunk_index": 7,
+      "chunk_id": "ho-chi-minh/nha-tho-duc-ba/14_weather_climate.md::weather::7"
+    }
+  }
+]
