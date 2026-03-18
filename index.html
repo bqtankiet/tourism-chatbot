@@ -56,6 +56,8 @@
         .panel-content {
             text-align: center;
             color: #888;
+            height: 100%;
+            padding: 2rem;
         }
 
         /* CHAT CARD */
@@ -394,12 +396,12 @@
         </div>
 
         <!-- PANEL -->
-        <!-- <div class="side-panel">
-            <div class="panel-content">
+        <div class="side-panel">
+            <div class="panel-content" id="panelContent">
                 <h4>🗺️ Panel hiển thị</h4>
                 <p>Map / info sẽ render ở đây</p>
             </div>
-        </div> -->
+        </div>
 
     </div>
 
@@ -508,6 +510,9 @@
             // bật layout
             chatCard.classList.remove('centered');
             appContainer.classList.add('has-chat');
+            if (!quickMoved) {
+                moveQuickActionsToPanel();
+            }
 
             addMessage(text, true);
             messageInput.value = '';
@@ -549,6 +554,32 @@
             messageInput.value = text;
             handleSubmit(new Event('submit'));
         }
+
+        let quickMoved = false;
+        function moveQuickActionsToPanel() {
+            if (quickMoved) return;
+
+            const quickActions = document.querySelector('.quick-actions');
+            quickActions.style.maxHeight = '90%';
+            const panelContent = document.getElementById('panelContent');
+
+            if (!quickActions || !panelContent) return;
+
+            // clear panel
+            panelContent.innerHTML = '';
+
+            // title
+            const title = document.createElement('h5');
+            title.style.paddingBottom = '10px';
+            title.innerText = "🏛️ Các câu thường hỏi của du khách";
+            panelContent.appendChild(title);
+
+            // move quick actions
+            panelContent.appendChild(quickActions);
+
+            quickMoved = true;
+        }
+
     </script>
 
 </body>
