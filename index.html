@@ -252,6 +252,26 @@
             border-radius: 4px;
         }
 
+        .quick-actions {
+            max-height: 220px;
+            /* giới hạn chiều cao */
+            overflow-y: auto;
+            /* bật scroll dọc */
+        }
+
+        .quick-actions::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .quick-actions::-webkit-scrollbar-thumb {
+            background: #ccc;
+            border-radius: 4px;
+        }
+
+        .quick-actions::-webkit-scrollbar-thumb:hover {
+            background: #999;
+        }
+
         @keyframes blink {
 
             0%,
@@ -279,12 +299,80 @@
                     <div class="chat-messages" id="chatMessages">
                         <div class="welcome-message">
                             <h5>👋 Xin chào!</h5>
-                            <p>Mình là trợ lý du lịch của bạn 😊 <br> Chọn một địa điểm để xem chi tiết nhé!</p>
-
+                            <p>Mình là trợ lý du lịch của bạn 😊 <br> Cùng khám phá Dinh Độc Lập ngay bây giờ nhé! 👇!
+                            </p>
                             <div class="quick-actions">
-                                <a href="#" onclick="sendQuickMessage('Hà Nội')" class="btn-quick">Hà Nội</a>
-                                <a href="#" onclick="sendQuickMessage('TP.HCM')" class="btn-quick">TP.HCM</a>
-                                <a href="#" onclick="sendQuickMessage('Hạ Long')" class="btn-quick">Đà Nẵng</a>
+                                <a href="#" onclick="sendQuickMessage('Địa chỉ của Dinh Độc Lập')" class="btn-quick">
+                                    Địa chỉ của Dinh Độc Lập
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Các tuyến xe bus đi Dinh Độc Lập')"
+                                    class="btn-quick">
+                                    Các tuyến xe bus đi Dinh Độc Lập
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Những lưu ý khi tham quan Dinh Độc Lập')"
+                                    class="btn-quick">
+                                    Những lưu ý khi tham quan Dinh Độc Lập
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Giờ mở cửa của Dinh Độc Lập')" class="btn-quick">
+                                    Giờ mở cửa của Dinh Độc Lập
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Giá vé tham quan Dinh Độc Lập')"
+                                    class="btn-quick">
+                                    Giá vé tham quan Dinh Độc Lập
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Dinh Độc Lập có gì tham quan')"
+                                    class="btn-quick">
+                                    Dinh Độc Lập có gì tham quan
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Lịch sử của Dinh Độc Lập')" class="btn-quick">
+                                    Lịch sử của Dinh Độc Lập
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Thời gian tham quan Dinh Độc Lập mất bao lâu')"
+                                    class="btn-quick">
+                                    Thời gian tham quan Dinh Độc Lập mất bao lâu
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Có hướng dẫn viên tại Dinh Độc Lập không')"
+                                    class="btn-quick">
+                                    Có hướng dẫn viên tại Dinh Độc Lập không
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Có được chụp ảnh trong Dinh Độc Lập không')"
+                                    class="btn-quick">
+                                    Có được chụp ảnh trong Dinh Độc Lập không
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Kinh nghiệm tham quan Dinh Độc Lập')"
+                                    class="btn-quick">
+                                    Kinh nghiệm tham quan Dinh Độc Lập
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Dinh Độc Lập có bãi giữ xe không')"
+                                    class="btn-quick">
+                                    Dinh Độc Lập có bãi giữ xe không
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Nên đi Dinh Độc Lập vào thời gian nào')"
+                                    class="btn-quick">
+                                    Nên đi Dinh Độc Lập vào thời gian nào
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Gần Dinh Độc Lập có địa điểm nào tham quan')"
+                                    class="btn-quick">
+                                    Gần Dinh Độc Lập có địa điểm nào tham quan
+                                </a>
+
+                                <a href="#" onclick="sendQuickMessage('Có tour tham quan Dinh Độc Lập không')"
+                                    class="btn-quick">
+                                    Có tour tham quan Dinh Độc Lập không
+                                </a>
                             </div>
                         </div>
                     </div>
