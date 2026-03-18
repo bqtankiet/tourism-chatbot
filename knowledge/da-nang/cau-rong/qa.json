@@ -1,0 +1,55 @@
+﻿{
+    "context_summary":  "Câu hỏi thường gặp về Cầu Rồng dùng cho chatbot tư vấn du lịch.",
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Cầu Rồng ở đâu?",
+                          "answer":  "Cầu Rồng nằm tại bắc qua sông Hàn, nối Nguyễn Văn Linh - Võ Văn Kiệt."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "Giờ hoạt động của Cầu Rồng thế nào?",
+                          "answer":  "Thông tin tham khảo: mở tự do 24/7, show cuối tuần theo lịch. Nên kiểm tra cập nhật trước khi đi."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "Đi Cầu Rồng có mất vé không?",
+                          "answer":  "Chi phí phụ thuộc loại hình tham quan; tham khảo: tham quan miễn phí, phát sinh gửi xe/ăn uống."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Nên đi Cầu Rồng lúc nào đẹp?",
+                          "answer":  "Thời điểm gợi ý: chiều tối và tối cuối tuần."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "Cầu Rồng có gì nổi bật?",
+                          "answer":  "Điểm nhấn chính gồm: kiến trúc đầu rồng, show phun lửa phun nước."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Đi Cầu Rồng bằng cách nào thuận tiện?",
+                          "answer":  "Cách di chuyển phổ biến: đi bộ/xe máy/taxi rất thuận tiện."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "Khi đi Cầu Rồng cần lưu ý gì?",
+                          "answer":  "Nên tuân thủ quy định chung: đứng vị trí an toàn khi xem show."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "Cầu Rồng phù hợp đi với ai?",
+                          "answer":  "Phù hợp cho gia đình, cặp đôi, nhóm bạn và khách quốc tế."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Có thể kết hợp điểm nào gần ",
+                          "answer":  "Bạn có thể kết hợp: Cầu Tình Yêu, Chợ đêm Sơn Trà, Biển Mỹ Khê."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "Thời tiết ảnh hưởng thế nào khi đi ",
+                          "answer":  "Đặc điểm thời tiết: mùa khô thuận lợi cho hoạt động ngoài trời. Nên xem dự báo trước chuyến đi."
+                      }
+                  ]
+}

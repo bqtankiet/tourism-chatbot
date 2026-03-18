@@ -1,12 +1,16 @@
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from .base import BaseRetriever
+from core.loader.model_cache import get_or_create_model
 
 class SemanticRetriever(BaseRetriever):
 
     def __init__(self, resources, model_name="BAAI/bge-m3"):
         self.model_name = model_name
-        self.model = SentenceTransformer(model_name)
+        self.model = get_or_create_model(
+            cache_key=("SentenceTransformer", model_name),
+            factory=lambda: SentenceTransformer(model_name),
+        )
 
         self.resource_embeddings = {
             resource: np.array([

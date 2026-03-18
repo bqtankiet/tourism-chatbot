@@ -1,0 +1,55 @@
+﻿{
+    "context_summary":  "Câu hỏi thường gặp về Hồ Hoàn Kiếm dùng cho chatbot tư vấn du lịch.",
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Hồ Hoàn Kiếm ở đâu?",
+                          "answer":  "Hồ Hoàn Kiếm nằm tại quận Hoàn Kiếm, Hà Nội."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "Giờ hoạt động của Hồ Hoàn Kiếm thế nào?",
+                          "answer":  "Thông tin tham khảo: mở tự do cả ngày. Nên kiểm tra cập nhật trước khi đi."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "Đi Hồ Hoàn Kiếm có mất vé không?",
+                          "answer":  "Chi phí phụ thuộc loại hình tham quan; tham khảo: tham quan hồ miễn phí, điểm phụ trợ có thể thu phí."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Nên đi Hồ Hoàn Kiếm lúc nào đẹp?",
+                          "answer":  "Thời điểm gợi ý: sáng sớm hoặc chiều tối."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "Hồ Hoàn Kiếm có gì nổi bật?",
+                          "answer":  "Điểm nhấn chính gồm: Tháp Rùa, cầu Thê Húc, đền Ngọc Sơn."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Đi Hồ Hoàn Kiếm bằng cách nào thuận tiện?",
+                          "answer":  "Cách di chuyển phổ biến: đi bộ/xe buýt/taxi từ khu trung tâm."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "Khi đi Hồ Hoàn Kiếm cần lưu ý gì?",
+                          "answer":  "Nên tuân thủ quy định chung: giữ vệ sinh và tuân thủ quy định phố đi bộ."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "Hồ Hoàn Kiếm phù hợp đi với ai?",
+                          "answer":  "Phù hợp cho gia đình, cặp đôi, nhóm bạn và khách quốc tế."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Có thể kết hợp điểm nào gần ",
+                          "answer":  "Bạn có thể kết hợp: Phố cổ Hà Nội, Đền Ngọc Sơn, Nhà hát Lớn."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "Thời tiết ảnh hưởng thế nào khi đi ",
+                          "answer":  "Đặc điểm thời tiết: mùa thu và mùa xuân dễ chịu. Nên xem dự báo trước chuyến đi."
+                      }
+                  ]
+}

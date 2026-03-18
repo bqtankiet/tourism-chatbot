@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vietnam Guide Pass - Chatbot</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <style>
+        body {
+            margin: 0;
+            background: #f8f9fa;
+        }
+
+        .app-container {
+            display: flex;
+            height: 100vh;
+            transition: all 0.3s ease;
+        }
+
+        /* CHAT */
+        .chat-section {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: all 0.3s ease;
+        }
+
+        /* PANEL (ẨN BAN ĐẦU) */
+        .side-panel {
+            width: 0;
+            overflow: hidden;
+            background: #fff;
+            transition: all 0.4s ease;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* HIỆN PANEL SAU KHI CHAT */
+        .app-container.has-chat .side-panel {
+            width: 30%;
+            min-width: 350px;
+            border-left: 1px solid #eee;
+        }
+
+        .panel-content {
+            text-align: center;
+            color: #888;
+        }
+
+        /* CHAT CARD */
+        .chat-wrapper {
+            width: 100%;
+            max-width: 700px;
+            height: 100%;
+            padding: 10px;
+        }
+
+        .chat-card {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            transition: all 0.3s ease;
+        }
+
+        /* CENTER MODE */
+        .chat-card.centered {
+            justify-content: center;
+            align-items: center;
+        }
+
+        .chat-card.centered .chat-messages {
+            flex: unset;
+            max-height: 300px;
+            overflow: hidden;
+        }
+
+        .chat-card.centered .chat-input-area {
+            width: 100%;
+            max-width: 500px;
+        }
+
+        /* MESSAGES */
+        .chat-messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 10px;
+        }
+
+        .chat-messages::-webkit-scrollbar {
+            display: none;
+        }
+
+        .chat-messages {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+
+        .message {
+            display: flex;
+            margin-bottom: 10px;
+        }
+
+        .message.user {
+            justify-content: flex-end;
+        }
+
+        .message-content {
+            background: #e9ecef;
+            padding: 10px 14px;
+            border-radius: 12px;
+        }
+
+        .message.user .message-content {
+            background: #b93435;
+            color: white;
+        }
+
+        .message-time {
+            font-size: 11px;
+            color: #999;
+            margin-top: 3px;
+        }
+
+        /* INPUT */
+        .chat-input-area {
+            padding: 10px;
+            border-top: 1px solid #eee;
+        }
+
+        .input-wrapper {
+            display: flex;
+            gap: 10px;
+        }
+
+        .chat-input {
+            flex: 1;
+            resize: none;
+            border-radius: 10px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            min-height: 40px;
+            max-height: 120px;
+            /* tránh quá cao */
+            overflow-y: auto;
+        }
+
+        .chat-input:focus {
+            outline: none;
+            box-shadow: none;
+        }
+
+        /* Ẩn scrollbar Chrome, Edge, Safari */
+        .chat-input::-webkit-scrollbar {
+            display: none;
+        }
+
+        /* Ẩn scrollbar Firefox */
+        .chat-input {
+            scrollbar-width: none;
+        }
+
+        /* Ẩn scrollbar IE cũ */
+        .chat-input {
+            -ms-overflow-style: none;
+        }
+
+        .btn-send {
+            border: none;
+            background: #b93435;
+            color: white;
+            padding: 0 16px;
+            border-radius: 10px;
+        }
+
+        /* WELCOME */
+        .welcome-message {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .quick-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            justify-content: center;
+        }
+
+        .btn-quick {
+            padding: 6px 12px;
+            background: #f1f3f5;
+            border-radius: 20px;
+            text-decoration: none;
+            color: #333;
+            font-size: 14px;
+        }
+
+        /* TYPING */
+        .typing-indicator {
+            display: none;
+            padding-left: 10px;
+        }
+
+        .typing-indicator.active {
+            display: flex;
+            gap: 5px;
+        }
+
+        .typing-dot {
+            width: 6px;
+            height: 6px;
+            background: #999;
+            border-radius: 50%;
+            animation: blink 1.2s infinite;
+        }
+
+        .message-content h1,
+        .message-content h2,
+        .message-content h3 {
+            margin: 8px 0;
+        }
+
+        .message-content p {
+            margin: 4px 0;
+        }
+
+        .message-content ul {
+            padding-left: 20px;
+        }
+
+        .message-content pre {
+            background: #111;
+            color: #0f0;
+            padding: 10px;
+            border-radius: 8px;
+            overflow-x: auto;
+        }
+
+        .message-content code {
+            background: #eee;
+            padding: 8px 4px;
+            border-radius: 4px;
+        }
+
+        @keyframes blink {
+
+            0%,
+            80%,
+            100% {
+                opacity: 0;
+            }
+
+            40% {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="app-container" id="appContainer">
+
+        <!-- CHAT -->
+        <div class="chat-section">
+            <div class="chat-wrapper">
+                <div class="chat-card centered" id="chatCard">
+
+                    <div class="chat-messages" id="chatMessages">
+                        <div class="welcome-message">
+                            <h5>👋 Xin chào!</h5>
+                            <p>Mình là trợ lý du lịch của bạn 😊 <br> Chọn một địa điểm để xem chi tiết nhé!</p>
+
+                            <div class="quick-actions">
+                                <a href="#" onclick="sendQuickMessage('Hà Nội')" class="btn-quick">Hà Nội</a>
+                                <a href="#" onclick="sendQuickMessage('TP.HCM')" class="btn-quick">TP.HCM</a>
+                                <a href="#" onclick="sendQuickMessage('Hạ Long')" class="btn-quick">Đà Nẵng</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="chat-input-area">
+                        <form onsubmit="handleSubmit(event)">
+                            <div class="input-wrapper">
+                                <textarea id="messageInput" class="chat-input" placeholder="Nhập câu hỏi..."
+                                    rows="1"></textarea>
+                                <button class="btn-send">
+                                    <i class="fas fa-paper-plane"></i>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <!-- PANEL -->
+        <div class="side-panel">
+            <div class="panel-content">
+                <h4>🗺️ Panel hiển thị</h4>
+                <p>Map / info sẽ render ở đây</p>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        const API_URL = "https://bqtankiet-travel-chatbot.hf.space/chat/stream";
+
+        const chatMessages = document.getElementById('chatMessages');
+        const messageInput = document.getElementById('messageInput');
+        const chatCard = document.getElementById('chatCard');
+        const appContainer = document.getElementById('appContainer');
+
+        let isProcessing = false;
+
+        // 👉 add message giữ style cũ
+        function addMessage(text, isUser = false) {
+            const div = document.createElement('div');
+            div.className = `message ${isUser ? 'user' : ''}`;
+
+            div.innerHTML = `
+        <div>
+            <div class="message-content"></div>
+            
+        </div>
+    `;
+
+            chatMessages.appendChild(div);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+
+            const contentNode = div.querySelector('.message-content');
+            contentNode.innerHTML = text;
+
+            return contentNode;
+        }
+
+        async function streamAnswer(query, targetNode) {
+            const response = await fetch(API_URL, {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ query })
+            });
+
+            if (!response.ok || !response.body) {
+                throw new Error(`Request failed (${response.status})`);
+            };
+
+            const reader = response.body.getReader();
+            const decoder = new TextDecoder();
+
+            let buffer = "";
+            let isFirstToken = true;
+            let fullText = "";
+
+            // 👉 typing indicator
+            targetNode.innerHTML = `
+        <div class="typing-indicator active">
+            <div class="typing-dot"></div>
+            <div class="typing-dot"></div>
+            <div class="typing-dot"></div>
+        </div>
+    `;
+
+            while (true) {
+                const { done, value } = await reader.read();
+                if (done) break;
+
+                buffer += decoder.decode(value, { stream: true });
+
+                const events = buffer.split("\n\n");
+                buffer = events.pop() || "";
+
+                for (const event of events) {
+                    const lines = event.split("\n");
+
+                    for (const line of lines) {
+                        if (!line.startsWith("data: ")) continue;
+
+                        const token = line.slice(6);
+                        if (token === "[DONE]") continue;
+
+                        if (isFirstToken) {
+                            targetNode.innerHTML = "";
+                            isFirstToken = false;
+                        }
+
+                        fullText += token;
+
+                        // 👉 render markdown
+                        marked.setOptions({
+                            breaks: true
+                        });
+                        targetNode.innerHTML = marked.parse(fullText);
+
+                        chatMessages.scrollTop = chatMessages.scrollHeight;
+                    }
+                }
+            }
+        }
+
+        // SUBMIT
+        async function handleSubmit(e) {
+            e.preventDefault();
+
+            const text = messageInput.value.trim();
+            if (!text || isProcessing) return;
+
+            // bật layout
+            chatCard.classList.remove('centered');
+            appContainer.classList.add('has-chat');
+
+            addMessage(text, true);
+            messageInput.value = '';
+
+            const botNode = addMessage("");
+
+            isProcessing = true;
+
+            try {
+                await streamAnswer(text, botNode);
+
+                if (!botNode.textContent.trim()) {
+                    botNode.textContent = "Không nhận được dữ liệu.";
+                }
+            } catch (err) {
+                botNode.textContent = "Lỗi server.";
+                console.error(err);
+            } finally {
+                isProcessing = false;
+            }
+        }
+
+        // 👉 ENTER = SEND | SHIFT+ENTER = NEW LINE
+        messageInput.addEventListener('keydown', function (e) {
+            if (e.key === 'Enter' && !e.shiftKey && !isProcessing) {
+                e.preventDefault();
+                handleSubmit(new Event('submit'));
+            }
+        });
+
+        // 👉 AUTO EXPAND TEXTAREA
+        messageInput.addEventListener('input', () => {
+            messageInput.style.height = 'auto';
+            messageInput.style.height = messageInput.scrollHeight + 'px';
+        });
+
+        // 👉 QUICK BUTTON
+        function sendQuickMessage(text) {
+            messageInput.value = text;
+            handleSubmit(new Event('submit'));
+        }
+    </script>
+
+</body>
+
+</html>

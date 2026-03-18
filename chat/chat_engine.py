@@ -1,24 +1,20 @@
 
 from chat.llm import LLM
-from utils.load_document import load_documents
-from core.retrieval.context_builder import ContextBuilder
 from core.retrieval.retriever import Retriever
 from core.retrieval.skip_retrieval import should_skip_retrieval
 from chat.chat_response import ChatResponse
+from core.loader.model_cache import get_or_create_model
 
 class ChatEngine:
     def __init__(self):
-        PATH = 'knowledge/ho-chi-minh/dinh-doc-lap'
+        self.retriever = Retriever()
 
-        self.documents = load_documents(PATH)
-        self.retriever = Retriever(strategy='hybrid')
-        self.context_builder = ContextBuilder(self.documents)
-
-        self.llm = LLM(
-            model="ollama/qwen3:0.6b"
+        self.llm = get_or_create_model(
+            cache_key=("LLM", "ollama/qwen3:0.6b", 0.3, 1024),
+            factory=lambda: LLM(model="ollama/qwen3:0.6b"),
         )
 
-    def chat(self, query: str, threshold: float = 0.8) -> ChatResponse:
+    def chat(self, query: str, threshold=0.5, top_k=20) -> ChatResponse:
         query_clean = query.strip()
 
         skip = should_skip_retrieval(query_clean)
@@ -27,8 +23,8 @@ class ChatEngine:
         context = ""
 
         if not skip:
-            results = self.retriever.search_threshold(query_clean, threshold=threshold)
-            context = self.context_builder.build_text(results) if results else ""
+            results = self.retriever.search_threshold(query_clean, threshold=threshold, top_k=top_k)
+            context = self.retriever.build_context(results) if results else ""
 
         answer_tokens = []
         token_count = 0
@@ -44,6 +40,7 @@ class ChatEngine:
             "num_results": len(results),
             "context_length": len(context),
             "threshold": threshold,
+            "retrieval_engine": "faiss_topic_index",
         }
 
         token_usage = {
@@ -58,10 +55,26 @@ class ChatEngine:
             token_usage=token_usage,
             debug=debug
         )
+    
+    from typing import Generator
+    def chat_stream(
+        self, query: str, threshold=0.5, top_k=20
+        ) -> Generator[str, None, None]:
 
-def chat(query: str) -> ChatResponse:
-    global _engine
-    if "_engine" not in globals():
-        _engine = ChatEngine()
+        query_clean = query.strip()
+        skip = should_skip_retrieval(query_clean)
 
-    return _engine.chat(query)
+        results = []
+        context = ""
+
+        if not skip:
+            results = self.retriever.search_threshold(
+                query_clean, threshold=threshold, top_k=top_k
+            )
+            context = self.retriever.build_context(results) if results else ""
+
+        # stream token
+        for token in self.llm.generate(query_clean, context, stream=True):
+            yield token
+
+        yield "[DONE]"

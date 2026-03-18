@@ -2,8 +2,9 @@ import re
 import string
 from utils.load_stopwords import load_stopwords
 from underthesea import word_tokenize
+from config import path
 
-stopwords, stopwords_dash = load_stopwords()
+stopwords = load_stopwords(path.VIETNAMESE_STOPWORDS)
 
 def clean_text(text):
     text = text.lower()
@@ -19,6 +20,5 @@ def preprocess(text):
     tokens = word_tokenize(text)
 
     tokens = [t for t in tokens if t not in stopwords]
-    tokens = [t for t in tokens if t not in stopwords_dash]
 
     return tokens

@@ -1,5 +1,5 @@
 [CONTEXT_SUMMARY]
-Phần này cung cấp thông tin định danh cơ bản về địa điểm lịch sử Dinh Độc Lập, bao gồm các tên gọi chính và các biến thể phổ biến (như Independence Palace, Reunification Palace, Norodom Palace), các mã định danh trên các nền tảng dữ liệu như Google Place ID, TripAdvisor ID và Wikidata ID, cùng với phân loại của địa điểm (di tích quốc gia đặc biệt, bảo tàng lịch sử, công trình kiến trúc gắn với chiến tranh). Ngoài ra, file cũng cung cấp mô tả ngắn về ý nghĩa lịch sử của dinh – từng là dinh tổng thống của chính quyền Việt Nam Cộng hòa và gắn với sự kiện xe tăng tiến vào dinh ngày 30/4/1975 trong Fall of Saigon, đánh dấu sự kết thúc của Chiến tranh Việt Nam và sự thống nhất đất nước.
+Phần này cung cấp thông tin định danh cơ bản về địa điểm lịch sử Dinh Độc Lập, bao gồm các tên gọi chính và các biến thể phổ biến (như Independence Palace, Reunification Palace, Norodom Palace) cùng với phân loại của địa điểm (di tích quốc gia đặc biệt, bảo tàng lịch sử, công trình kiến trúc gắn với chiến tranh). Ngoài ra, file cũng cung cấp mô tả ngắn về ý nghĩa lịch sử của dinh – từng là dinh tổng thống của chính quyền Việt Nam Cộng hòa và gắn với sự kiện xe tăng tiến vào dinh ngày 30/4/1975 trong Fall of Saigon, đánh dấu sự kết thúc của Chiến tranh Việt Nam và sự thống nhất đất nước.
 
 [CONTENT]
 ## 1 Thông tin định danh cơ bản – Dinh Độc Lập
