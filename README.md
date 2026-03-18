@@ -64,7 +64,7 @@ Response
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/yourusername/vietnam-guide-pass.git
+git clone https://github.com/bqtankiet/tourism-chatbot.git
 cd tourism-chatbot
 
 pip install -r requirements.txt
